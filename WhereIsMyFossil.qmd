@@ -1,3 +1,12 @@
+---
+title: "Where is my fossil?"
+format: html
+author: "E. Miguel Díaz de León Muñóz"
+date:  "2024-10-08"
+last-modified: today
+format: html
+---
+
 # Where is my fossil?
 
 This is a simple app that allows you to find the location of a fossil in the world. You can use the map to find the location of the fossil according to the records of different databases.
