@@ -73,7 +73,7 @@ The community is organized in different groups according to users' profiles:
 - Administrators:
     -Full access to the app.
 
-## Issues known
+## Known issues 
 
 Since the app is in development, there are some issues that need to be fixed:
 
