@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Phylogenetic Tree</title>
+  <script src="https://cdn.jsdelivr.net/npm/phylotree@1.0.0/dist/phylotree.min.js"></script>
+  <style>
+    #tree-container {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="tree-container"></div>
+  <script>
+    function renderTree(newick) {
+      const tree = new phylotree.phylotree(newick);
+      tree.render("#tree-container");
+    }
+  </script>
+</body>
+</html>
