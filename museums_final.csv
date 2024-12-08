@@ -1,0 +1,636 @@
+﻿long,lat,name,opening_hours,phone,website,postcode,county,state,country
+16.35975326,48.20526795,Natural History Museum Vienna,Th-Mo 09:00-18:30; We 09:00-21:00,+43 1 52177-0,https://www.nhm-wien.ac.at/,1010,NA,NA,Austria
+8.942674704,44.40248973,Museo Civico di Storia Naturale Giacomo Doria,Tu-Su 10:00-18:00; Mo off,+39 010 564567,http://www.museidigenova.it/it/content/museo-di-storia-naturale,16121,Genova,Liguria,Italy
+-70.68173899,-33.4420338,Museo Nacional de Historia Natural,NA,NA,NA,8350485,Provincia de Santiago,RegiÃ³n Metropolitana de Santiago,Chile
+-9.150226546,38.71806635,Museum of Natural History and Science,NA,+351 213 921 800; +351 213 921 808,https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia,1250-102,Lisboa,NA,Portugal
+-51.17513679,-30.02963505,Museu Anchieta de Ciências Naturais,NA,NA,NA,91330-002,RegiÃ£o Metropolitana de Porto Alegre,Rio Grande do Sul,Brazil
+-81.61297288,41.51167554,Cleveland Museum of Natural History,Mo,Th-Sa 10:00-17:00; We 10:00-22:00; Su 12:00-17:00|| Jan 1,NA,44106,Cuyahoga County,Ohio,United States
+10.31265133,43.53573326,Museo Storia Naturale del Mediterraneo,NA,NA,NA,57127,Livorno,Toscana,Italy
+18.29837349,40.24921519,Museo Civico di Storia Naturale,NA,NA,NA,73021,Lecce,Puglia,Italy
+120.9822778,14.58329268,National Museum of Natural History,NA,NA,NA,1000,NA,NA,Philippines
+-1.564703481,47.21258709,Muséum d'Histoire Naturelle,10:00-18:00; Tu off; Jan 01,nov-01,NA,44000,Loire-Atlantique,Pays de la Loire,France
+-3.689667774,40.44001257,Museo Nacional de Ciencias Naturales,Tu-Fr 10:00-17:00; Sa,Aug: Sa 10:00-15:00; Mo off; PH Mo 10:00-17:00; Jan 01,NA,28006,NA,Comunidad de Madrid,Spain
+-76.53896027,3.436279924,Departmental Museum of Natural Sciences INCIVA,NA,NA,NA,720025,Cali,Valle del Cauca,Colombia
+-72.92108608,41.31603412,Peabody Museum of Natural History,NA,NA,https://peabody.yale.edu/,06511,New Haven,NA,United States
+-99.06837967,29.73077115,Bandera Natural History Museum,NA,NA,NA,78003,Bandera County,Texas,United States
+57.50239149,-20.16327337,Musée d'Histoire Naturelle,closed,NA,NA,11317,NA,Port Louis,Mauritius
+-0.369171308,39.47927314,Museo de Ciencias Naturales,Tu-Su,Ajuntament de ValÃ¨ncia,NA,46010,Comarca de ValÃ¨ncia,Comunitat Valenciana,Spain
+-87.63542149,41.92698317,The Peggy Notebaert Nature Museum,Mo-Fr 09:00-17:00; Sa-Su 10:00-17:00,NA,https://www.naturemuseum.org/,60614,Cook County,Illinois,United States
+8.270802748,50.00358653,Naturhistorisches Museum,Tu-Fr 10:00-17:00; Sa,NA,NA,55116,NA,Rheinland-Pfalz,Germany
+-0.176001906,51.49651091,Natural History Museum,10:00-17:30,NA,https://www.nhm.ac.uk/,SW7 5BD,NA,England,United Kingdom
+10.5294862,52.27524445,Staatliches Naturhistorisches Museum Braunschweig,Tu, We 09:00-19:00,museum,38106,NA,Niedersachsen,Germany
+-1.255668165,51.75870703,Oxford University Museum of Natural History,Mo-Su 10:00-17:00,NA,NA,OX1 3PW,Oxfordshire,England,United Kingdom
+-84.32783584,33.77393089,Fernbank Museum of Natural History,Mo-Su 10:00-17:00,NA,https://www.fernbankmuseum.org/,30307,DeKalb County,Georgia,United States
+-43.17039755,-22.9540419,Earth Science Museum,NA,NA,NA,22290-240,RegiÃ£o Metropolitana do Rio de Janeiro,Rio de Janeiro,Brazil
+-76.3201459,40.04354461,North Museum of Nature and Science,Mo-Tu off; We-Su 10:00-15:00,+1 717-358-3941,https://northmuseum.org,17603,Lancaster County,Pennsylvania,United States
+-104.9429113,39.74754798,Denver Museum of Nature and Science,Mo-Su 09:00-17:00,NA,https://www.dmns.org/,80205,NA,Colorado,United States
+13.58808259,45.93548763,"Museo di Scienze naturali ""Alvise Comel""",NA,NA,https://www.museocomel.it/,34170,Gorizia,Friuli-Venezia Giulia,Italy
+13.80042106,45.64029803,Museo di Storia Naturale,NA,NA,NA,34139,Trieste,Friuli-Venezia Giulia,Italy
+-82.34927793,23.13961847,Museo Nacional de Historia Natural,Mo-Fr 10:30-17:30; Sa,NA,NA,10102,La Habana Vieja,La Habana,Cuba
+-121.9171993,36.62176227,Pacific Grove Museum of Natural History,We-Su 10:00-16:00,NA,NA,93950,Monterey County,California,United States
+2.220956312,41.41103698,museu de ciències naturals de Barcelona,Mo off; Tu-Sa 10:00-19:00; Su 10:00-20:00,+34 932 56 60 02,https://museuciencies.cat/,08019,BarcelonÃ¨s,Catalunya,Spain
+0.683691666,47.3946138,Muséum d'Histoire Naturelle,Tu-Fr 10:00-12:00,museum@ville-tours.fr,+33 2 47 21 68 08,37000,Indre-et-Loire,Centre-Val de Loire,France
+24.15475174,45.79491115,Natural History Museum,We-Su 10:00-18:00,+40 369 101 782,https://www.brukenthalmuseum.ro/sectoare/naturale,550160,Sibiu,NA,Romania
+3.067019519,50.6266592,Musée d'Histoire Naturelle et de Géologie,Mo-Fr 09:30-17:00; Sa,PH 10:00-18:00; Tu off; Jan 01,NA,59046,Nord,Hauts-de-France,France
+-2.674567876,42.85022554,Museo de Ciencias Naturales,NA,NA,NA,01001,Gasteizko kuadrilla/Cuadrilla de Vitoria,Euskadi,Spain
+-105.272776,40.00687815,Museum of Natural History - Henderson Building,NA,NA,NA,80309,Boulder County,Colorado,United States
+-66.15308724,-17.37368895,Museo de Historia Natural Alcide d'Orbigny,Mo-Fr 09:00-12:30,Museo de Historia Natural Alcide d'Orbigny,NA,NA,Cercado,Cochabamba,Bolivia
+7.358820153,48.07362503,Musée d'Histoire Naturelle et dÉthnographie,NA,+33 3 89 23 84 15,https://www.museumcolmar.org/,68000,Haut-Rhin,Grand Est,France
+-95.6497444,29.59269827,Houston Museum of Natural Science - Sugar Land,NA,NA,NA,77479,Fort Bend County,Texas,United States
+5.916291852,45.5641024,Muséum d'Histoire Naturelle,We 14:00-18:00,+33 4 79 33 39 44,http://www.cg73.fr/index.php?id=1784,73000,Savoie,Auvergne-RhÃ´ne-Alpes,France
+-89.8922694,18.36452965,Museo de la Naturaleza y Arqueología Calakmul,NA,NA,NA,24653,Calakmul,Campeche,Mexico
+28.18941119,-25.75304435,National Museum of Natural History,08:00-14:00,NA,https://ditsong.org.za/en/our-museums/museum-of-natural-history/,0001,City of Tshwane Metropolitan Municipality,Gauteng,South Africa
+0.903901431,51.88953089,Natural History Museum,NA,+44 1206 282941,https://www.cimuseums.org.uk/venues/natural-history-museum.html,CO1 1DN,Essex,England,United Kingdom
+-0.699131342,38.26141278,MUPE Museo Paleontológico,NA,NA,NA,03201,NA,Comunitat Valenciana,Spain
+2.394334874,47.0784389,Museum d'Histoire Naturelle,Mo-Fr 10:00-12:00,Ville de Bourges,NA,18000,Cher,Centre-Val de Loire,France
+-122.0095857,36.96455895,Santa Cruz Museum of Natural History,Tu-Fr 11:00-16:00,NA,NA,95062,Santa Cruz County,California,United States
+-77.02597012,38.891245,National Museum of Natural History,Mo-Su 10:00-17:30,+1 202-633-1000,https://naturalhistory.si.edu,20560,NA,District of Columbia,United States
+5.394594798,43.30378573,Muséum d'Histoire Naturelle,Tu-Su 09:00-18:00,+33 4 91 14 59 50,https://www.museum-marseille.org/,13004,Bouches-du-RhÃ´ne,Provence-Alpes-CÃ´te d'Azur,France
+-70.57365085,-33.39787385,Museo de Historia Natural 'Flaminio Ruiz',NA,NA,NA,7560995,Provincia de Santiago,RegiÃ³n Metropolitana de Santiago,Chile
+-1.478051,43.474313,Museum d'Histoire Naturelle,NA,+33 5 59 42 22 61,http://www.museum.bayonne.fr/,64100,PyrÃ©nÃ©es-Atlantiques,Nouvelle-Aquitaine,France
+3.130694792,47.93862678,Muséum d'Histoire Naturelle de Puisaye (SHNY),NA,33621012181,http://shny.fr/,89120,Yonne,Bourgogne-Franche-ComtÃ©,France
+6.15838649,46.19906949,Natural History Museum,Tu-Su 10:00-17:00,NA,NA,1207,NA,GenÃ¨ve,Switzerland
+-117.1473291,32.73212071,San Diego Natural History Museum,Mo-Su 09:00-17:00; May 30-Aug 30 Th-Fr 09:00-22:00,NA,https://www.sdnhm.org,92134,NA,California,United States
+-69.90886621,18.4705885,Museo de Historia Natural,NA,NA,NA,10204,NA,Distrito Nacional,Dominican Republic
+2.899625464,42.69732065,Muséum d’Histoire Naturelle,NA,+33 4 68 66 30 68,https://www.mairie-perpignan.fr/culture-patrimoine/musees,66000,PyrÃ©nÃ©es-Orientales,Occitanie,France
+-63.58482902,44.64557971,Nova Scotia Museum of Natural History,Mo-Su 09:30-16:30,-8678,NA,B3H 3A6,Halifax County,Nova Scotia,Canada
+-111.6570411,40.25651255,BYU Museum of Paleontology,Mo-Fr 09:00-17:00,NA,https://geology.byu.edu/museum/,84602,Utah County,Utah,United States
+-0.880524144,40.65603964,Museo Paleontológico,NA,NA,NA,NA,Comunidad de Teruel,AragÃ³n,Spain
+-83.69061274,22.41382608,Palacio Wash,NA,NA,NA,20100,NA,Pinar del RÃ­o,Cuba
+12.80708171,38.0863978,Museo Naturalistico,07:20-19:10,NA,NA,91014,Trapani,Sicilia,Italy
+4.737277189,49.85820482,Musée des mineraux et fossiles,NA,NA,NA,08120,Ardennes,Grand Est,France
+-2.129270373,40.06935991,Museo Paleontológico de Castilla-La Mancha - Ars Natura,NA,+34 969 271 600,https://mupaclm.es,16004,NA,Castilla-La Mancha,Spain
+9.47303445,46.23807105,Museo Storico Etnografico Naturalistico della Val Codera,May: Sa-Su 10:00-12:00, 15:00-18:00; Oct: Sa-Su 10:00-12:00,NA,23025,Sondrio,Lombardia,Italy
+15.7449883,48.51294826,Fossilienschauraum,NA,NA,NA,3491,Bezirk Krems,NiederÃ¶sterreich,Austria
+-1.151144585,46.164811,Muséum d'Histoire Naturelle,NA,+33 5 46 41 18 25,https://museum.larochelle.fr/,17000,Charente-Maritime,Nouvelle-Aquitaine,France
+-116.4179336,34.12425493,Hi-Desert Nature Museum,We-Sa 10:00-17:00,17603697212,https://hidesertnaturemuseum.org/,92284,San Bernardino County,California,United States
+-57.54651441,-37.99089475,Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia',Mo-Su 15:00-20:00,+54 223 473-8791,https://www.mardelplata.gob.ar/MuseoScaglia,7600,NA,Buenos Aires,Argentina
+6.552085565,43.61916805,Musée des Fossiles & Minéraux,NA,NA,NA,83830,Var,Provence-Alpes-CÃ´te d'Azur,France
+10.22687406,45.5528514,Museo di Scienze Naturali,Mo-Fr 09:00-12:45,NA,NA,25128,Brescia,Lombardia,Italy
+-68.86485241,-32.89837475,Museo de Ciencias Naturales y Antropológicas 'Juan Cornelio Moyano',Tu-Th 8:00-13:00,NA,NA,5500,SecciÃ³n 9Âª Parque General San MartÃ­n,Mendoza,Argentina
+-91.51876519,14.83321295,Museo de Historia Natural y Casa de la Cultura de Occidente,Mo-Fr 08:00 - 12:00,NA,NA,09001,NA,Quetzaltenango,Guatemala
+76.78592299,30.7481786,Natural History Museum,Tu-Su 10:00-16:30,NA,NA,160019,NA,NA,India
+1.449529403,43.59336327,Muséum d'Histoire Naturelle,Tu-Su 10:00-18:00,+33 5 67 73 84 84,http://www.museum.toulouse.fr,31400,Haute-Garonne,Occitanie,France
+-111.8336575,33.41668609,Arizona Museum of Natural History,Tu-Fr 10:00-17:00, Su 13:00-17:00,museum,85201,Maricopa County,Arizona,United States
+-95.2437645,38.9585713,Natural History Museum,Tu-Sa 09:00-17:00; Su 12:00-16:00; Jun-Jul Tu-Su 09:00-17:00,NA,https://biodiversity.ku.edu/,66045,Douglas County,Kansas,United States
+7.590464143,47.5575892,Naturhistorisches Museum Basel,Tu-Su,NA,NA,4051,NA,Basel-Stadt,Switzerland
+12.21680719,46.14074114,Museo Naturalistico Dolomiti Bellunesi,NA,+39 0439 3328,https://www.dolomitipark.it/,32100,Belluno,Veneto,Italy
+79.86112418,6.911255875,National Museum of Natural History,NA,NA,NA,00700,NA,Western Province,Sri Lanka
+15.2415352,38.22699275,"Museo Etnoantropologico e Naturalistico ""Domenico Ryolo""",NA,NA,NA,98057,Messina,Sicilia,Italy
+121.2364621,14.15599591,UPLB Museum of Natural History,NA,NA,NA,4031,NA,Laguna,Philippines
+-71.82964661,-33.95399626,Museo de Historia Natural,NA,NA,NA,NA,Provincia de Cardenal Caro,RegiÃ³n del Libertador General Bernardo O'Higgins,Chile
+11.72832828,45.76743119,Palazzo Bonaguro Naturalistico,NA,NA,NA,31061,Vicenza,Veneto,Italy
+-78.64091845,35.78231207,North Carolina Museum of Natural Sciences: Nature Research Center,Tu-Su 10:00-17:00,NA,https://naturalsciences.org/,27601,Wake County,North Carolina,United States
+100.4972282,7.00763125,Princess Maha Chakri Sirindhorn Natural History Museum,Tu-Sa 09:00-16:00,NA,https://nhm.psu.ac.th/en/home/,NA,NA,NA,Thailand
+11.87589222,44.2955655,Museo civico di Scienze Naturali Malmerendi,NA,NA,NA,48018,Ravenna,Emilia-Romagna,Italy
+-99.20154492,19.410084,Museo de Historia Natural y Cultura Ambiental,Tu-Su 10:00-17:00,+52 55 536224; +52 55 566268,http://www.sedema.df.gob.mx/museodehistorianatural/,11100,NA,NA,Mexico
+-111.822614,40.76411012,Natural History Museum Of Utah,Th-Tu 10:00-17:00; We 10:00-21:00,NA,https://nhmu.utah.edu,84108,Salt Lake County,Utah,United States
+-64.18108826,-31.42744379,"Museo Provincial de Ciencias Naturales ""Dr. Arturo Umberto Illía""",Tu-Su 10:00-19:00,+54 351 434-4070,https://www.cba.gov.ar/museo-provincial-de-ciencias-naturales/,5000,PedanÃ­a Capital,CÃ³rdoba,Argentina
+-79.9499421,40.44306016,Carnegie Museum of Natural History,NA,NA,https://www.carnegiemnh.org/,15213,Allegheny County,Pennsylvania,United States
+-0.580037676,44.84846602,Muséum d'Histoire Naturelle,NA,NA,https://www.museum-bordeaux.fr/,33000,Gironde,Nouvelle-Aquitaine,France
+-123.0680625,44.04297445,Museum of Natural and Cultural History,We,NA,NA,97403,Lane County,Oregon,United States
+11.56283558,46.47983295,Naturparkhaus Schlern-Rosengarten,Jun 16-Sep 15 Tu 14:00-17:30; Th 09:30-17:30; PH off,+39 0471 642196,NA,39050,Bolzano - Bozen,Trentino-Alto Adige/SÃ¼dtirol,Italy
+-35.73088919,-9.6615184,Museu de História Natural Ufal,NA,NA,NA,57051-090,NA,Alagoas,Brazil
+-68.7247258,-38.4515625,Centro Paleontológico Lago Barreales (CePaLB),NA,NA,NA,NA,NA,NeuquÃ©n,Argentina
+12.15168669,44.54415585,NatuRa - Museo Ravennate di Scienze Naturali,NA,+39 0544 528710,NA,48123,Ravenna,Emilia-Romagna,Italy
+-8.235638185,43.48821982,Museo da Natureza - Sociedade Galega de Historia Natural,NA,NA,NA,15402,Ferrol,Galicia,Spain
+-1.770758873,39.12983207,Aula de la Naturaleza El Encinar,NA,NA,NA,NA,NA,Castilla-La Mancha,Spain
+-122.3115605,47.66052158,Burke Museum of Natural History and Culture,Tu-Su 10:00-17:00; Mo off,-7509,https://www.burkemuseum.org/,98105,King County,Washington,United States
+13.04577535,41.2980446,Museo Naturalistico,NA,NA,NA,04016,Latina,Lazio,Italy
+12.22566662,46.72324845,Naturparkhaus Drei Zinnen,NA,+39 0474 973 017,NA,39034,Bolzano - Bozen,Trentino-Alto Adige/SÃ¼dtirol,Italy
+-56.06415673,-15.6072314,Museu de Geologia,NA,NA,NA,78068-600,NA,Mato Grosso,Brazil
+16.56847668,38.76315096,"Museo Naturalistico ""Libero Gatti""",NA,+39 0961911530,http://www.mnlg.it,88060,Catanzaro,Calabria,Italy
+11.71091394,46.64235855,Naturparkhaus Puez-Geisler,NA,+39 0472 842523,NA,39040,Bolzano - Bozen,Trentino-Alto Adige/SÃ¼dtirol,Italy
+-56.0904659,-15.62486289,Museu de História Natural de Mato Grosso,NA,NA,NA,78065-700,NA,Mato Grosso,Brazil
+126.9377897,37.57671974,Seodaemun Museum of Natural History,NA,NA,NA,03661,NA,NA,South Korea
+16.07658853,38.353612,Museo di storia naturale di Cittanova,NA,+39 0966 656161,https://www.incittanova.it/museo_civico.htm,89022,Reggio Calabria,NA,Italy
+-3.686461366,40.40816765,Earth and Universe Hall,NA,NA,NA,28014,NA,Comunidad de Madrid,Spain
+-97.44904575,35.19441461,Sam Noble Oklahoma Museum of Natural History,NA,NA,http://www.snomnh.ou.edu/,73019,Cleveland County,Oklahoma,United States
+9.703150689,45.04721982,Museo civico di Storia Naturale,NA,NA,NA,29100,Piacenza,Emilia-Romagna,Italy
+8.7413001,49.9393039,Fossilien- und Heimatmuseum Messel,Apr-Oct: Mo-Su 11:00-17:00; Nov-Mar: PH, Su 11:00-17:00,museum,64409,Landkreis Darmstadt-Dieburg,Hessen,Germany
+-106.6656462,35.09789694,New Mexico Museum of Natural History & Science,NA,NA,https://www.nmnaturalhistory.org/,87104,Bernalillo County,New Mexico,United States
+-0.611224033,51.49090268,Eton Natural History Museum,NA,NA,NA,SL4 6EW,Windsor and Maidenhead,England,United Kingdom
+-3.569995724,40.41541445,Naturalario del Humedal,NA,NA,https://coslada.es/semys/ciudadanos/centro-de-educacion-ambiental-el-naturalario/viewer,28821,NA,Comunidad de Madrid,Spain
+-78.63950257,35.78215825,North Carolina Museum of Natural Sciences,Tu-Su 10:00-17:00,+1 919-707-9800,https://naturalsciences.org/,27601,Wake County,North Carolina,United States
+-8.545702513,42.88674161,Natural History Museum,Mo off; Tu-Sa 10:00-14:00,Universidade de Santiago de Compostela,+34 881 81 63 50,15782,Santiago,Galicia,Spain
+27.58409513,47.16680432,Muzeul de Istorie Natural,NA,NA,NA,700098,IaÈ™i,NA,Romania
+28.82078494,47.02349422,National Museum of Ethnography and Natural History,Tu-Su 10:00-18:00,+373 22 238 848,https://www.muzeu.md/,MD-2009,NA,NA,Moldova
+-51.17726205,-30.05162212,Museum of Natural Sciences,Tu-Su 10:00-12:00,NA,NA,90690-000,RegiÃ£o Metropolitana de Porto Alegre,Rio Grande do Sul,Brazil
+12.39347927,46.16373025,Museo di Storia Naturale dell'Alpago,NA,NA,NA,32010,Belluno,Veneto,Italy
+-70.11605745,41.75382231,Cape Cod Museum of Natural History,NA,+1(508)896-3867,NA,02631,Barnstable County,Massachusetts,United States
+-95.38993549,29.72212245,Houston Museum of Natural Science,Mo-Su 09:00-18:00,-5980,https://www.hmns.org/,77030,Harris County,Texas,United States
+-58.97727005,-27.4460191,Museo de Ciencias Naturales Augusto B. Schulz,NA,NA,NA,H3500ALD,NA,Chaco,Argentina
+110.3437363,1.555591479,Sarawak Natural History Museum,NA,NA,NA,93000,Kuching,Sarawak,Malaysia
+9.198048947,45.4752271,Museo Civico di Storia Naturale - Paleolab,NA,+39 06 39967998,https://www.assodidatticamuseale.it/,20100,Milano,Lombardia,Italy
+13.23846178,-8.81535745,Our Lady Muxima - National Museum of Natural History of Angola,NA,+244 222 334 055,NA,NA,MunicÃ­pio de Luanda,Luanda,Angola
+32.34291165,34.89367967,Natural History Museum,NA,NA,NA,8560,Î”Î®Î¼Î¿Ï‚ Î‘ÎºÎ¬Î¼Î±,ÎšÏÏ€ÏÎ¿Ï‚,Cyprus
+10.29614241,42.33373809,Museo di storia naturale,NA,NA,NA,NA,Livorno,Toscana,Italy
+-75.68875526,45.41271418,Canadian Museum of Nature,Mo-We,NA,NA,K2P 1A4,NA,Ontario,Canada
+81.69993995,7.7131965,Natural History and Science Museum,NA,NA,NA,30100,Manmunai North DS Division,Eastern Province,Sri Lanka
+12.36420319,43.9728064,Ossevatorio Naturalistico Valmarecchia,NA,NA,http://www.atlantide.net/amaparco/osservatorio-naturalistico-valmarecchia/,47825,Rimini,Emilia-Romagna,Italy
+-58.43784711,-34.60548186,Museo Argentino de Ciencias Naturales,Mo-Su 14:00-19:00,+54 11 4982-6595,http://www.macnconicet.gob.ar,C1405DJR,NA,Ciudad AutÃ³noma de Buenos Aires,Argentina
+7.449445794,46.94193025,Natural History Museum of Bern,Mo 14:00-17:00; Tu,contact@nmbe.ch,+41 31 350 71 11,3005,Verwaltungskreis Bern-Mittelland,Bern/Berne,Switzerland
+-6.253347805,53.3398814,"National Museum of Ireland, Natural History",Closed temporarily,+353 1 6777444,https://www.museum.ie/en-IE/Museums/Natural-History,D02 FR90,County Dublin,NA,Ireland
+-71.41321087,41.78683284,Museum of Natural History and Planetarium,Mo-Su 09:30-15:30; PH off,NA,https://www.providenceri.gov/museum/,02905,Providence County,Rhode Island,United States
+-121.9181081,37.80138089,Blackhawk Natural History Museum,NA,NA,https://www.blackhawkmuseum.org/,94506,Contra Costa County,California,United States
+10.75664676,49.11181195,Fossilien- und Steindruckmuseum Gunzenhausen,NA,NA,NA,91710,Landkreis WeiÃŸenburg-Gunzenhausen,Bayern,Germany
+98.85842329,18.88880896,Natural Science Museum,NA,NA,NA,NA,NA,NA,Thailand
+32.58711068,-25.97716096,Museu da História Natural,NA,NA,NA,0101-09,NA,NA,Mozambique
+-1.856305725,50.72240575,Bournemouth Natural Science Museum,Tu 10:00-16:00,NA,NA,BH1 3NS,"Bournemouth, Christchurch and Poole",England,United Kingdom
+16.69800913,40.17358642,Museo Naturalistico Provinciale,NA,NA,NA,75025,Matera,Basilicata,Italy
+-7.686869644,40.39855595,Museu Natural da Electricidade de Seia,NA,NA,https://museusdaenergia.org/patrimonios/8-museu-natural-da-electricidade-de-seia,6270-538,Guarda,NA,Portugal
+-49.21909546,-25.43671918,Museu de História Natural do Capão da Imbuia,Tu-Su 09:00-16:45,NA,https://www.curitiba.pr.gov.br/conteudo/museu-de-historia-natural-do-capao-da-imbuia-bosque-municipal-capao-da-imbuia/332,82900-010,RegiÃ£o Metropolitana de Curitiba,ParanÃ¡,Brazil
+-43.98977695,-19.92212733,Museu de Ciências Naturais - Prédio 40,NA,NA,NA,30535-610,RegiÃ£o Metropolitana de Belo Horizonte,Minas Gerais,Brazil
+-159.6576121,22.1303031,Kokee Natural History Museum,Mo-Fr 10:00-16:00,335-9975,NA,NA,KauaÊ»i County,Hawaii,United States
+12.6059499,50.87623417,Naturalienkabinett und Stadtmuseum,Apr-Sep Tu-Fr 10:00-16:00; Apr-Sep Sa,Stadt Waldenburg,NA,08396,Zwickau,Sachsen,Germany
+32.58694935,-25.97716356,Museu da História Natural,NA,NA,NA,0101-09,NA,NA,Mozambique
+-35.74440585,-9.669667396,Museu de História Natural,NA,NA,NA,57010-000,NA,Alagoas,Brazil
+-68.37558895,-34.64560154,Museo de Historia Natural de San Rafael,NA,54 02627 423095,https://www.sanrafael.gov.ar/museo/,M5600,NA,Mendoza,Argentina
+-50.13732716,-29.97675401,Museu de Ciências Naturais,NA,+55 51 3627-1309,https://www.ufrgs.br/ceclimar/museu-de-ciencias-naturais-1,95625-000,AglomeraÃ§Ã£o Urbana do Litoral Norte,Rio Grande do Sul,Brazil
+-69.38483393,19.06581415,Museum of Nature,NA,NA,NA,25000,NA,Hato Mayor,Dominican Republic
+-54.28446782,-29.63506805,Museu Paleontológico e Arqueológico Walter Ilha,NA,NA,NA,NA,NA,Rio Grande do Sul,Brazil
+-2.99955781,37.90824098,"Centro Temático ""Frondosa Naturaleza""",NA,NA,NA,23470,NA,AndalucÃ­a,Spain
+115.9700809,-31.89961685,Museum of Natural History,NA,NA,NA,6935,NA,Western Australia,Australia
+-57.57498107,-25.2496068,Museo de Historia Natural,NA,NA,NA,001519,NA,NA,Paraguay
+-117.0340745,34.0437645,Mousley Museum of Natural History,NA,+1 (909) 790-3163,http://www.sbcounty.gov/museum/branches/mousley.htm,92399,San Bernardino County,California,United States
+9.325665916,39.8341414,Museo Di Scienze Naturali,NA,NA,NA,08037,NA,Sardigna/Sardegna,Italy
+10.80826791,45.76631572,Palazzo Veneziano / Museo storia naturale,NA,NA,https://www.comunemalcesine.it/cultura-e-storia-il-museo-di-storia-naturale/,37018,Verona,Veneto,Italy
+-87.8262137,41.8932492,Hal Tyrrell Trailside Museum of Natural History,Sa-We 09:00-17:00; Fr off,NA,https://fpdcc.com/places/locations/trailside-museum-natural-history/,60305,Cook County,Illinois,United States
+8.501094252,40.37957479,Museo naturalistico del grifone,NA,NA,NA,08010,Aristanis/Oristano,Sardigna/Sardegna,Italy
+-83.57963768,41.61909348,The Promedica Museum of Natural History,NA,NA,NA,43609,Lucas County,Ohio,United States
+9.567639481,46.1311346,Museo Scienze Naturali,Mo off; Tu 14:30-17:30; We off; Th 14:30-17:30; Fr off; Sa-Su 14:30-17:30,NA,NA,23017,Sondrio,Lombardia,Italy
+0.722147383,40.72352501,Ecomuseu del Parc Natural del Delta de l'Ebre,NA,NA,NA,43580,Baix Ebre,Catalunya,Spain
+-96.76269938,43.5392159,Delbridge Museum of Natural History,Sa-Su 9:00-17:00,NA,https://greatzoo.org/,57104,Minnehaha County,South Dakota,United States
+-16.91211933,32.649584,Natural History Museum of Funchal,NA,NA,NA,9004-546,NA,NA,Portugal
+-59.02641671,-31.87095321,Museo Histórico Natural,NA,NA,NA,3240,Distrito Lucas al Sud,Entre RÃ­os,Argentina
+8.313138756,45.9062,"Museo naturalistico ""Mario Bertolani""",NA,NA,NA,28897,Verbano-Cusio-Ossola,Piemonte,Italy
+36.69586829,-3.3694017,Natural History National Museum (hominids aisle),NA,NA,NA,23101,NA,Arusha,Tanzania
+36.69617766,-3.369587614,Natural History National Museum,NA,NA,NA,23101,NA,Arusha,Tanzania
+-40.87223568,-14.85655406,Museo de História Natural do Interior da Bahia,NA,NA,NA,45078-276,NA,Bahia,Brazil
+13.6461107,47.61135775,Fossilienausstellung Gamsjäger,NA,NA,NA,4822,Bezirk Gmunden,NA,Austria
+7.269735469,44.2048376,Parco naturale delle Alpi Marittime,NA,NA,NA,NA,Cuneo,Piemonte,Italy
+-71.29211584,-41.13261184,Museo Paleontológico,NA,NA,NA,R8400,NA,RÃ­o Negro,Argentina
+-99.6601123,19.28279628,Museo de Historia  Natural,NA,NA,NA,50120,Toluca,NA,Mexico
+9.453750532,41.19814735,Museo Geomineralogico Naturalistico,NA,NA,NA,07024,Sassari,Sardigna/Sardegna,Italy
+-47.7431155,-19.7429528,Museu Paleontológico,NA,NA,NA,NA,NA,Minas Gerais,Brazil
+-75.17127617,39.95683546,Academy of Natural Sciences of Drexel University,We-Fr 10:00-16:30; Sa,NA,NA,19103,Philadelphia County,Pennsylvania,United States
+-49.948307,-22.22085499,Museu de Paleontologia,NA,NA,NA,17500-000,NA,SÃ£o Paulo,Brazil
+13.78739611,41.80571644,Museo Naturalistico P.N.A.,NA,NA,NA,67032,L'Aquila,Abruzzo,Italy
+-3.929208952,38.98621714,Museo de Ciudad Real (Sección de Arqueología y Ciencias Naturales),NA,NA,https://cultura.castillalamancha.es/museo-de-ciudad-real/,13001,NA,Castilla-La Mancha,Spain
+25.52696559,45.40892978,"Centrul de vizitare ""Alexandru Beldie"" al Parcului Natural Bucegi",NA,NA,https://www.bucegipark.ro/obiective.php?show=centru_vizitare,105500,Prahova,NA,Romania
+-82.80455922,21.87700445,Museo de Historia Natural,NA,NA,NA,25100,NA,Isla de la Juventud,Cuba
+-89.63913392,20.97100379,Museo de Historia Natural,Tu-Su 09:00-15:00,NA,NA,97000,MÃ©rida,YucatÃ¡n,Mexico
+7.851812262,44.70093665,Museo Civico di Storia Naturale Craveri,Mo-Th 15:00-18:00; Fr-Sa off; Su 10:00-12:30,NA,NA,12042,Cuneo,Piemonte,Italy
+28.59639875,-20.15579685,The Natural History Museum of Zimbabwe,NA,+263-9-250 045,https://naturalhistorymuseumzimbabwe.com/,NA,Bulawayo,Bulawayo Province,Zimbabwe
+10.90657242,42.92103394,Museo Minerario del Parco Minerario Naturalistico di Gavorrano,NA,NA,https://www.parcominerario.it/,58023,Grosseto,Toscana,Italy
+-76.7895631,17.96717365,Natural History Museum of Jamaica,NA,NA,NA,NA,Kingston,NA,Jamaica
+-89.19734614,13.6755025,Museo de Historia Natural de El Salvador,NA,NA,NA,1011,NA,San Salvador,El Salvador
+96.1611495,16.7897336,Natural History Museum,NA,NA,NA,11222,NA,á€›á€”á€ºá€€á€¯á€”á€ºá€á€­á€¯á€„á€ºá€¸á€’á€±á€žá€€á€¼á€®á€¸,Myanmar (Burma)
+-3.20305565,37.4127556,Centro Paleontológico Fonelas P-1,NA,NA,NA,18515,Comarca de Guadix,AndalucÃ­a,Spain
+-73.97423625,40.78110057,American Museum of Natural History,Mo-Su 10:00-17:30,+1 212-769-5100,https://www.amnh.org/,10024,New York County,New York,United States
+76.95666906,8.510157268,Natural History Museum,Tu,NA,NA,695001,Thiruvananthapuram,Kerala,India
+2.28788271,41.6018011,"museo de ciencias naturales - ""LaTela""",Tu-Sa 16:00-19:00; Su 11:00-14:00,+34 938709651,http://www.museugranollersciencies.org,08402,VallÃ¨s Oriental,Catalunya,Spain
+2.288055017,41.60186075,Museu de Ciències Naturals de Granollers,NA,NA,NA,08402,VallÃ¨s Oriental,Catalunya,Spain
+-82.37037578,29.63593739,Florida Museum of Natural History,Mo-Sa 10:00-17:00,University of Florida,NA,32611,Alachua County,Florida,United States
+-72.99677285,41.9255348,Peoples State Forest Nature Museum,May Mo[-1]-Oct Mo[2] Sa-Su 10:30-16:30,NA,https://psfnaturemuseum.org,06065,Northwest Hills Planning Region,NA,United States
+-77.03711694,-12.07744614,Museo de Historia Natural (UNMSM),Mo-Sa 09:00-17:00; Su 10:00-14:00,+51 1 4710117;+51 1 2656819,NA,15494,NA,Lima,Peru
+-109.5198944,40.45534259,Utah Field House of Natural History State Park Museum,NA,NA,https://stateparks.utah.gov/park/utah-field-house-of-natural-history-state-park-museum,84078,Uintah County,Utah,United States
+12.90971877,42.09468176,Museo Preistorico Naturalistico Federico Cesi,NA,NA,NA,NA,Roma Capitale,Lazio,Italy
+-101.1789884,19.6977412,"Museo de Historia Natural ""Manuel Martínez Solórzano""",Mo-Fr 09:00-16:00; Sa,NA,NA,58020,Morelia,MichoacÃ¡n,Mexico
+-64.73492891,-21.53486071,Museo Paleontológico,NA,NA,NA,NA,Provincia Cercado,Tarija,Bolivia
+-87.16671775,14.0864837,Museo de Historia Natural,NA,NA,NA,11100,Distrito Central,Francisco MorazÃ¡n,Honduras
+-90.52992285,14.59698015,"Museo Nacional de Historia Natural ""Jorge Ibarra""",NA,NA,https://mcd.gob.gt/museo-nacional-de-historia-natural/,01013,NA,Departamento de Guatemala,Guatemala
+-118.2886906,34.01707995,Natural History Museum of Los Angeles County,Mo-Su 09:30-17:00,-4441,https://nhm.org/,90007,Los Angeles County,California,United States
+-89.57676309,14.9991622,Museo de Paleontología y Arqueología Roberto Woolfolk Saravia,NA,NA,NA,19001,Estanzuela,Zacapa,Guatemala
+-46.55313332,-23.4433254,Museu de Ciências Naturais,NA,NA,NA,07081-120,RegiÃ£o Metropolitana de SÃ£o Paulo,SÃ£o Paulo,Brazil
+-96.32093694,30.66657869,Bravos Valley Museum of Natural History,Tu-Sa 10:00-17:00,NA,https://www.brazosvalleymuseum.org/,77802,Brazos County,Texas,United States
+15.30100215,37.85016194,Museo naturalistico Villa Caronia,NA,NA,NA,98039,Messina,Sicilia,Italy
+112.5257141,37.86675681,Geological museum,NA,NA,NA,030024,NA,å±±è¥¿çœ,China
+121.4577001,31.23686549,Shanghai Natural History Museum,Tu-Su 09:00-17:15,NA,http://www.snhm.org.cn:7070/eg/index.htm,200070,NA,ä¸Šæµ·å¸‚,China
+-99.29979112,38.88949018,Sternberg Museum of Natural History,Tu-Sa 09:00-18:00; Su 13:00-18:00,NA,NA,67601,Ellis County,Kansas,United States
+-5.49292835,36.186298,Museo de Historia Natural,NA,NA,NA,11370,Campo de Gibraltar,AndalucÃ­a,Spain
+-73.0302717,-36.81539239,Museo de Historia Natural de Concepción,NA,+56 412 310 932,https://www.mhnconcepcion.gob.cl,4050044,Provincia de ConcepciÃ³n,RegiÃ³n del BiobÃ­o,Chile
+118.7901099,32.06166998,Nanjing Paleontological Museum,NA,NA,NA,210008,NA,æ±Ÿè‹çœ,China
+-49.3937526,-26.223387,Museu Natural Entomológico Ornith Bollmann,NA,NA,http://museunaturalsbs.blogspot.com.br/,89287-705,NA,Santa Catarina,Brazil
+-71.62131027,-33.04666082,Museo de Historia Natural,NA,NA,NA,2380035,Provincia de ValparaÃ­so,RegiÃ³n de ValparaÃ­so,Chile
+-1.070198067,50.78212741,Cumberland House Natural History Museum,NA,NA,https://portsmouthnaturalhistory.co.uk/,PO4 0DD,NA,England,United Kingdom
+14.60440314,36.94537249,Museo Civico di Storia Naturale,Tu-Sa 09:00-17:00, PH 09:00-13:00; Mo off,museum,97013,Ragusa,Sicilia,Italy
+12.6385525,42.0353927,Museo delle Scienze Naturali,NA,NA,NA,00013,Roma Capitale,Lazio,Italy
+-112.6276908,49.73409698,Natural History Building,NA,NA,NA,T1M 1N3,Town of Coaldale,Alberta,Canada
+-93.10586843,16.75929872,Museo de Paleontología,NA,NA,NA,29010,Tuxtla GutiÃ©rrez,Chiapas,Mexico
+-73.23958313,6.678417297,Museo Paleontológico y Arqueológico,Mo-Fr 09:00-18:00,NA,NA,684041,NA,Santander,Colombia
+9.00217795,40.10266245,Museo naturalistico,NA,NA,NA,09080,Aristanis/Oristano,Sardigna/Sardegna,Italy
+12.1097396,42.63657308,Museo Naturalistico,NA,NA,http://www.museolubriano.com,01020,Viterbo,Lazio,Italy
+-85.9591576,15.91257635,Museo y Piscinas Naturales Riveras del Pedregal,NA,NA,NA,32101,NA,ColÃ³n,Honduras
+-72.29871553,40.94778441,South Fork Natural History Museum and Nature Center,NA,-10902,https://sofo.org/,11932,Suffolk County,New York,United States
+103.8586318,36.0693289,Gansu Geological Museum,NA,NA,NA,730046,NA,ç”˜è‚ƒçœ,China
+-86.98343074,34.60508129,Cook Museum of Natural Science,NA,NA,NA,35601,Morgan County,Alabama,United States
+98.97064445,18.79612855,Museum of World Insects and Natural Wonders,NA,NA,https://www.thailandinsect.com/,50200,NA,NA,Thailand
+-111.9080435,40.43231291,Museum of Natural Curiosity,NA,NA,https://www.thanksgivingpoint.org/experience/museum-of-natural-curiosity/,84043,Utah County,Utah,United States
+11.11624162,42.76043702,Museo di storia naturale della Maremma,NA,NA,NA,58100,Grosseto,Toscana,Italy
+15.3783637,40.4383273,Museo Naturalistico degli Alburni,NA,NA,NA,NA,Salerno,Campania,Italy
+-99.15778578,19.45024503,Museo de Geología,Tu-Su 10:00-17:00,NA,https://www.geologia.unam.mx/igl/museo,06400,NA,NA,Mexico
+121.5565455,38.86951195,Dalian Museum of Natural History,NA,NA,NA,116000,NA,è¾½å®çœ,China
+12.890173,43.02849815,Museo Naturalistico del Parco di Colfiorito,NA,NA,NA,06034,Perugia,Umbria,Italy
+-71.60082659,-33.62273324,Museo de Historia Natural e Histórico de San Antonio,NA,NA,NA,2720000,Provincia de San Antonio,RegiÃ³n de ValparaÃ­so,Chile
+12.51987265,42.23437923,Museo Naturalistico del Monte Soratte,NA,NA,http://www.museiresina.it/musei/museo-naturalistico-del-monte-soratte/,00060,Roma Capitale,Lazio,Italy
+-82.30864114,34.83776452,Harrison Hall of Natural Science,NA,NA,https://www.ropermountain.org/pages.asp?titleid=harrisonhall,29616,Greenville County,South Carolina,United States
+115.9740696,40.45473432,Yanqing Geological Museum,NA,NA,NA,102100,NA,åŒ—äº¬å¸‚,China
+-41.38842322,-20.78980833,Museu de História Natural do Sul do Espírito Santo,Mo-Sa 08:00-18:00,5.52836E+11,http://www.muses.ufes.br/,29550-000,NA,EspÃ­rito Santo,Brazil
+-138.9975491,61.35414705,Kluane Museum of Natural History,NA,NA,https://kluanemuseum.ca/,Y1A 3V4,NA,Yukon,Canada
+33.62695415,34.9164498,Museum of Natural History,NA,NA,NA,6010,Î”Î®Î¼Î¿Ï‚ Î›Î¬ÏÎ½Î±ÎºÎ±Ï‚,ÎšÏÏ€ÏÎ¿Ï‚,Cyprus
+141.914703,43.5522581,Takikawa Natural History Museum,NA,NA,NA,073-0033,NA,NA,Japan
+-105.1941098,39.64892255,Morrison Natural History Museum,Mo-Su 10:00-16:00,NA,http://www.mnhm.org/246/Morrison-Natural-History-Museum,80465,Jefferson County,Colorado,United States
+-4.652666319,40.48076571,Museo de la Naturaleza Valle del Alberche,Tu-Su 10:00-14:00,34920281285,http://www.museobarraco.wordpress.com,05110,NA,Castilla y LeÃ³n,Spain
+-62.08081149,-38.88369999,Museo Municipal de Ciencias Naturales Carlos Darwin,NA,NA,NA,8109,Cuartel VI,Buenos Aires,Argentina
+-51.15283092,-29.16349767,Museu de Ciências Naturais - UCS,NA,NA,NA,95070-410,NA,Rio Grande do Sul,Brazil
+-92.9334619,18.00185132,Museo de Historia Natural,NA,NA,NA,86040,Centro,Tabasco,Mexico
+-49.99193922,-25.24890001,Museu de Geologia,NA,NA,NA,NA,NA,ParanÃ¡,Brazil
+-99.03681006,19.54691379,Museo de historia natural,NA,NA,NA,55127,NA,NA,Mexico
+-91.81226175,33.58749115,Turner Neal Museum of Natural History & Pomeroy Planetarium,NA,NA,NA,71655,Drew County,Arkansas,United States
+-76.60095121,2.442966535,Museo de historia natural,NA,NA,NA,190003,NA,Cauca,Colombia
+-39.73623081,-7.18614845,Museu de Paleontologia de Santana do Cariri,NA,NA,NA,NA,NA,CearÃ¡,Brazil
+-99.66083154,19.28319135,Museo de Ciencias Naturales,Tu-Su 10:00-17:00,(722) 212 01 24,NA,50120,Toluca,NA,Mexico
+-100.3144469,25.71229885,Museo de Fauna y Ciencias Naturales,NA,NA,NA,64500,NA,Nuevo LeÃ³n,Mexico
+-105.469185,28.19571995,Museo de paleontología,NA,NA,NA,33080,Delicias,Chihuahua,Mexico
+-109.9146944,22.88291501,Museo de Historia Natural de Cabo San Lucas,10:00-19:00,+52 624 105 0661,https://www.loscabosguide.com/museum-cabo-san-lucas/,23450,Municipio de Los Cabos,Baja California Sur,Mexico
+-102.2862642,21.8527886,Museo de Historia Natural,NA,NA,NA,20277,Municipio de Aguascalientes,Aguascalientes,Mexico
+-79.94467821,40.46537241,Center for PostNatural History,NA,NA,NA,15224,Allegheny County,Pennsylvania,United States
+-6.453540065,38.86971462,Aula de la Naturaleza de Arroyo de San Serván,NA,NA,NA,06870,NA,Extremadura,Spain
+4.528456465,7.516557282,Museum of Natural History,Mo-Sa 08:00-16:00,NA,NA,220282,Ife Central,Osun,Nigeria
+-106.7796338,32.31260656,Museum of Nature & Science,NA,NA,NA,88005,DoÃ±a Ana County,New Mexico,United States
+-96.80641085,32.78692804,Perot Museum of Nature and Science,Mo-Sa 10:00-17:00; Su 12:00-17:00,NA,https://www.perotmuseum.org/,75201,Dallas County,Texas,United States
+0.109078564,49.4877689,Muséum d'Histoire Naturelle,NA,+33 2 35 41 37 28,https://www.museum-lehavre.fr/,76600,Seine-Maritime,Normandie,France
+-58.01352271,-31.40101205,Museo de Antropología y Ciencias Naturales de Concordia,NA,5.43454E+11,NA,E3200BDF,Distrito Suburbios,Entre RÃ­os,Argentina
+-91.29140876,46.20814386,Cable Natural History Museum,NA,+1 715 798 3890,https://www.cablemuseum.org/,54821,Bayfield County,Wisconsin,United States
+-58.84886699,-27.46555325,"Museo de Ciencias Naturales ""Amado Bonpland""",NA,NA,NA,3400,NA,Corrientes,Argentina
+-84.11075885,9.932535182,Museo de Ciencias Naturales La Salle,NA,NA,NA,10108,CantÃ³n de San JosÃ©,NA,Costa Rica
+-96.61524655,33.15836032,Heard Natural Science Museum,NA,NA,NA,75609,Collin County,Texas,United States
+-59.50755975,-37.40366205,Archivo y Museo Histórico y de Ciencias Naturales Dr. Aurelio de Lusarreta,NA,NA,https://www.flickr.com/photos/buenosairesmiprovincia/29444523592,7003,NA,Buenos Aires,Argentina
+-124.0844856,40.87151992,Natural History Museum,NA,+1 (707) 826-4479,http://www2.humboldt.edu/natmus/,95521,Humboldt County,California,United States
+-1.932310992,52.44930669,Lapworth Museum of Geology,Mo-Fr 10:00-17:00; Sa,NA,NA,B15 2GR,NA,England,United Kingdom
+-51.47062043,-25.3519025,Museu de Ciências Naturais de Guarapuava,NA,NA,NA,85055-040,NA,ParanÃ¡,Brazil
+94.6606761,40.1274921,Dunhuang Natural Museum,NA,NA,NA,736200,NA,ç”˜è‚ƒçœ,China
+-79.53760335,8.967153536,Museo de Ciencias Naturales,NA,NA,NA,0823,Distrito de PanamÃ¡,Provincia de PanamÃ¡,Panama
+113.8033377,36.09261885,Linzhou Geological Museum,NA,NA,NA,NA,NA,æ²³å—çœ,China
+-75.62478254,35.23451601,Frisco Native American Museum & Natural History Center,NA,(252) 995-4440,https://nativeamericanmuseum.org,27936,Dare County,North Carolina,United States
+125.4260396,43.82693611,Museum of natural history,NA,NA,NA,130000,NA,å‰æž—çœ,China
+-0.723992432,38.08852468,Museo Arqueológico Paleontológico,Mo-Fr 09:00-14:00,NA,NA,03078,el Baix Segura / La Vega Baja del Segura,Comunitat Valenciana,Spain
+-106.47438,36.33029667,Ruth Hall Museum of Paleontology,NA,NA,https://www.ghostranch.org/activities/the-ruth-hall-museum-of-paleontology/,NA,Rio Arriba County,New Mexico,United States
+-99.26111608,33.5904386,The Whiteside Museum of Natural History,NA,NA,NA,76380,Baylor County,Texas,United States
+-46.82136349,-22.44023848,Museu de História Natural,NA,NA,NA,13974-340,NA,SÃ£o Paulo,Brazil
+-70.71282301,-30.03476837,Museo Entomológico y de Historia Natural,NA,NA,NA,1760000,Provincia de Elqui,RegiÃ³n de Coquimbo,Chile
+93.96741241,26.5150779,Natural History Museum (Robin's Museum),NA,NA,NA,785621,Golaghat,Assam,India
+-77.79308585,17.9004545,Natural History Museum,NA,NA,NA,NA,Saint Elizabeth,NA,Jamaica
+6.891755816,45.069945,Sede del parco naturale del Gran Bosco di Salbertrand,NA,NA,NA,10050,Torino,Piemonte,Italy
+-79.86344221,36.68653724,Virginia Museum of Natural History,Mo-Sa 09:00-17:00,+1 276 634 4141,https://www.vmnh.net,24112,NA,Virginia,United States
+9.196909662,45.47421543,Museo Civico di Storia Naturale - Biolab,NA,+39 06 39967998,NA,20100,Milano,Lombardia,Italy
+105.1364901,28.17677595,Xingwen World Geological Park Museum,NA,NA,NA,NA,å…´æ–‡åŽ¿,å››å·çœ,China
+120.2474432,31.11839279,Xishan  Geological Museum,NA,NA,NA,NA,NA,æ±Ÿè‹çœ,China
+-61.74745874,-36.60356665,Museo de Historia y Ciencias Naturales de Daireaux,NA,NA,NA,6555,NA,Buenos Aires,Argentina
+-62.50202178,-36.75968339,Museo del Inmigrante y Ciencias Naturales,NA,NA,NA,6417,NA,Buenos Aires,Argentina
+-103.4664698,42.66655102,Trailside Museum of Natural History,NA,NA,NA,69339,Dawes County,Nebraska,United States
+-67.57678986,-39.03149575,Museo Patagónico de Ciencias Naturales,NA,NA,NA,R8332,NA,RÃ­o Negro,Argentina
+-112.3930672,34.52417389,Highlands Center for Natural History,NA,NA,https://highlandscenter.org/,86303,Yavapai County,Arizona,United States
+-64.2927279,-36.61862425,Museo de Historia Natural de La Pampa,NA,NA,NA,L6300,NA,La Pampa,Argentina
+-114.005993,46.87061875,Montana Natural History Center / Five Valleys Land Trust,NA,NA,https://www.montananaturalist.org,59801,Missoula County,Montana,United States
+14.19114987,42.04659685,Museo Naturalistico e Archeologico,NA,NA,NA,66018,Chieti,Abruzzo,Italy
+-65.70324415,-39.42403835,"Museo Paleontológico Municipal ""Héctor Cabaza""",NA,NA,NA,R8363,NA,RÃ­o Negro,Argentina
+-45.53688439,-23.01655539,Museu de História Natural,NA,NA,NA,12070-350,RegiÃ£o Metropolitana do Vale do ParaÃ­ba e Litoral Norte,SÃ£o Paulo,Brazil
+-4.537403118,43.07645593,Casa de la naturaleza de Pesaguero,NA,NA,NA,39572,NA,Cantabria,Spain
+-68.53778497,-31.52946807,Museo de Ciencias Naturales,NA,NA,NA,J5400ARL,NA,San Juan,Argentina
+16.45462575,39.74928915,Museo del Mare della Riserva naturale Foce del fiume Crati,NA,+39 0981 952185,https://www.riservetarsiacrati.it/,87011,Cosenza,NA,Italy
+106.4037456,29.82133796,Chongqing Natural History Museum,NA,+86 23 6352 1630,NA,400715,NA,é‡åº†å¸‚,China
+-65.03978008,-42.76217895,Museo Provincial de Ciencias Naturales y Oceanográfico,NA,NA,NA,U9120,NA,Chubut,Argentina
+-80.76327249,28.38695366,Brevard Museum of History and Natural Science,NA,NA,https://www.brevard-museum.com/,32926,Brevard County,Florida,United States
+-50.22801234,-23.04894089,Museu De história natural,Mo-Sa 08:00-20:00,NA,NA,86380-000,NA,ParanÃ¡,Brazil
+-71.41666821,-32.72996495,Museo de Historia Natural de Puchuncaví,Tu-Fr 10:00-17:00,56322791369,NA,NA,Provincia de ValparaÃ­so,RegiÃ³n de ValparaÃ­so,Chile
+170.5044489,-45.86560744,Dunedin Museum of Natural Mystery,NA,NA,NA,9010,Dunedin City,Otago,New Zealand
+-2.420611363,36.88660043,Museo Paleontológico de La Ballena,NA,NA,http://museodelaballena.ayuntamientoviator.com/,04240,NA,AndalucÃ­a,Spain
+119.3156476,41.5953663,Ningcheng National Geology Museum,NA,NA,NA,NA,NA,å†…è’™å¤è‡ªæ²»åŒº á ¦á ªá ¦á · á ®á £á ©á ­á ¤á ¯ á ¤á ¨ á ¥á ªá ¡á ·á ²á ¡á ­á ¡á ¨ á µá  á °á  á ¬á £ á £á ·á £á ¨,China
+-92.71431847,33.3369827,Arkansas Museum of Natural Resources,We-Sa 08:00-17:00; Su 13:00-17:00; Jan 01 off; Nov Th[4] off; Dec 24-25 off,NA,https://www.arkansasstateparks.com/parks/arkansas-museum-natural-resources,71762,Union County,Arkansas,United States
+98.44294568,24.94955649,Tenchong Museum of Geothermy and Geology,NA,NA,NA,NA,è…¾å†²å¸‚,äº‘å—çœ,China
+12.63504101,45.5061871,Museo di storia naturale,NA,+39 041 862 7167,https://jmuseo.it/,30016,Venezia,Veneto,Italy
+103.3232457,24.82776255,The Stone Forest Karst Geological Research Museum,NA,NA,NA,652200,çŸ³æž—å½æ—è‡ªæ²»åŽ¿,äº‘å—çœ,China
+9.431496355,54.78590625,Naturwissenschaftliches Museum Flensburg,NA,NA,https://www.naturwissenschaftliches-museum.de/,24937,NA,Schleswig-Holstein,Germany
+-85.951098,40.1259724,Taylor Center of Natural History,NA,NA,NA,46060,Hamilton County,Indiana,United States
+94.38100441,29.65555972,Nyingchi Natural History Museum,NA,NA,NA,860000,NA,è¥¿è—è‡ªæ²»åŒº à½–à½¼à½‘à¼‹à½¢à½„à¼‹à½¦à¾à¾±à½¼à½„à¼‹à½£à¾—à½¼à½„à½¦à¼,China
+-68.42811319,-39.008405,Museo de Ciencias Naturales,NA,NA,NA,Q8316,NA,NeuquÃ©n,Argentina
+107.6427421,24.07151685,Qibainong National Geological Park Museum,NA,NA,NA,NA,å¤§åŒ–ç‘¶æ—è‡ªæ²»åŽ¿,å¹¿è¥¿å£®æ—è‡ªæ²»åŒº,China
+-98.98720757,19.73808884,Museo Paleontológico de Santa Lucía Quinamétzin,NA,NA,NA,55755,Zumpango,NA,Mexico
+116.6574308,43.40230865,Dalai Nur Nature Museum,NA,NA,NA,NA,NA,å†…è’™å¤è‡ªæ²»åŒº á ¦á ªá ¦á · á ®á £á ©á ­á ¤á ¯ á ¤á ¨ á ¥á ªá ¡á ·á ²á ¡á ­á ¡á ¨ á µá  á °á  á ¬á £ á £á ·á £á ¨,China
+-70.11585729,41.75346761,Cape Cod Museum of Natural History,"We-Su 10:00-15:00 open winter hours; Dec 31-Feb 16 closed || see online calendar""",NA,NA,02631,Barnstable County,Massachusetts,United States
+117.6774801,27.74573145,Wuyishan Nature Museum,NA,NA,NA,NA,NA,ç¦å»ºçœ,China
+-70.6575742,-33.4622601,Museo Paleontológico de Chile,NA,NA,https://museo-paleontologico-chile.es.tl/#google_vignette,8370403,Provincia de Santiago,RegiÃ³n Metropolitana de Santiago,Chile
+-68.22247729,44.39474575,George B. Dorr Museum of Natural History,NA,NA,NA,04609,Hancock County,Maine,United States
+-72.61063448,43.17030376,The Nature Museum,NA,NA,NA,05146,Windham County,Vermont,United States
+-114.4121101,43.0704937,Richard Arthur Olsen Museum of Natural History,NA,NA,NA,NA,Lincoln County,Idaho,United States
+-114.4124304,43.07079001,Shoshone Bird Museum of Natural History,May-Oct Mo-Su 10:00-18:00,NA,NA,NA,Lincoln County,Idaho,United States
+-78.70269117,34.32584275,North Carolina Museum of Natural Sciences at Whiteville,NA,NA,NA,28472,Columbus County,North Carolina,United States
+76.67437252,12.3057484,Regional Museum of Natural History Mysore,NA,NA,NA,570001,Mysuru taluk,Karnataka,India
+-70.36610391,-38.53460505,Museo Paleontológico de Las Lajas,NA,NA,NA,Q8347,NA,NeuquÃ©n,Argentina
+-70.36925391,-38.52672015,"Museo Regional y Paleontológico ""Emilia Ondetti de Fix""",NA,NA,NA,Q8347,NA,NeuquÃ©n,Argentina
+-113.5609268,28.94805594,Museo de naturaleza y cultura,NA,NA,NA,22980,Municipio de San QuintÃ­n,Baja California,Mexico
+77.50128261,10.23075293,Shembaganur Museum of Natural History,NA,NA,https://www.tamilnadutourism.tn.gov.in/destinations/shembaganur-museum-of-natural-history,624100,Kodaikanal,Tamil Nadu,India
+-0.464143236,39.26679576,Museu Valencia  d’Historia Natural,NA,NA,http://www.mvhn.es/,46230,NA,Comunitat Valenciana,Spain
+-49.17478513,-20.95179821,"Museu de Paleontologia ""Pedro Candolo""",NA,NA,NA,15890-000,RegiÃ£o Metropolitana de SÃ£o JosÃ© do Rio Preto,SÃ£o Paulo,Brazil
+-121.9171372,36.62181615,Pacific Grove Natural History Museum,NA,NA,NA,93950,Monterey County,California,United States
+11.08475636,49.4518446,Naturhistorisches Museum,Tu-Th 10:00-17:00; Fr 10:00-21:00; Sa 13:00-17:00; Su 10:00-17:00; Mo closed,+49 (0) 911 22 79 70,https://www.naturhistorischesmuseumnuernberg.de/,90402,NA,Bayern,Germany
+-101.3460971,25.5057249,Museo de Paleontología Rincón Colorado,NA,NA,NA,25970,General Cepeda,Coahuila,Mexico
+-95.4066453,29.04612347,Brazosport Museum of Nature Science,NA,NA,NA,77531,Brazoria County,Texas,United States
+16.03850805,39.95370175,Museo Naturalistico e Paleontologico di Rotonda,NA,NA,NA,NA,Potenza,Basilicata,Italy
+10.5227771,43.72215873,Museo di storia naturale dell'UniversitÀ  di Pisa,Oct-May Mo-Sa 09:00-19:00; Oct-May Su 09:00-20:00; Jun-Sep 10:00-20:00,+39 050 2212970,https://www.msn.unipi.it/it/,56011,Pisa,Toscana,Italy
+5.0289424,47.32185233,Muséum d'Histoire Naturelle,Mo,14:00-18:00,NA,21000,CÃ´te-d'Or,Bourgogne-Franche-ComtÃ©,France
+-0.6612378,51.79080833,Natural History Museum at Tring,NA,NA,https://www.nhm.ac.uk/tring,HP23 6AP,Hertfordshire,England,United Kingdom
+73.0761117,33.68652823,Pakistan Museum of Natural History,NA,NA,NA,04404,NA,ÙˆÙØ§Ù‚ÛŒ Ø¯Ø§Ø±Ø§Ù„Ø­Ú©ÙˆÙ…Øª Ø§Ø³Ù„Ø§Ù… Ø¢Ø¨Ø§Ø¯,Pakistan
+14.4038738,35.88481663,National Museum of Natural History,Mo-Su 09:00-17:00; Closed: 24, 1 January,NA,RBT 1190,NA,Tramuntana,Malta
+14.2390435,36.04659933,Gozo Nature Museum,Mo-Su 09:00-17:00,+356 21 556 153,https://www.heritagemalta.org/museums/naturalscience/naturalscienceinfo.html,VCT 1440,NA,GÄ§awdex,Malta
+-73.5586209,5.637055826,Museo El Fósil,NA,NA,NA,154001,Villa de Leyva,BoyacÃ¡,Colombia
+-76.4925865,44.22738173,Miller Museum of Geology,Mo-Fr 09:00-16:30,+1 613-533-6767,https://www.queensu.ca/millermuseumofgeology/,K7L 3X4,Kingston,Ontario,Canada
+-115.133822,36.17992493,Las Vegas Natural History Museum,Mo-Su 09:00-16:00; easter 11:00-16:00; Jan 01 12:00-16:00; Dec 24 10:00-15:00; Nov Th[4] off; Dec 25 off,NA,https://www.lvnhm.org/,89101,Clark County,Nevada,United States
+-103.6595507,41.83011633,Wyo-Braska Natural History Museum,NA,NA,NA,69341,Scotts Bluff County,Nebraska,United States
+-71.5900813,43.73366763,Squam Lakes Natural Science Center,NA,NA,https://www.nhnature.org/,03245,Grafton County,New Hampshire,United States
+-71.6886773,43.22091463,Little Nature Museum,NA,NA,https://nemanet.org/museums/little-nature-museum/,03229,Merrimack County,New Hampshire,United States
+-90.8259556,37.51810363,Taum Sauk Nature Museum,NA,NA,NA,NA,Reynolds County,Missouri,United States
+-91.5356188,41.66200193,Museum of Natural History,NA,NA,https://mnh.uiowa.edu/,52242,Johnson County,Iowa,United States
+-95.5938913,42.31804393,Battle Hill Museum of Natural History,NA,NA,NA,51006,Ida County,Iowa,United States
+-90.1565185,32.32414733,Mississippi Museum of Natural Science,NA,NA,https://www.mdwfp.com,39202,Hinds County,Mississippi,United States
+-66.1603426,18.40963813,Museo de Ciencias Naturales,NA,NA,NA,00961,NA,Puerto Rico,United States
+-66.1602123,18.40996343,Museo de Geología,NA,NA,NA,00961,NA,Puerto Rico,United States
+-70.1039375,41.28029083,Maria Mitchell Natural Science Museum,NA,NA,https://www.mariamitchell.org/natural-science-museum,02554,NA,Massachusetts,United States
+-71.115646,42.37846573,Harvard Museum of Natural History,Mo-Su 09:00-17:00,NA,https://hmnh.harvard.edu/,02318,Middlesex County,Massachusetts,United States
+-79.7895073,34.19209973,Harllee Natural History Museum,NA,NA,NA,29501,Florence County,South Carolina,United States
+-80.143015,26.04323403,Graves Museum of Archaeology and Natural History,NA,NA,NA,33004,Broward County,Florida,United States
+-84.0002,34.14300003,Lanier Museum of Natural History,NA,NA,NA,30158,Gwinnett County,Georgia,United States
+-85.8202463,33.69658183,Anniston Museum of Natural History,Tu-Sa 10:00-17:00; Su 13:00-17:00; May Mo[-1]-Sep Mo[1] 10:00-17:00,NA,https://www.exploreamag.org/,36205,Calhoun County,Alabama,United States
+-76.9871686,40.15776513,The Oakes Museum of Natural History,"Sa 13:00-17:00||on appointment""",+1 717 766 2511,https://www.messiah.edu/Oakes/?vn7493,17027,Cumberland County,Pennsylvania,United States
+-96.7625002,32.77707363,Dallas Museum of Natural History,NA,NA,NA,75226,Dallas County,Texas,United States
+-95.1872,29.78510003,Proctor Museum of Natural Science,NA,NA,https://www.proctormuseum.us/,77015,Harris County,Texas,United States
+-120.844345,35.34691883,Morro Bay Museum of Natural History,NA,+1 (805) 772-2694,https://www.ccnha.org/morrobay/,93442,San Luis Obispo County,California,United States
+-119.7143913,34.44101843,Santa Barbara Museum of Natural History,Mo-Su 10:00-17:00; Jan 01 off; Nov Th[4] off; Dec 25 off,NA,NA,93105,Santa Barbara County,California,United States
+11.9709676,51.47804903,Kunst- und Naturalienkammer,NA,NA,https://www.francke-halle.de/de/ausstellung/kunst-und-naturalienkammer/,06110,NA,Sachsen-Anhalt,Germany
+4.4728894,52.16488803,Naturalis Biodiversity Centre,NA,+31 71 568 7600,https://www.naturalis.nl,2333 CR,NA,Zuid-Holland,Netherlands
+9.659708,45.70574383,"Museo Civico di Scienze Naturali ""E. Caffi""",Apr-Sep Tu-Fr 09:00-13:00,Su,NA,24129,Bergamo,Lombardia,Italy
+-84.5371593,39.11047973,Museum of Natural History and Science,NA,NA,NA,45203,Hamilton County,Ohio,United States
+55.4530468,-4.622956674,Musée d'histoire naturelle,Mo-Th 8:30-16:30; Fr 8:30-12:00; Sa 9:00-13:00; PH closed,+248 4321333,NA,NA,Bel Air,NA,Seychelles
+11.3307712,43.31419153,Museo di Storia Naturale Accademia dei Fisiocritici,NA,NA,https://www.fisiocritici.it/it/,53100,Siena,Toscana,Italy
+0.1219693,52.20306903,Sedgwick Museum of Earth Sciences,Mo-Fr 10:00-17:00; Sa 10:00-16:00,NA,http://www.sedgwickmuseum.org/,CB2 3EQ,Cambridgeshire,England,United Kingdom
+-0.1530173,50.83709753,Booth Museum of Natural History,NA,NA,https://brightonmuseums.org.uk/booth-museum-of-natural-history/,BN1 5AA,Brighton and Hove,England,United Kingdom
+10.529551,52.27639783,Ausstellungshalle Staatliches Naturhistorisches Museum,NA,NA,NA,38106,NA,Niedersachsen,Germany
+6.627117,50.49027413,"Haus der Fossilien -""Alte Schmiede""",NA,NA,https://www.naturzentrum-eifel.de/aktiv-drinnen/haus-der-fossilien.html,53947,Kreis Euskirchen,Nordrhein-Westfalen,Germany
+-101.8479479,35.18898643,AC Museum of natural history,NA,NA,https://www.actx.edu/nhm/,79109,Potter County,Texas,United States
+15.5585749,41.45648163,Museo Provinciale di Storia Naturale,NA,+39 0881 706460,NA,71100,Foggia,Puglia,Italy
+9.1479082,49.97400943,Naturwissenschaftliches Museum,Th-Tu,13:00-16:00; Dec 24,NA,63739,NA,Bayern,Germany
+2.7093066,39.76417423,Museu Balear de Ciències Naturals,Tu-Sa 10:00-18:00; Su 10:00-14:00,NA,https://www.museucienciesnaturals.org/,07100,Serra de Tramuntana,Illes Balears,Spain
+25.5310807,46.74881353,Muzeu de naturalistica,NA,NA,NA,537135,Harghita,NA,Romania
+-80.8780354,-2.232192674,Museo Paleontológico Megaterio,NA,(593 4) 2 780018,https://www.upse.edu.ec/megaterio/,240202,Santa Elena,Santa Elena,Ecuador
+7.821063,47.58969473,Ausstellung zur Geologie des Dinkelbergs,NA,NA,NA,79618,Landkreis LÃ¶rrach,Baden-WÃ¼rttemberg,Germany
+7.2269227,45.71024523,Museo Regionale di Scienze Naturali,2022 Dec 03-31: Mo-Su,NA,NA,11018,NA,Valle d'Aosta / VallÃ©e d'Aoste,Italy
+12.1295619,47.05101233,Naturparkhaus Rieserferner-Ahrn,NA,NA,NA,39030,Bolzano - Bozen,Trentino-Alto Adige/SÃ¼dtirol,Italy
+12.2861538,50.58039993,Vogtländisches Goldmuseum und Naturalienkabinett,NA,NA,NA,08491,Vogtlandkreis,Sachsen,Germany
+-17.7622319,28.68725983,"Museo Insular de Bellas Artes, Ciencias Naturales y Etnografía",Mo-Fr 10:00-20:00; Sa 10:00-14:00,NA,NA,38700,NA,NA,Spain
+-16.8945974,32.66221723,Museum of Natural History,NA,NA,https://ifcn.madeira.gov.pt,9050-251,NA,NA,Portugal
+-65.2220697,-26.83158177,Museo Miguel Lillo de Ciencias Naturales,NA,NA,https://museo.lillo.org.ar/,T4000JFE,NA,TucumÃ¡n,Argentina
+-65.4031619,-24.79574647,Museo de Ciencias Naturales-UNSa,Tu-Su 15:30-19:30,NA,NA,A4400ANC,NA,Salta,Argentina
+11.6224995,44.83805933,Museo Civico di Storia Naturale,Tu-Su 09:00-18:00; Mo off,NA,NA,44121,Ferrara,Emilia-Romagna,Italy
+9.2079026,46.03088433,Museo Etnografico e Naturalistico Val Sanagra,Jan-Dec Su[-1] 10:00-12:30,14:30-17:30,museum,22010,Como,Lombardia,Italy
+7.6886914,45.06462873,Museo Regionale di Scienze Naturali,NA,+39 800 329329,https://mrsntorino.it/,10123,Torino,Piemonte,Italy
+-51.1208412,-30.07352737,Museu de Paleontologia Irajá Damiani Pinto,Mo-Fr 08:00-12:00,NA,NA,91509-900,RegiÃ£o Metropolitana de Porto Alegre,Rio Grande do Sul,Brazil
+7.2797089,43.70194753,Museum d'Histoire Naturelle,Tu-Su 10:00-18:00,+33 4 97 13 46 80,http://www.mhnnice.org,06300,Alpes-Maritimes,Provence-Alpes-CÃ´te d'Azur,France
+-99.1249933,23.72666283,Museo de Historia Natural de Tamaulipas,NA,NA,NA,87080,Victoria,Tamaulipas,Mexico
+-78.6499693,-1.671594474,Museo Ciencias Naturales,NA,NA,NA,060103,Riobamba,Chimborazo,Ecuador
+12.0574307,45.77857793,Museo di Storia Naturale e Archeologia,NA,NA,NA,31044,Treviso,Veneto,Italy
+-58.7849018,-38.16763317,Museo de Ciencias Naturales Gesué P. Noseda,NA,+54 2261 442227,NA,7635,NA,Buenos Aires,Argentina
+-59.1409221,-37.32505467,Museo de Ciencias Naturales,NA,NA,NA,B7000GKN,NA,Buenos Aires,Argentina
+-9.3899737,38.79817103,Museu de História Natural,Tu-Su 10:00-18:00,+351 219 238 563,https://cm-sintra.pt/atualidade/cultura/museus-municipais-de-sintra/museu-de-historia-natural-de-sintra,2710-602,Lisboa,NA,Portugal
+8.7414212,49.93931053,Fossilien- und Heimatmuseum Messel,Apr-Oct: Mo-Su 11:00-17:00; Nov-Mar: PH,Su 11:00-17:00,museum,64409,Landkreis Darmstadt-Dieburg,Hessen,Germany
+120.159624,30.27893583,Zhejiang Nature Museum,NA,NA,NA,310014,NA,æµ™æ±Ÿçœ,China
+12.2702529,43.81863653,Museo Naturalistico del Parco Sasso Simone e Simoncello,NA,NA,NA,47864,Rimini,Emilia-Romagna,Italy
+10.3701322,46.47443643,Museo Mineralogico Naturalistico Valli di Bormio,NA,NA,NA,23032,Sondrio,Lombardia,Italy
+9.13202,45.18895083,Museo de Historia Natural de Pavia,NA,NA,NA,27100,Pavia,Lombardia,Italy
+-6.3786586,55.74115153,Islay Natural History Trust Port Charlotte,NA,NA,NA,PA48 7TU,Argyll and Bute,Alba / Scotland,United Kingdom
+1.8941337,43.89955493,Musée d'Histoire Naturelle Philadelphe Thomas,NA,+33 5 63 57 36 31,https://www.ville-gaillac.fr/sous-sous-menu-principal/museum-dhistoire-naturelle-philadelphe-thomas,81600,Tarn,Occitanie,France
+-0.8867122,41.64751193,Museo de Ciencias Naturales de la Universidad de Zaragoza,Mo-Sa 11:00-14:00,museonat@unizar.es,+34 976 762096,50006,Zaragoza,AragÃ³n,Spain
+6.8912172,45.06973213,Ecomuseo e sede del Parco Naturale del Gran Bosco di Salbertrand,NA,NA,NA,NA,Torino,Piemonte,Italy
+-120.4340504,34.94894793,Santa Maria Natural History Museum,NA,NA,https://www.naturalhistorysantamaria.com/,93548,Santa Barbara County,California,United States
+8.5479602,47.37517663,Naturhistorisches Museum,Tu-Su 10:00-17:00; Th 10:00-17:00,UniversitÃ¤t ZÃ¼rich,NA,8006,Bezirk ZÃ¼rich,ZÃ¼rich,Switzerland
+-4.2379758,43.29383143,Museo de la Naturaleza,NA,+34 942 701 808,http://museosdecantabria.com/,39592,NA,Cantabria,Spain
+-77.0476903,-12.02015107,Museo Geológico y Paleontológico (UNI),Mo-Fr 09:00-16:30,+51 1 3822174;+51 1 4811070 Anexo 346,NA,15102,NA,Lima,Peru
+-76.9808198,-12.13242637,Museo de Historia Natural Vera Alleman,Mo-Fr 09:00-16:00; Sa 09:00-13:00,+51 1 7080000 Anexo 2271,https://www.urp.edu.pe/museo/,15039,NA,Lima,Peru
+14.086989,37.92970143,Museo Naturalistico Francesco Mino  Palumbo,NA,NA,NA,90013,Palermo,Sicilia,Italy
+-65.328456,-24.17878727,Museo del Instituto de Geología y Minería,NA,NA,NA,Y4602FSB,NA,Jujuy,Argentina
+9.297152,45.85335403,Centro visitatori Riserva Naturale Sasso Malascarpa,Mo-Su 09:00-19:00,NA,NA,22035,Como,Lombardia,Italy
+-74.081759,4.642361226,Museum of natural history,Mo-Fr 08:00-12:00,NA,NA,111321,NA,NA,Colombia
+16.3765602,48.52684593,Fossilienschauraum,NA,NA,NA,2115,Bezirk Korneuburg,NiederÃ¶sterreich,Austria
+-61.2901137,-38.98679277,Museo de Ciencias Naturales Vicente Di Martino,NA,482601,NA,8153,Cuartel II,Buenos Aires,Argentina
+-157.926107,21.64097883,Museum of Natural History at BYUH,NA,NA,https://sciences.byuh.edu/museum-natural-history,96762,Honolulu County,Hawaii,United States
+-117.5020206,33.91302733,World Museum of Natural History,NA,NA,https://lasierra.edu/world-museum-of-natural-history/,92515,Riverside County,California,United States
+-59.6616822,-33.67500117,Museo Paleontológico,NA,NA,NA,B2930,NA,Buenos Aires,Argentina
+-73.588969,41.25741003,Trailside nature museum,NA,NA,https://www.friendsoftrailside.org/,10518,Westchester County,New York,United States
+-64.3605852,-30.42064537,Museo Arqueológico Paleontológico e Histórico,NA,NA,NA,5200,PedanÃ­a Toyos,CÃ³rdoba,Argentina
+113.5567544,22.12575753,Natural and Agrarian Museum,Mo-Fr 10:00-17:00,NA,https://nature.iacm.gov.mo,999078,NA,æ¾³é–€ Macau,China
+108.9419991,34.19915043,Shaanxi Museum of Natural History,NA,NA,NA,710061,NA,é™•è¥¿çœ,China
+-51.2278539,-30.07219227,Museu de Geologia,Mo-Fr 09:00-12:00,NA,NA,90840-030,RegiÃ£o Metropolitana de Porto Alegre,Rio Grande do Sul,Brazil
+12.8621624,46.49261213,Museo Naturalistico ed Esposizione Faunistica,NA,NA,NA,33025,Udine,Friuli-Venezia Giulia,Italy
+10.4911548,48.57772253,Naturhistorisches Museum,NA,NA,NA,89407,Landkreis Dillingen an der Donau,Bayern,Germany
+-59.2744119,-35.00381337,Museo Municipal de Paleontología y Ciencias Naturales,NA,NA,NA,6605,NA,Buenos Aires,Argentina
+16.5416235,40.60091793,Visit center - naturalistic museum,10:00-19:00,+39 324 9517937,https://www.facebook.com/oasisangiuliano?ref=hl,75010,Matera,Basilicata,Italy
+9.507657,45.31514213,Museo di scienze naturali,NA,NA,NA,26900,Lodi,Lombardia,Italy
+9.0050312,44.99075373,"Civico Museo di scienze naturali ""Giuseppe Orlandi""",Mo-We 09:00-12:30,NA,NA,27058,Pavia,Lombardia,Italy
+4.301693,46.94802933,Muséum d'Histoire Naturelle,Tu-Su 10:00-13:00,NA,NA,71400,SaÃ´ne-et-Loire,Bourgogne-Franche-ComtÃ©,France
+21.938449,46.77284503,Natural Sciences Museum,Tu 10:00-12:00,NA,NA,417595,Bihor,NA,Romania
+26.925767,46.93383303,Natural Sciences Museum,9:00-17:00; Mo closed,0233/742.528,http://www.muzeu-neamt.ro/,611040,NeamÈ›,NA,Romania
+26.3738282,46.93456163,Natural Sciences Museum,9:00-17:00 Apr-Sep; 10:00-16:00 Oct-Mar; Mo closed,0233/224.211; 0733.981.796,http://www.muzeu-neamt.ro/,610119,NeamÈ›,NA,Romania
+11.5474593,45.54985583,Museo Naturalistico Archeologico,NA,NA,NA,36100,Vicenza,Veneto,Italy
+9.1374362,50.20994353,Mineralien & Fossilien Museum,"Jan-Dec Su[2] 14:00-17:00 || sowie nach Vereinbarung""",+49 6051 7897172,http://www.kinzigtaler-mineralienclub.de/,63584,Main-Kinzig-Kreis,Hessen,Germany
+-87.5439801,33.21188553,Alabama Museum of Natural History,Mo-Sa 10:00-16:30,NA,https://almnh.museums.ua.edu/,35487,Tuscaloosa County,Alabama,United States
+30.0535269,-1.946679974,Kandt House Museum of Natural History,NA,NA,NA,NA,Akarere ka Nyarugenge,Umujyi wa Kigali,Rwanda
+-8.6158404,41.14616693,Museu de História Natural e da Ciência da Universidade do Porto - Polo Central,Tu-Su 10:00-13:00,NA,NA,4050-368,Porto,NA,Portugal
+14.2059767,42.09032983,Centro visitatori Museo Naturalistico Parco Nazionale Majella,NA,NA,https://www.parcomajella.it/,66015,Chieti,Abruzzo,Italy
+8.1140821,45.54605773,Museo del Paesaggio Storico e Naturale del Territorio della CiviltÀ  della Vitivinicoltura,NA,+39 015 2534118,https://www.comune.candelo.bi.it/c096012/zf/index.php/servizi-aggiuntivi/index/index/idtesto/33,13878,Biella,Piemonte,Italy
+-103.2062003,44.07371483,Museum of Geology,NA,NA,https://www.sdsmt.edu/student-life/campus-points-of-interest/museum-of-geology/index.html,57701,Pennington County,South Dakota,United States
+122.2289109,10.64048753,UPV Museum of Natural Sciences,NA,NA,NA,5023,NA,Iloilo,Philippines
+11.4099329,45.50512893,Museo Archeologico Naturalistico G. Zannato,NA,NA,NA,36075,Vicenza,Veneto,Italy
+-79.4433681,21.92688903,Museo de Ciencias Naturales,NA,NA,NA,61100,NA,NA,Cuba
+9.150519,45.18863193,Museo di Storia Naturale,NA,NA,https://museokosmos.eu,27100,Pavia,Lombardia,Italy
+12.3285362,45.44166533,Natural History Museum,Tu-Fr 09:00-17:00; Sa-Su 10:00-18:00,NA,NA,30135,Venezia,Veneto,Italy
+12.6612207,45.95535603,"Museo Civico di Storia Naturale ""Silvia Zenari""",NA,NA,NA,33170,Pordenone,Friuli-Venezia Giulia,Italy
+12.24147,44.13715013,Museo di scienze naturali,NA,NA,NA,47023,NA,Emilia-Romagna,Italy
+-43.9145393,-19.89515647,Museu de História Natural da UFMG,NA,NA,NA,31080-057,RegiÃ£o Metropolitana de Belo Horizonte,Minas Gerais,Brazil
+-4.9453839,37.75851573,Museo de Ciencias Naturales,NA,NA,NA,NA,NA,AndalucÃ­a,Spain
+85.8319312,20.29953243,Natural History Museum,NA,NA,NA,751005,Bhubaneswar (M.Corp.),Odisha,India
+-6.029449,39.84700173,Exposicion Animales Naturalizados,NA,NA,NA,NA,NA,Extremadura,Spain
+-3.741293,40.39281353,Yacimiento Paleontológico de la Carpetana. Estación de Carpetana Metro Madrid,6:00-01:30,+34 902444403,NA,28047,NA,Comunidad de Madrid,Spain
+103.773624,1.301429626,Lee Kong Chian Natural History Museum,NA,+65 6601 3333,https://lkcnhm.nus.edu.sg/nus/,117377,NA,NA,Singapore
+-82.381633,23.13598023,Museo de Historia Natural Felipe Poey,NA,NA,NA,10308,Plaza de la RevoluciÃ³n,La Habana,Cuba
+39.1914756,-6.167458674,Natural History Museum,NA,NA,NA,71102,NA,Unguja Mjini Magharibi,Tanzania
+11.0022538,45.43837693,Natural History Museum Verona,Tu-Su 10:00-18:00; Dec 25 off; Dec 26 off; Jan 1 off; Jan 2 off,+39 045 8079400,http://www.museostorianaturaleverona.it,37129,Verona,Veneto,Italy
+-55.8851154,-27.36930527,Museo de Ciencias Naturales e Historia Antonio Ruiz de Montoya,Tu-Fr 08:00-12:00,Instituto Montoya,+54 376 444 0055,3300,NA,Misiones,Argentina
+-44.9935029,-21.23222497,Museu de Ciências Naturais,NA,NA,NA,37200-000,NA,Minas Gerais,Brazil
+-57.9354567,-34.90899307,La Plata Museum,PH,Universidad Nacional de La Plata,NA,B1900FWA,NA,Buenos Aires,Argentina
+11.2541931,46.58727173,Fossilienmuseum,NA,NA,NA,39010,Bolzano - Bozen,Trentino-Alto Adige/SÃ¼dtirol,Italy
+12.0036807,42.95263223,Museo di Scienze Naturali,Sa,NA,NA,06062,Perugia,Umbria,Italy
+4.3764944,50.83650933,Museum for Natural Sciences of Belgium,Mo-Su 10:00-18:00,NA,https://www.naturalsciences.be,1000,Brussel-Hoofdstad - Bruxelles-Capitale,NA,Belgium
+-3.5991079,37.01790413,"Aula de la Naturaleza ""El Aguadero""",NA,+34 958 48 97 59,https://elaguadero.es/,18640,Comarca del Valle de LecrÃ­n,AndalucÃ­a,Spain
+6.3706561,43.95111193,Exposition de Fossiles,NA,NA,NA,04330,Alpes-de-Haute-Provence,Provence-Alpes-CÃ´te d'Azur,France
+7.7086725,44.84608203,Museo civico di storia naturale,Tu-We 09:00-12:30; Th 09:00-12:30,NA,NA,10022,Torino,Piemonte,Italy
+8.2490643,45.70302593,Museo di Scienze Naturali,NA,NA,NA,13864,Vercelli,Piemonte,Italy
+-63.1818843,-17.79271257,Museo de Historia Natural Noel Kempf Mercado,Mo-Fr 08:00-12:00,NA,NA,NA,Provincia AndrÃ©s IbÃ¡Ã±ez,Santa Cruz,Bolivia
+8.035672,44.69861313,Museo Archeologico e Scienze Naturali Federico Eusebio,Tu-Fr 15:00-18:00; Sa,PH 10:00-13:00,NA,12051,Cuneo,Piemonte,Italy
+-79.9396489,32.78483903,Mace Brown Museum of Natural History,Th-Tu 11:00-16:00,(843) 953-5589,https://geology.cofc.edu/natural-history-museum/,29401,Charleston County,South Carolina,United States
+-94.7420745,31.26841893,Naranjo Museum of Natural History,NA,+1 936 639 3466,http://naranjomuseum.org/,75904,Angelina County,Texas,United States
+-73.5612048,5.636668626,Museo Paleontológico,NA,NA,NA,154001,Villa de Leyva,BoyacÃ¡,Colombia
+-78.4901559,-0.211490574,Museo Historia Natural,NA,+593 22976300,NA,170413,Quito,Pichincha,Ecuador
+-57.5102539,-37.84027237,Natural Science Museum Pachamama,NA,+54 223 4693837,NA,7609,NA,Buenos Aires,Argentina
+-60.5288502,-31.72711997,Museo de Ciencias Naturales,NA,NA,NA,E3100,Distrito Sauce,Entre RÃ­os,Argentina
+-1.0890556,41.11453403,Museo de Paleontología,NA,NA,http://museosantacruzdenogueras.es/museo.htm,NA,Jiloca,AragÃ³n,Spain
+10.9524276,44.39806733,Mostra Naturalistica Gli ambienti del Parco;gli ambienti del parco,Mo-Fr 08:30-20:00,NA,NA,41052,Modena,Emilia-Romagna,Italy
+87.5851779,43.82556843,Xinjiang Geology and minerals museum,NA,NA,NA,830000,NA,æ–°ç–†ç»´å¾å°”è‡ªæ²»åŒº Ø´Ù‰Ù†Ø¬Ø§Ú­ Ø¦Û‡ÙŠØºÛ‡Ø± Ø¦Ø§Ù¾ØªÙˆÙ†ÙˆÙ… Ø±Ø§ÙŠÙˆÙ†ÛŒ,China
+7.8721361,44.02029613,Museo del Territorio: Il Bosco Naturale,NA,NA,NA,NA,Provincia di Imperia,Liguria,Italy
+-97.9014328,22.29564913,Casa de La Naturaleza,NA,NA,NA,89367,Tampico,Tamaulipas,Mexico
+-5.8551831,43.35871843,Museo de Geología,24-jul,NA,NA,33071,NA,NA,Spain
+9.7030099,45.04720223,Museo Storia Naturale,NA,NA,NA,29122,Piacenza,Emilia-Romagna,Italy
+11.3570956,46.50111763,Naturmuseum SÀ¼dtirol,Tu-Su 10:00-18:00; Mo off,+39 0471 412964,https://www.natura.museum/,39100,Bolzano - Bozen,Trentino-Alto Adige/SÃ¼dtirol,Italy
+-52.3411417,-31.77468827,Museu de História Natural da UCPel,NA,NA,NA,96010-000,AglomeraÃ§Ã£o Urbana do Sul,Rio Grande do Sul,Brazil
+-119.8121809,39.53765683,Museum of Natural History,09:00-16:00,7757841302,https://www.unr.edu/natural-history,89557,Washoe County,Nevada,United States
+13.6043284,54.40055023,Little private fossils museum,NA,NA,NA,18609,Vorpommern-RÃ¼gen,Mecklenburg-Vorpommern,Germany
+-76.2590868,20.88585993,Museo de Ciencias Naturales,Mo-Sa 08:00-17:00,NA,NA,38100,NA,HolguÃ­n,Cuba
+-68.5378559,-31.53064647,Dinosaur Museum,closed,5.42644E+11,NA,J5400ARL,NA,San Juan,Argentina
+7.7983753,45.01055053,Museo di Storia Naturale di Chieri,NA,NA,NA,10023,Torino,Piemonte,Italy
+7.9814055,45.55775993,Museo delle Scienze Naturali,NA,NA,NA,13895,Biella,Piemonte,Italy
+-0.7667381,40.95563653,Museo de Paleontología,NA,NA,NA,NA,NA,AragÃ³n,Spain
+-73.9140461,5.987542326,Museo de Historia Natural,NA,NA,NA,NA,Sucre,Santander,Colombia
+-42.6985002,-21.88483277,Museu de História e Ciências Naturais,NA,NA,NA,NA,NA,Minas Gerais,Brazil
+-105.4692843,28.19563683,Museo de paleontología,NA,NA,NA,33080,Delicias,Chihuahua,Mexico
+-59.65057,-29.14463007,Museo de historia natural,NA,NA,NA,S3560,NA,Santa Fe,Argentina
+-93.3286152,37.10630273,Missouri Institute of Natural Science,NA,417-883-0594,https://www.monatsci.org/,65810,Greene County,Missouri,United States
+13.2265041,46.05467053,Museo Friulano di Storia Naturale,NA,3.90432E+12,NA,33100,Udine,Friuli-Venezia Giulia,Italy
+10.7586032,50.90246703,Informationszentrum für Geologie,"""auf Anfrage""",NA,NA,99869,Landkreis Gotha,ThÃ¼ringen,Germany
+-51.1817703,-29.91664527,Museu de Ciências Naturais,NA,NA,NA,92010-000,RegiÃ£o Metropolitana de Porto Alegre,Rio Grande do Sul,Brazil
+-68.1306161,-16.50175717,Museo Mineralógico Petrográfico y Paleontológico Jorge Muñoz Reyes,Mo-Fr 14:30-18:30,NA,NA,NA,Pedro Domingo Murillo,La Paz,Bolivia
+-71.5340939,-16.41421247,Museo de Historia Natural MUSA,NA,NA,NA,04002,NA,Arequipa,Peru
+-60.9378569,-31.44623687,Museo de Ciencias Naturales del San José,NA,NA,NA,3080,NA,Santa Fe,Argentina
+8.9080053,45.73494343,Museo di Storia Naturale Antonio Stoppani,NA,NA,https://www.seminario.milano.it/museo-di-scienze-naturali,21043,Varese,Lombardia,Italy
+15.6168022,40.93484903,Museo di Storia Naturale del Vulture,"""Apertura su prenotazione""",+39 0972 731028,http://www.museodelvulture.it/MonticchioPortale/it/contattaci.page;jsessionid=6AEE2F01B5333E33A2BFE821DE427763,85028,Potenza,Basilicata,Italy
+-123.9691146,49.15701253,Museum of Natural History,NA,NA,https://scitech.viu.ca/museum-natural-history,V9R 5S5,Regional District of Nanaimo,British Columbia,Canada
+-75.8986873,-14.33689727,museo paleontológico cerro colorado.,NA,NA,NA,NA,NA,Ica,Peru
+-116.677546,43.65280813,Orma J. Smith Museum of Natural History,Mo-Fr 10:00-15:00,-6173,https://www.collegeofidaho.edu/about/campus-facilities/natural-history-museum,83605,Canyon County,Idaho,United States
+-16.2494781,28.46386543,Museo de la Naturaleza y el Hombre,Tu-Sa 09:00-20:00; Mo,NA,NA,38003,NA,NA,Spain
+-70.823403,-27.06494947,Museo Paleontológico de Caldera,Tu-Fr 10:30-19:00,NA,NA,0000157,Provincia de CopiapÃ³,RegiÃ³n de Atacama,Chile
+0.1609462,43.52445323,Muséum d'Histoire Naturelle,NA,NA,NA,32230,Gers,Occitanie,France
+-59.1036125,-36.01848017,Museo de Ciencias Naturales,NA,NA,https://www.lasflores.gob.ar/?q=turismo,7200,NA,Buenos Aires,Argentina
+-59.0901301,-35.17572087,Museo Histórico y de Ciencias Naturales Pago de los Lobos,Mo-Tu 09:00-11:00,+54 2227 430859,http://www.museopagodeloslobos.com.ar,7240,Empalme Lobos,Buenos Aires,Argentina
+13.0160943,43.84408283,Museo di Scienze Naturali,NA,NA,NA,61032,Pesaro e Urbino,Marche,Italy
+-117.2296458,45.35702203,Wallowology Natural History Discovery Center,"Tu-Su 10:00-15:00 Summer only""",541-432-0112,https://www.wallowology.org/,97846,Wallowa County,Oregon,United States
+-59.4285883,-34.65073097,Museo Natural de Ciencias Naturales,NA,+54 2324 420511,http://culturamercedes.blogspot.com/p/museo-de-ciencias-naturales-carlos.html,6600,NA,Buenos Aires,Argentina
+-56.179769,-34.89449257,Museo Nacional de Historia Natural,Th-Sa 10:00-19:00;Su 11:00-17:00,NA,https://www.mnhn.gub.uy/,11200,NA,Montevideo,Uruguay
+8.9606307,46.00414063,Museo cantonale di storia naturale,NA,NA,NA,6900,Distretto di Lugano,Ticino,Switzerland
+-58.3943907,-34.60150737,Museo del Colegio de La Salle de Ciencias Naturales y del Hombre,NA,NA,NA,C1025ABN,NA,Ciudad AutÃ³noma de Buenos Aires,Argentina
+-58.4009224,-34.60800007,Museo de Ciencias Naturales del Colegio San José,NA,+54 11 4951-4303,NA,1029AAM,NA,Ciudad AutÃ³noma de Buenos Aires,Argentina
+-72.5141535,42.37209603,Beneski Museum of Natural History,Tu-Fr 11:00-16:00; Sa-Su 10:00-17:00,+1 413 542 2165,https://www.amherst.edu/museums/naturalhistory,01002,Hampshire County,Massachusetts,United States
+15.3784785,40.43823103,Museo Naturalistico,NA,NA,NA,NA,Salerno,Campania,Italy
+-71.9782434,-13.51778397,Museo de Historia Natural,NA,NA,NA,08001,NA,Cusco,Peru
+13.8600201,45.64140503,Centro Didattico Naturalistico di Basovizza,Mo,We-Fr 09:00-13:00; Jun 01-Sep 30: Tu 14:00-20:00; Jun 01-Sep 30: Su[1] 14:00-20:00,museum,34149,Trieste,Friuli-Venezia Giulia,Italy
+-58.8488722,-27.46555867,"Museo de Ciencias Naturales ""Amado Bonpland""",Th-Fr 08:00-19:00; Sa-Su 09:00-12:00,NA,NA,3400,NA,Corrientes,Argentina
+-96.923078,19.52885043,Museo Audiovisual de Historia Natural,NA,NA,NA,91000,Xalapa,Veracruz,Mexico
+2.183445,41.38811903,Sede científica del Museo de Ciencias Naturales de Barcelona,NA,NA,NA,08001,BarcelonÃ¨s,Catalunya,Spain
+-75.6518217,4.511905526,Museo de Geología y Suelos,NA,NA,NA,632001,NA,QuindÃ­o,Colombia
+-79.4912508,43.68779323,The Prehistoria Natural History Centre and SkullStore Oddity Shop,NA,NA,https://www.skullstore.ca/,M6M 5C4,NA,Ontario,Canada
+-3.5645491,38.52211923,Museo de ciencias naturales,NA,NA,NA,13770,NA,Castilla-La Mancha,Spain
+-67.5026071,-45.73799767,Museo Paleontológico y Petrolero de Astra,NA,NA,NA,9003,NA,Chubut,Argentina
+-0.4209134,39.50723293,Museo de la Universidad de Valencia de Historia Natural,Mo off; Tu-Fr 10:00-19:00; Sa,Universitat de ValÃ¨ncia,+34 963 983 999,46100,NA,Comunitat Valenciana,Spain
+8.6204842,45.44897563,Museo Storia Naturale Ferrandi Faraggiana,Tu-Sa 14:00-19:00; Su 09:00-19:00,+39 0321 3702755,NA,28100,Novara,Piemonte,Italy
+-58.390107,-34.64131457,Museo de Ciencias Naturales de Especialidad Zoológica Médica,NA,+54 11 4301-2888,NA,C1282AFF,NA,Ciudad AutÃ³noma de Buenos Aires,Argentina
+7.702045,45.05417183,Museo di Storia Naturale di Valsalice,NA,+39 011 6300611,www.liceovalsalice.it,10131,Torino,Piemonte,Italy
+10.0208578,45.13792093,Museo Civico di Storia Naturale,Tu,Sa,NA,26100,Cremona,Lombardia,Italy
+-58.4010512,-34.63491657,Museo Geográfico 'Dr. Juan B. Terán' y Museo de Ciencias Naturales 'Àngel Gallardo',NA,+54 11 4941-3777,NA,C1246AAQ,NA,Ciudad AutÃ³noma de Buenos Aires,Argentina
+9.3976931,45.85958093,Museo Archeologico Storico Storia Naturale,Tu 10:00-14:00; We-Su 10:00-18:00; Jan 01,may-01,NA,23900,Lecco,Lombardia,Italy
+7.3881927,44.65457423,Museo Naturalistico del Fiume Po,PH off; Su 14:30-18:30; easter +1 day,may-01,NA,12036,Cuneo,Piemonte,Italy
+10.3181885,42.81685083,NatLab - Museo Naturalistico Arcipelago Toscano,NA,NA,NA,57037,Livorno,Toscana,Italy
+15.9304402,37.99462483,Museo Civico di Paleontologia e Scienze Naturali dell’Aspromonte,Mo-Fr 08:00-14:00; Mo off,+39 0965 762013,https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150841&pagename=57,89033,Reggio Calabria,NA,Italy
+15.635629,38.21787323,Museo di Storia Naturale dello Stretto di Messina,NA,+39 328 6869933,http://www.iresudcalabria.it/museo.asp?id=41,89018,Reggio Calabria,NA,Italy
+13.2373657,-8.808966274,Facuan Geology Museum,NA,NA,NA,NA,MunicÃ­pio de Luanda,Luanda,Angola
+1.3518276,44.01735073,Muséum d'Histoire Naturelle Victor Brun,NA,NA,NA,82000,Tarn-et-Garonne,Occitanie,France
+-77.7930898,17.90046633,Natural History Museum,Tu-Sa 09:00-18:00,NA,NA,NA,Saint Elizabeth,NA,Jamaica
+126.1413744,6.734955626,Mount Hamiguitan Natural Science Museum,NA,NA,NA,8209,NA,Davao Oriental,Philippines
+110.4270435,25.14935543,Guilin karst world natural heritage exhibition center,NA,NA,NA,541203,çµå·åŽ¿,å¹¿è¥¿å£®æ—è‡ªæ²»åŒº,China
+170.5044517,-45.86561327,The Dunedin Museum of Natural Mystery,NA,NA,NA,9010,Dunedin City,Otago,New Zealand
+-61.0188483,-34.66337457,Mumpa paleontológico,NA,NA,NA,NA,NA,Buenos Aires,Argentina
+-83.7342551,42.27885673,University of Michigan Museum of NaturalÃ‚Â History,Th-Su 10:00-16:00,NA,https://lsa.umich.edu/ummnh,48109,Washtenaw County,Michigan,United States
+10.6919978,44.12812133,Ecomuseo della Montagna Pistoiese - Polo Didattico Naturalistico di Fontana Vaccaia,NA,NA,NA,51024,Pistoia,Toscana,Italy
+10.820945,44.05662613,Museo Naturalistico Archeologico dell'Appennino Pistoiese,NA,NA,NA,51028,Pistoia,Toscana,Italy
+-4.7246726,41.64939873,Museo de Ciencias Naturales,Sa 11:00-13:00,+34 983204465,NA,47002,NA,Castilla y LeÃ³n,Spain
+-99.6616476,19.28251503,Museo de Ciencias Naturales,NA,NA,NA,50120,Toluca,NA,Mexico
+11.2600543,43.77836673,Museo di Storia Naturale dell'UniversitÀ  di Firenze - Sezione Geologia e Paleontologia,NA,NA,NA,50112,Firenze,Toscana,Italy
+10.9139168,42.91488833,Museo Minerario del Parco Minerario Naturalistico di Gavorrano,NA,NA,NA,58023,Grosseto,Toscana,Italy
+9.9729754,44.20899893,Museo di Storia Naturale della Lunigiana,NA,NA,NA,54011,NA,Toscana,Italy
+10.3583426,44.20334693,Museo Naturalistico del Centro Visitatori dell'Orecchiella,NA,NA,NA,55038,Lucca,Toscana,Italy
+10.5031954,43.84552663,Gabinetto di Storia Naturale del Liceo Machiavelli,NA,NA,NA,55100,Lucca,Toscana,Italy
+10.8672076,44.03837993,Ecomuseo della Montagna Pistoiese - Museo Naturalistico Archeologico dell'Appennino Pistoiese,NA,NA,NA,51028,Pistoia,Toscana,Italy
+11.1948316,43.82032233,Museo di Storia Naturale dell'UniversitÀ  di Firenze - Sezione di Chimica,NA,NA,NA,50015,Firenze,Toscana,Italy
+11.2617046,43.77936683,Museo di Storia Naturale dell'UniversitÀ  di Firenze - Sezione Orto Botanico Giardino Dei Semplici,NA,NA,NA,50120,Firenze,Toscana,Italy
+11.2601048,43.77803203,Museo di Storia Naturale dell'UniversitÀ  di Firenze - Sezione Mineralogia e Litologia,NA,NA,NA,50112,Firenze,Toscana,Italy
+11.2599652,43.77816983,Museo di Storia Naturale dell'UniversitÀ  di Firenze - Sezione Botanica F.Parlatore,NA,NA,NA,50120,Firenze,Toscana,Italy
+11.2461604,43.80376723,Museo di Storia Naturale dell'UniversitÀ  di Firenze - Sezione Biomedica,NA,NA,NA,50134,Firenze,Toscana,Italy
+-3.7046264,42.33725893,Museo de Ciencias Naturales,NA,NA,NA,09003,NA,Castilla y LeÃ³n,Spain
+12.2564937,43.62257143,"Museo dei colori naturali ""Delio Bischi""",NA,NA,NA,NA,Pesaro e Urbino,Marche,Italy
+10.8585812,50.68029733,Masken- und Fossilienausstellung,NA,NA,NA,98693,Ilm-Kreis,ThÃ¼ringen,Germany
+-7.739605,41.28639263,Museu de Geologia da UTAD,NA,NA,NA,5000-573,Vila Real,NA,Portugal
+-78.8989925,37.88521583,Rockfish Valley Foundation Natural History Center,NA,NA,https://www.rockfishvalley.org/blog/,22920,Nelson County,Virginia,United States
+-64.2601212,-27.78705527,Museo de Ciencias Antropológicas y Naturales Ã¢Â€ÂœDuncan y Emilio WagnerÃ¢Â€Â,NA,NA,NA,4200,NA,Santiago del Estero,Argentina
+125.0086526,11.24716853,Natural Museum and Herbarium,NA,NA,NA,6500,NA,NA,Philippines
+-75.1703797,3.352515626,Museo de Historia Natural La Tatacoa,NA,NA,https://www.facebook.com/MHN.la.Tatacoa,NA,NA,Huila,Colombia
+8.2893433,46.11303143,Museo di Scienze Naturali Mellerio Rosmini,"""by appointment""",+39 0324 47711,http://www.amossola.it/musei_ossola/it/museo/museo-di-scienze-naturali-â€œmellerio-rosminiâ€,28845,Verbano-Cusio-Ossola,Piemonte,Italy
+4.7213115,44.76229333,Les Fossiles d'Ardèche et d'Ailleurs,NA,NA,NA,07250,ArdÃ¨che,Auvergne-RhÃ´ne-Alpes,France
+4.5657688,44.30182703,Collection Minéraux et Fossiles Cutona-Prado,NA,NA,NA,07700,ArdÃ¨che,Auvergne-RhÃ´ne-Alpes,France
+-3.5352741,41.95227443,Museo del Fósil,NA,NA,NA,NA,NA,Castilla y LeÃ³n,Spain
+-58.2200484,-32.20921137,Museo de Ciencias Naturales Guillermo Goméz Cadret,NA,NA,NA,3283,Distrito Primero,Entre RÃ­os,Argentina
+143.2756234,-26.69840387,Eromanga Natural History Museum,NA,NA,NA,NA,NA,Queensland,Australia
+-78.6400909,-1.776358974,Museo Paleontológico de San José de Chalán,NA,NA,NA,060119,Riobamba,Chimborazo,Ecuador
+-4.6890046,40.65005443,Museo de Ciencias Naturales,NA,+34 920 352237,NA,05003,NA,Castilla y LeÃ³n,Spain
+9.6179574,45.74649573,"Museo Civico Naturalistico ""Severo Sini""",NA,NA,https://www.museosini.org/,24018,Bergamo,Lombardia,Italy
+-63.0265389,18.07995823,Amuseum Naturalis - Musée et centre d'interprétation,Mo-Su 06:00-19:00,NA,http://amuseumnaturalis.com,97150,NA,Saint-Martin (France),France
+4.0121309,39.98111003,Geologic center,NA,+34 971 37 45 05,http://www.geologiamenorca.org/Contingut.aspx?&IdPub=8378,07750,Menorca,Illes Balears,Spain
+-4.4343179,36.72482013,Aula Museo de Geología Minerales y Tesoros de la Tierra,Tu 10:00-14:00;Th 10:00- 14:00;Sa 10:00-14:30,NA,https://aulamuseodegeologiamalaga.com,29009,MÃ¡laga-Costa del Sol,AndalucÃ­a,Spain
+7.3325049,44.89282273,Civico Museo Didattico di Scienze Naturali Mario Strani,Su 10:30-12:00,NA,NA,10064,Torino,Piemonte,Italy
+118.4266573,24.66559703,Yingliang Stone Natural History Museum,NA,NA,NA,NA,NA,ç¦å»ºçœ,China
+-76.5278968,39.35743433,Natural History Society of Maryland,"We 14:00-18:00; Th 10:00-14:00; Fr-Tu By Appointment""",NA,https://www.marylandnature.org/,21206,Baltimore County,Maryland,United States
+11.0663532,50.14676023,Sammlung Fossilien des Jura,NA,NA,NA,96215,Landkreis Lichtenfels,Bayern,Germany
+9.2024419,45.47273403,Museo de Historia Natural,Tu-Su 10:00-17:30; Jan 01, May 01 off,museum,20121,Milano,Lombardia,Italy
+-106.634631,52.13180463,Museum of Natural Sciences University of Saskatchewan,NA,NA,https://artsandscience.usask.ca/museumofnaturalsciences/,S7N 5A3,NA,Saskatchewan,Canada
+-4.1327572,53.22500353,Natural History Museum,NA,NA,https://www.bangor.ac.uk/community/museum,LL57 2TQ,Gwynedd,Cymru / Wales,United Kingdom
+-84.7698007,43.59287933,Museum of Cultural and Natural History,NA,NA,https://www.cmich.edu/academics/colleges/liberal-arts-social-sciences/centers-institutes/museum-cultural-natural-history,48859,Isabella County,Michigan,United States
+2.3887351,42.54421333,Museum D'Histoire Naturelle,NA,NA,NA,66820,PyrÃ©nÃ©es-Orientales,Occitanie,France
+13.9717943,37.96764273,Museo Naturalistico di Gratteri,NA,NA,https://www.parks.it/parco.madonie/cen_dettaglio.php?id=867,90010,Palermo,Sicilia,Italy
+-83.3718763,33.94504533,Georgia Museum of Natural History,NA,NA,https://naturalhistory.uga.edu/,30602,Athens-Clarke County,Georgia,United States
+9.4143568,45.69865683,Civico museo di storia naturale Don Michelangelo Ambrosioni,NA,NA,NA,23807,Lecco,Lombardia,Italy
+-1.5048523,53.40127993,Yorkshire Natural History Museum,NA,NA,https://ynhm.org/,S6 4JR,NA,England,United Kingdom
+-92.9334259,18.00187293,Museo de Historia Natural José Narciso Rovirosa,09:00-16:00,NA,NA,86040,Centro,Tabasco,Mexico
+0.1752011,42.27836423,Museo Paleontológico,NA,NA,NA,22393,NA,AragÃ³n,Spain
+-117.738851,34.12351923,Raymond M. Alf Museum of Paleontology,NA,+1 909 624 2798,https://www.alfmuseum.org/,91711,NA,California,United States
+74.8702727,32.72049763,Wadia Museum of Natural History,NA,NA,NA,180006,Jammu,Jammu and Kashmir,India
+-77.4705757,35.43882343,North Carolina Museum of Natural Science - Contentnea Creek,NA,12523642862,NA,28530,Pitt County,North Carolina,United States
+14.9107802,41.59325123,Museo Civico di Storia Naturale,NA,NA,NA,86040,Campobasso,Molise,Italy
+-68.0707255,-16.53887227,Museo Nacional de Historia Natural,Mo-Sa 08:30-16:30; PH off,+591 2 2795364,https://mnhn.gob.bo/,NA,Pedro Domingo Murillo,La Paz,Bolivia
+151.6405364,-30.48609457,Natural History Museum,NA,NA,NA,2351,NA,New South Wales,Australia
+14.9472065,37.87843883,Museo Civico di Scienze Naturali Angelo Priolo,NA,NA,NA,95036,Catania,Sicilia,Italy
+-109.0728712,44.52451973,Draper Natural History Museum,NA,NA,https://centerofthewest.org/our-museums/yellowstone/,82414,Park County,Wyoming,United States
+-6.8387658,34.00628163,Muséum National d'Histoire Naturelle - Institut Scientifique,Mo-Fr 09:00-15:45,NA,NA,10020,Ø¨Ø§Ø´ÙˆÙŠØ© Ø§Ù„Ø±Ø¨Ø§Ø·,NA,Morocco
+-68.9278209,-22.48063377,Museo de Historia Natural,NA,NA,NA,1395584,Provincia de El Loa,RegiÃ³n de Antofagasta,Chile
+88.2546742,27.05763503,Natural history museum,NA,NA,NA,734104,Darjeeling Pulbazar,West Bengal,India
+-56.175729,-34.90341087,Museo de Historia Natural Dr. Carlos Torres de la LLosa,Mo-Fr 09:00-17:00,NA,https://museotorresdelallo.wixsite.com/museo,11200,NA,Montevideo,Uruguay
+8.9281555,45.86250883,Civico Museo Insubrico di Storia Naturale,"""reservation by phone""",NA,https://comune.clivio.va.it/contenuti/53231/civico-museo-insubrico-storia-naturale-visitor,21050,Varese,Lombardia,Italy
+-97.9191098,18.59266343,Museo de Paleontología de Tlayua,NA,NA,NA,74690,Tepexi de RodrÃ­guez,Puebla,Mexico
+-47.0489763,-22.90972157,Museu de História Natural de Campinas,NA,NA,NA,13026-302,RegiÃ£o Metropolitana de Campinas,SÃ£o Paulo,Brazil
+-5.3522714,36.12069993,Gibraltar National Museum (Natural History),Mo-Sa 10:00-14:00,NA,NA,GX11 1AA,NA,NA,Gibraltar
+-101.2040852,19.68954453,"Museo de Geología y Mineralogía ""Dr. Jenaro González Reyna""",NA,NA,NA,58040,Morelia,MichoacÃ¡n,Mexico
+-3.68701,37.23626393,Museo de Ciencias Naturales de Atarfe,NA,NA,NA,18230,Comarca de la Vega de Granada,AndalucÃ­a,Spain
+-70.8594331,-53.06423767,Museo de Historia Natural Río Seco,NA,NA,NA,NA,Provincia de Magallanes,RegiÃ³n de Magallanes y de la AntÃ¡rtica Chilena,Chile
+9.9899727,44.50942363,Museo naturalistico e della civiltÀ  contadina,NA,NA,NA,43042,Parma,Emilia-Romagna,Italy
+-87.9862983,43.04584033,The Little Nature Museum,Mo-Fr 16:00-17:00; Sa,PH 11:00-12:00,NA,53208,Milwaukee County,Wisconsin,United States
+-57.8585227,-38.29083087,Museo de Ciencias Naturales Punta Hermengo,NA,NA,NA,7607,NA,Buenos Aires,Argentina
+-55.1010734,-27.47440027,Jardín Botánico y museo de ciencias naturales,NA,NA,NA,N3361ZAA,NA,Misiones,Argentina
+11.5128656,45.87471183,Museo Naturalistico Patrizio Rigoni,NA,NA,NA,36012,Vicenza,Veneto,Italy
+-5.106686,41.73019223,Casa de la Naturaleza,NA,34654658336,https://lasantaespina.es/que-ver/casa-de-la-naturaleza/,47641,NA,Castilla y LeÃ³n,Spain
+8.8831651,45.79572543,Museo civico di Scienze Naturali Mario Realini,NA,+39 0332 425553,https://www.comune.malnate.va.it/,21046,Varese,Lombardia,Italy
+-34.8794522,-8.057953774,Museu de História Natural Louis Jacques Brunet,NA,NA,NA,50040-909,RegiÃ£o Metropolitana do Recife,Pernambuco,Brazil
