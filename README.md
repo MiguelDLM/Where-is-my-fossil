@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/MiguelDLM/Where-is-my-fossil.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/MiguelDLM/Where-is-my-fossil.svg)]()
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/MiguelDLM/Where-is-my-fossil.svg)]()
-[![GitHub license](https://img.shields.io/github/license/MiguelDLM/Where-is-my-fossil.svg)](https://github.com/MiguelDLM/Where-is-my-fossil/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](https://github.com/MiguelDLM/Where-is-my-fossil/blob/main/LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-3.29.1-blue.svg)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.7.0-blue.svg)](https://dart.dev)
 [![Firebase Core](https://img.shields.io/badge/Firebase%20Core-3.6.0-blue.svg)](https://pub.dev/packages/firebase_core)
