@@ -13,8 +13,7 @@
   "myRecords": "Οι εγγραφές μου",
   "settings": "Ρυθμίσεις",
   "logout": "Αποσύνδεση",
-  "login": "Σύνδεση",
-  "register": "Εγγραφή",
+
   "language": "Γλώσσα",
   "theme": "Θέμα",
   "systemTheme": "Θέμα συστήματος",
@@ -22,8 +21,7 @@
   "darkTheme": "Σκοτεινό θέμα",
   "submit": "Υποβολή",
   "cancel": "Ακύρωση",
-  "search": "Αναζήτηση",
-  "selectColumns": "Επιλέξτε στήλες",
+
   "ok": "Εντάξει",
   "noData": "Δεν υπάρχουν δεδομένα",
   "dataTable": "Πίνακας δεδομένων",
@@ -56,11 +54,9 @@
   "acceptToAppearText": "Συμφωνώ να εμφανίζομαι στην εφαρμογή ως ειδικός ώστε άλλοι χρήστες να μπορούν να με βρουν",
   "submitButton": "Υποβολή και σύνδεση με Google",
   "dataSubmittedMessage": "Τα δεδομένα υποβλήθηκαν με επιτυχία",
-  "errorDialogTitle": "Σφάλμα",
-  "errorDialogCloseButton": "Κλείσιμο",
+
   "noteLoginResearcher": "Σημείωση: Την επόμενη φορά μπορείτε να συνδεθείτε ως κανονικός χρήστης",
-  "countryLabel": "Χώρα",
-  "errorProfileLinkLabel": "Παρακαλώ εισάγετε έγκυρο URL",
+
   "name": "Όνομα",
   "degree": "Πτυχίο",
   "experience": "Χρόνια εμπειρίας",
@@ -104,15 +100,13 @@
   "images": "Εικόνες",
   "3dmodels": "3D Μοντέλα",
   "errorLoadingModel": "Σφάλμα φόρτωσης μοντέλου",
-  "id" : "ID",
+  "id": "ID",
   "source": "Πηγή",
   "progress": "Πρόοδος",
   "title": "Τίτλος",
-  "thumbnail": "Μικρογραφία",
-  "description": "Περιγραφή",
+
   "creator": "Δημιουργός",
-  "inCollection": "Στη συλλογή",
-  "dataManager": "Διαχειριστής δεδομένων",
+
   "shortDescription": "Σύντομη περιγραφή",
   "user": "Χρήστης",
   "scientificName": "Επιστημονικό όνομα",
@@ -219,8 +213,7 @@
   "enterCity": "Εισάγετε πόλη",
   "enterState": "Εισάγετε πολιτεία",
   "enterCountry": "Εισάγετε χώρα",
-  "pickLocation": "Επιλέξτε τοποθεσία",
-  "selectedLocation": "Επιλεγμένη τοποθεσία",
+
   "enterPrice": "Εισάγετε τιμή ή επιλέξτε Δωρεάν",
   "enterOrganizer": "Εισάγετε διοργανωτή",
   "targetAudience": "Στόχος κοινού",
@@ -264,8 +257,7 @@
   "museumDetails": "Λεπτομέρειες Μουσείου",
   "database": "Βάση Δεδομένων",
   "deleteLocalDatabases": "Διαγραφή Τοπικών Βάσεων Δεδομένων",
-  "localDatabaseCleared": "Η τοπική βάση δεδομένων διαγράφηκε",
-  "translations": "Μεταφράσεις",
+
   "translators": "Μεταφραστές",
   "supportUs": "Υποστηρίξτε μας",
   "pinchToZoom": "Πιέστε για Μεγέθυνση",
@@ -298,6 +290,7 @@
   "tryAgain": "Δοκιμάστε ξανά",
   "filteredResults": "Φιλτραρισμένα αποτελέσματα",
   "stats": "Στατιστικά",
+
   "taxonomicInformation": "Ταξινομικές Πληροφορίες",
   "geologicalInformation": "Γεωλογικές Πληροφορίες",
   "geographicLocation": "Γεωγραφική Τοποθεσία",
@@ -309,5 +302,81 @@
   "taxon": "Τάξον",
   "pbdbOccurrenceId": "ID Εμφάνισης PBDB",
   "viewFullDetails": "Προβολή Πλήρων Λεπτομερειών",
-  "viewOnApp": "Προβολή στο Where is my fossil"
+  "viewOnApp": "Προβολή στο Where is my fossil",
+  "opportunities": "Παλαιοντολογικές Ευκαιρίες",
+
+
+
+
+  "opportunityApply": "Αίτηση",
+  "opportunityContact": "Επικοινωνία",
+  "opportunityNoResults": "Δεν βρέθηκαν ευκαιρίες",
+  "opportunityFilterByType": "Φιλτράρισμα κατά τύπο",
+  "opportunityFilterByCountry": "Φιλτράρισμα κατά χώρα",
+
+  "opportunitySubmitNew": "Υποβολή νέας ευκαιρίας",
+  "opportunitySeeDetails": "Δείτε λεπτομέρειες",
+
+
+  "opportunityResetFilters": "Επαναφορά φίλτρων",
+  "opportunityApplyFilters": "Εφαρμογή φίλτρων",
+
+
+
+
+
+
+
+
+  "selectLocationOnMap": "Επιλέξτε Τοποθεσία στον Χάρτη",
+
+
+
+
+
+
+
+
+
+  "opportunityLoginRequired": "Πρέπει να είστε συνδεδεμένοι για να υποβάλετε μια ευκαιρία",
+
+  "type": "Τύπος",
+  "deadline": "Προθεσμία",
+  "location": "Τοποθεσία",
+  "salary": "Μισθός (προαιρετικό)",
+  "requirements": "Απαιτήσεις",
+  "applicationUrl": "URL Αίτησης",
+  "contactEmail": "Email Επικοινωνίας",
+  "visible": "Ορατό",
+  "selectLocation": "Επιλογή Τοποθεσίας",
+
+  "confirmUpload": "Επιβεβαίωση Μεταφόρτωσης",
+  "uploadingOpportunities": "Μεταφόρτωση ευκαιριών...",
+  "validationIssues": "Ζητήματα Επικύρωσης",
+  "update": "Ενημέρωση",
+  "enterTitle": "Παρακαλώ εισάγετε έναν τίτλο",
+  "selectType": "Παρακαλώ επιλέξτε έναν τύπο",
+  "confirmUploadMessage": "Αυτό θα μεταφορτώσει {count} ευκαιρίες. Θέλετε να συνεχίσετε;",
+  "locationSelected": "Επιλεγμένη τοποθεσία: ({lat}, {lng})",
+  "allCountries": "Όλες οι Χώρες",
+  "opportunityFilterOptions": "Επιλογές φίλτρου",
+  "chronoChart": "Χρονοστρωματογραφικός Πίνακας",
+  "ma": "Μα",
+  "stratigraphicUnit": "Στρωματογραφική Μονάδα",
+  "geochronologicUnit": "Γεωχρονολογική Μονάδα",
+  "ratifiedGSSPCategories": "Global Boundary Stratotype Section and Point",
+  "ratifiedGSSACategories": "Global Standard Stratigraphic Age",
+  "subUnits": "Υπομονάδες",
+  "searchTimeUnits": "Αναζήτηση Χρονικών Μονάδων",
+  "noResultsFound": "Δεν βρέθηκαν αποτελέσματα",
+
+  "noDataAvailable": "Δεν είναι διαθέσιμα δεδομένα",
+
+  "eon": "Eon",
+  "era": "Era",
+  "period": "Περίοδος",
+  "epoch": "Εποχή",
+  "age": "Ηλικία"
 }
+
+

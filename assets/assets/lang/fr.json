@@ -1,4 +1,4 @@
-﻿{
+{
   "welcome": "Bienvenue sur Where is My Fossil.\nToute l'histoire de la vie sur Terre au creux de votre main",
   "slide2": "Si vous aimez les fossiles autant que nous, vous saurez combien il est important de signaler une découverte pour que les experts puissent l'examiner et que nous puissions tous en apprendre davantage",
   "slide3": "Rappelez-vous également que le trafic de fossiles est illégal dans de nombreux pays. Les fossiles sont mieux dans un musée où tout le monde peut les voir que comme décoration dans votre maison",
@@ -13,8 +13,8 @@
   "myRecords": "Mes Enregistrements",
   "settings": "Paramètres",
   "logout": "Déconnexion",
-  "login": "Connexion",
-  "register": "S'inscrire",
+
+
   "language": "Langue",
   "theme": "Thème",
   "systemTheme": "Thème du Système",
@@ -22,7 +22,7 @@
   "darkTheme": "Thème Sombre",
   "submit": "Soumettre",
   "cancel": "Annuler",
-  "search": "Rechercher",
+
   "selectColumns": "Sélectionner les Colonnes",
   "ok": "OK",
   "noData": "Aucune Donnée",
@@ -56,11 +56,11 @@
   "acceptToAppearText": "J'accepte d'apparaître dans l'application en tant qu'expert pour que d'autres utilisateurs puissent me trouver",
   "submitButton": "Soumettre et se connecter avec Google",
   "dataSubmittedMessage": "Données soumises avec succès",
-  "errorDialogTitle": "Erreur",
-  "errorDialogCloseButton": "Fermer",
+
+
   "noteLoginResearcher": "Remarque : La prochaine fois, vous pouvez vous connecter en tant qu'utilisateur normal",
-  "countryLabel": "Pays",
-  "errorProfileLinkLabel": "Veuillez entrer une URL valide",
+
+
   "name": "Nom",
   "degree": "Diplôme",
   "experience": "Années d'Expérience",
@@ -108,7 +108,7 @@
   "source": "Source",
   "progress": "Progrès",
   "title": "Titre",
-  "thumbnail": "Vignette",
+
   "description": "Description",
   "creator": "Créateur",
   "inCollection": "Dans la Collection",
@@ -219,8 +219,7 @@
   "enterCity": "Entrez la ville",
   "enterState": "Entrez l'état",
   "enterCountry": "Entrez le pays",
-  "pickLocation": "Choisir l'Emplacement",
-  "selectedLocation": "Emplacement Sélectionné",
+
   "enterPrice": "Entrez le prix ou sélectionnez Gratuit",
   "enterOrganizer": "Entrez l'organisateur",
   "targetAudience": "Public Cible",
@@ -264,8 +263,7 @@
   "museumDetails": "Détails du Musée",
   "database": "Base de Données",
   "deleteLocalDatabases": "Supprimer les Bases de Données Locales",
-  "localDatabaseCleared": "Base de données locale effacée",
-  "translations": "Traductions",
+
   "translators": "Traducteurs",
   "supportUs": "Soutenez-nous",
   "pinchToZoom": "Pincer pour Zoomer",
@@ -298,16 +296,102 @@
   "tryAgain": "Réessayer",
   "filteredResults": "Résultats filtrés",
   "stats": "Statistiques",
-  "taxonomicInformation": "Information Taxonomique",
-  "geologicalInformation": "Information Géologique",
-  "geographicLocation": "Emplacement Géographique",
+
+  "taxonomicInformation": "Informations Taxonomiques",
+  "geologicalInformation": "Informations Géologiques",
+  "geographicLocation": "Localisation Géographique",
   "coordinatePrecision": "Précision des Coordonnées",
   "collectionInformation": "Informations sur la Collection",
-  "databaseInformation": "Informations de la Base de Données",
+  "databaseInformation": "Informations sur la Base de Données",
   "viewOnPaleobiologyDatabase": "Voir sur la Base de Données de Paléobiologie",
-  "shareOccurrenceMessage": "Découvre cette occurrence fossile que j'ai trouvée sur l'application WhereIsMyFossil !",
+  "shareOccurrenceMessage": "Consultez cette occurrence fossile que j'ai trouvée sur l'application WhereIsMyFossil !",
   "taxon": "Taxon",
   "pbdbOccurrenceId": "ID d'Occurrence PBDB",
-  "viewFullDetails": "Voir Détails Complets",
-  "viewOnApp": "Voir sur Where is my fossil"
+  "viewFullDetails": "Voir Tous les Détails",
+  "viewOnApp": "Voir sur Where is my fossil",
+  "opportunities": "Opportunités Paléontologiques",
+
+
+
+
+  "opportunityApply": "Postuler",
+  "opportunityContact": "Contact",
+  "opportunityNoResults": "Aucune opportunité trouvée",
+  "opportunityFilterByType": "Filtrer par type",
+  "opportunityFilterByCountry": "Filtrer par pays",
+
+  "opportunitySubmitNew": "Soumettre une nouvelle opportunité",
+  "opportunitySeeDetails": "Voir les détails",
+
+
+  "opportunityResetFilters": "Réinitialiser les filtres",
+  "opportunityApplyFilters": "Appliquer les filtres",
+
+
+
+
+
+
+
+
+  "selectLocationOnMap": "Sélectionner l'Emplacement sur la Carte",
+
+
+
+
+
+
+
+
+
+
+
+  "type": "Type",
+  "deadline": "Date Limite",
+  "location": "Emplacement",
+  "salary": "Salaire (optionnel)",
+  "requirements": "Exigences",
+  "applicationUrl": "URL de Candidature",
+  "contactEmail": "Email de Contact",
+  "visible": "Visible",
+  "selectLocation": "Sélectionner l'Emplacement",
+
+  "confirmUpload": "Confirmer le Téléchargement",
+  "uploadingOpportunities": "Téléchargement des opportunités...",
+  "validationIssues": "Problèmes de Validation",
+  "update": "Mettre à Jour",
+  "enterTitle": "Veuillez entrer un titre",
+  "selectType": "Veuillez sélectionner un type",
+  "selectDeadline": "Veuillez sélectionner une date limite",
+  "enterInstitution": "Veuillez entrer une institution",
+
+  "enterRequirements": "Veuillez entrer les exigences",
+  "enterApplicationUrl": "Veuillez entrer une URL de candidature",
+  "enterValidUrl": "Veuillez entrer une URL valide",
+  "enterContactEmail": "Veuillez entrer un email de contact",
+  "enterValidEmail": "Veuillez entrer une adresse email valide",
+  "confirmUploadMessage": "Cela téléchargera {count} opportunités. Voulez-vous continuer ?",
+  "locationSelected": "Emplacement sélectionné : ({lat}, {lng})",
+  "allCountries": "Tous les Pays",
+  "opportunityFilterOptions": "Options de Filtre",
+  "chronoChart": "Tableau Chronostratigraphique",
+
+
+
+
+  "ma": "Ma",
+  "stratigraphicUnit": "Unité Stratigraphique",
+  "geochronologicUnit": "Unité Géochronologique",
+
+  "subUnits": "sous-unités",
+  "searchTimeUnits": "Rechercher des unités de temps...",
+  "noResultsFound": "Aucun résultat trouvé pour",
+
+  "noDataAvailable": "Aucune donnée disponible",
+
+  "eon": "Éon",
+  "era": "Ère",
+  "period": "Période",
+  "epoch": "Époque",
+  "age": "Âge"
 }
