@@ -13,8 +13,6 @@
   "myRecords": "Mes Enregistrements",
   "settings": "Paramètres",
   "logout": "Déconnexion",
-
-
   "language": "Langue",
   "theme": "Thème",
   "systemTheme": "Thème du Système",
@@ -22,7 +20,6 @@
   "darkTheme": "Thème Sombre",
   "submit": "Soumettre",
   "cancel": "Annuler",
-
   "selectColumns": "Sélectionner les Colonnes",
   "ok": "OK",
   "noData": "Aucune Donnée",
@@ -56,11 +53,7 @@
   "acceptToAppearText": "J'accepte d'apparaître dans l'application en tant qu'expert pour que d'autres utilisateurs puissent me trouver",
   "submitButton": "Soumettre et se connecter avec Google",
   "dataSubmittedMessage": "Données soumises avec succès",
-
-
   "noteLoginResearcher": "Remarque : La prochaine fois, vous pouvez vous connecter en tant qu'utilisateur normal",
-
-
   "name": "Nom",
   "degree": "Diplôme",
   "experience": "Années d'Expérience",
@@ -108,7 +101,6 @@
   "source": "Source",
   "progress": "Progrès",
   "title": "Titre",
-
   "description": "Description",
   "creator": "Créateur",
   "inCollection": "Dans la Collection",
@@ -219,7 +211,6 @@
   "enterCity": "Entrez la ville",
   "enterState": "Entrez l'état",
   "enterCountry": "Entrez le pays",
-
   "enterPrice": "Entrez le prix ou sélectionnez Gratuit",
   "enterOrganizer": "Entrez l'organisateur",
   "targetAudience": "Public Cible",
@@ -263,7 +254,6 @@
   "museumDetails": "Détails du Musée",
   "database": "Base de Données",
   "deleteLocalDatabases": "Supprimer les Bases de Données Locales",
-
   "translators": "Traducteurs",
   "supportUs": "Soutenez-nous",
   "pinchToZoom": "Pincer pour Zoomer",
@@ -296,7 +286,6 @@
   "tryAgain": "Réessayer",
   "filteredResults": "Résultats filtrés",
   "stats": "Statistiques",
-
   "taxonomicInformation": "Informations Taxonomiques",
   "geologicalInformation": "Informations Géologiques",
   "geographicLocation": "Localisation Géographique",
@@ -310,42 +299,15 @@
   "viewFullDetails": "Voir Tous les Détails",
   "viewOnApp": "Voir sur Where is my fossil",
   "opportunities": "Opportunités Paléontologiques",
-
-
-
-
   "opportunityApply": "Postuler",
   "opportunityContact": "Contact",
   "opportunityNoResults": "Aucune opportunité trouvée",
   "opportunityFilterByType": "Filtrer par type",
   "opportunityFilterByCountry": "Filtrer par pays",
-
   "opportunitySubmitNew": "Soumettre une nouvelle opportunité",
   "opportunitySeeDetails": "Voir les détails",
-
-
   "opportunityResetFilters": "Réinitialiser les filtres",
   "opportunityApplyFilters": "Appliquer les filtres",
-
-
-
-
-
-
-
-
-  "selectLocationOnMap": "Sélectionner l'Emplacement sur la Carte",
-
-
-
-
-
-
-
-
-
-
-
   "type": "Type",
   "deadline": "Date Limite",
   "location": "Emplacement",
@@ -355,7 +317,12 @@
   "contactEmail": "Email de Contact",
   "visible": "Visible",
   "selectLocation": "Sélectionner l'Emplacement",
-
+  "opportunityIntroText": "Soumettre une nouvelle opportunité en paléontologie",
+  "opportunityLoginRequired": "Vous devez être connecté pour soumettre une opportunité",
+  "searchLocation": "Rechercher un emplacement...",
+  "noLocationsFound": "Aucun emplacement trouvé",
+  "confirm": "Confirmer",
+  "myLocation": "Ma position",
   "confirmUpload": "Confirmer le Téléchargement",
   "uploadingOpportunities": "Téléchargement des opportunités...",
   "validationIssues": "Problèmes de Validation",
@@ -364,10 +331,8 @@
   "selectType": "Veuillez sélectionner un type",
   "selectDeadline": "Veuillez sélectionner une date limite",
   "enterInstitution": "Veuillez entrer une institution",
-
   "enterRequirements": "Veuillez entrer les exigences",
   "enterApplicationUrl": "Veuillez entrer une URL de candidature",
-  "enterValidUrl": "Veuillez entrer une URL valide",
   "enterContactEmail": "Veuillez entrer un email de contact",
   "enterValidEmail": "Veuillez entrer une adresse email valide",
   "confirmUploadMessage": "Cela téléchargera {count} opportunités. Voulez-vous continuer ?",
@@ -375,23 +340,147 @@
   "allCountries": "Tous les Pays",
   "opportunityFilterOptions": "Options de Filtre",
   "chronoChart": "Tableau Chronostratigraphique",
-
-
-
-
   "ma": "Ma",
   "stratigraphicUnit": "Unité Stratigraphique",
   "geochronologicUnit": "Unité Géochronologique",
-
   "subUnits": "sous-unités",
   "searchTimeUnits": "Rechercher des unités de temps...",
   "noResultsFound": "Aucun résultat trouvé pour",
-
   "noDataAvailable": "Aucune donnée disponible",
-
   "eon": "Éon",
   "era": "Ère",
   "period": "Période",
   "epoch": "Époque",
-  "age": "Âge"
+  "age": "Âge",
+  "geologicalPeriod": "Période Géologique",
+  "comments": "Commentaires",
+  "dataSources": "Sources de Données",
+  "geologicalDataSources": "Sources de données géologiques:",
+  "sourceId": "ID de Source:",
+  "aboutGeologyData": "À propos des données géologiques",
+  "activeFilters": "Filtres actifs",
+  "andesite": "Andésite",
+  "arkose": "Arkose",
+  "basalt": "Basalte",
+  "bedrock": "Roche mère",
+  "breccia": "Brèche",
+  "cambrian": "Cambrien",
+  "carboniferous": "Carbonifère",
+  "cenozoic": "Cénozoïque",
+  "changeChartColor": "Changer la couleur du graphique",
+  "chert": "Silex",
+  "claystone": "Argilite",
+  "coal": "Charbon",
+  "conglomerate": "Conglomérat",
+  "continue": "Continuer",
+  "cretaceous": "Crétacé",
+  "dacite": "Dacite",
+  "dataSubmittedDescription": "Description des données soumises",
+  "devonian": "Dévonien",
+  "diorite": "Diorite",
+  "dolomite": "Dolomite",
+  "dolostone": "Dolomie",
+  "enableUserFilter": "Activer le filtre utilisateur",
+  "enterDescription": "Entrer la description",
+  "error": "Erreur",
+  "errorProfileLinkLabel": "Erreur du lien de profil",
+  "evaporite": "Évaporite",
+  "filterTerms": "Filtrer les termes",
+  "filterUsers": "Filtrer les utilisateurs",
+  "gabbro": "Gabbro",
+  "geologicalInfo": "Informations géologiques",
+  "geology": "Géologie",
+  "geologyDataDescription": "Données géologiques fournies par MacroStrat, une plateforme de données géologiques qui compile des informations sur les unités rocheuses et leurs propriétés.",
+  "geologyDataSource": "Source des données géologiques : MacroStrat (https://macrostrat.org)",
+  "geologyFeatureDescription": "Cette fonctionnalité permet de superposer des données géologiques sur la carte, fournissant un contexte sur les unités rocheuses dans la zone sélectionnée.",
+  "geologyStep1": "Activez la couche géologique à l'aide du commutateur dans le menu des couches",
+  "geologyStep2": "Ajustez l'opacité de la couche selon vos besoins",
+  "geologyStep3": "Appuyez sur n'importe quelle zone de la carte pour voir des informations géologiques détaillées",
+  "geologyStep4": "Utilisez le bouton 'Voir la stratigraphie' pour explorer la colonne stratigraphique de la zone",
+  "gneiss": "Gneiss",
+  "granite": "Granit",
+  "graywacke": "Grauwacke",
+  "gypsum": "Gypse",
+  "hideAll": "Tout masquer",
+  "hideFilters": "Masquer les filtres",
+  "hideGeologyLayer": "Masquer la couche géologique",
+  "hornfels": "Cornéenne",
+  "howToUseGeologyLayer": "Comment utiliser la couche géologique",
+  "igneous": "Ignée",
+  "jurassic": "Jurassique",
+  "limestone": "Calcaire",
+  "loadingStratigraphicData": "Chargement des données stratigraphiques...",
+  "loadingUnits": "Chargement des unités...",
+  "localDatabasesCleared": "Bases de données locales effacées",
+  "marble": "Marbre",
+  "marl": "Marne",
+  "mesozoic": "Mésozoïque",
+  "metamorphic": "Métamorphique",
+  "migmatite": "Migmatite",
+  "millionYearsAgo": "millions d'années",
+  "mudstone": "Mudstone",
+  "multipleColumnsFound": "Plusieurs colonnes trouvées",
+  "neogene": "Néogène",
+  "newFeature": "Nouvelle fonctionnalité",
+  "noGeologyData": "Aucune donnée géologique disponible pour cet emplacement",
+  "noRecordsFound": "Aucun enregistrement trouvé",
+  "noStratigraphicData": "Aucune donnée stratigraphique disponible",
+  "none": "Aucun",
+  "obsidian": "Obsidienne",
+  "opacity": "Opacité",
+  "opportunityDeadline": "Date limite de candidature",
+  "opportunityFilterTitle": "Titre du filtre",
+  "opportunitySalary": "Salaire",
+  "ordovician": "Ordovicien",
+  "paleogene": "Paléogène",
+  "paleozoic": "Paléozoïque",
+  "peridotite": "Péridotite",
+  "permian": "Permien",
+  "phyllite": "Phyllite",
+  "plutonic": "Plutonique",
+  "precambrian": "Précambrien",
+  "pumice": "Pierre ponce",
+  "quartzite": "Quartzite",
+  "quaternary": "Quaternaire",
+  "ratifiedGSSACategories": "Âge stratigraphique standard global",
+  "ratifiedGSSPCategories": "Section et point stratotype de limite globale",
+  "reference": "Référence",
+  "resetAllFilters": "Réinitialiser tous les filtres",
+  "resetTree": "Réinitialiser l'arbre",
+  "retry": "Réessayer",
+  "rhyolite": "Rhyolite",
+  "rockType": "Type de roche",
+  "salt": "Sel",
+  "sandstone": "Grès",
+  "schist": "Schiste",
+  "searchTerms": "Termes de recherche",
+  "searchUsers": "Rechercher des utilisateurs",
+  "sedimentary": "Sédimentaire",
+  "sedimentaryRocks": "Roches sédimentaires",
+  "selectAll": "Tout sélectionner",
+  "selectColor": "Sélectionner la couleur",
+  "selectLocationOnMap": "Sélectionner l'emplacement sur la carte",
+  "selectNone": "Ne rien sélectionner",
+  "serpentinite": "Serpentinite",
+  "shale": "Schiste argileux",
+  "showAll": "Tout afficher",
+  "showFilters": "Afficher les filtres",
+  "showGeologyLayer": "Afficher la couche géologique",
+  "siltstone": "Siltite",
+  "silurian": "Silurien",
+  "slate": "Ardoise",
+  "stratigraphicColumn": "Colonne stratigraphique",
+  "stratigraphy": "Stratigraphie",
+  "switchToEqualHeights": "Passer aux hauteurs égales",
+  "switchToProportionalHeights": "Passer aux hauteurs proportionnelles",
+  "syenite": "Syénite",
+  "translations": "Traductions",
+  "triassic": "Trias",
+  "tuff": "Tuf",
+  "units": "Unités",
+  "unknownUnit": "Unité inconnue",
+  "viewMediaAndReferences": "Voir les médias et références",
+  "viewStratigraphy": "Voir la stratigraphie",
+  "visitMacrostratWebsite": "Visiter le site web MacroStrat",
+  "volcanic": "Volcanique"
 }
