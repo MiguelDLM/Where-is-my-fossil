@@ -397,7 +397,7 @@
   "geologyStep1": "Toca el icono de capas en la parte inferior izquierda del mapa para activar/desactivar la capa geológica.",
   "geologyStep2": "Selecciona 'Mapa Geológico' para ver tipos de rocas, formaciones y edades geológicas.",
   "geologyStep3": "Ajusta el control deslizante de opacidad para mezclar la capa geológica con el mapa base.",
-  "geologyStep4": "Toca el botón 'Info Geológica' para obtener detalles sobre la geología en el centro del mapa.",
+  "geologyStep4": "Toca cualquier ubicación en el mapa para ver información geológica detallada.",
   "aboutGeologyData": "Acerca de estos datos",
   "geologyDataDescription": "Los datos geológicos son proporcionados por MacroStrat, una plataforma para la integración y visualización de datos geológicos.",
   "geologyDataSource": "Los datos incluyen tipos de rocas, edades geológicas e información estratigráfica de estudios geológicos globales.",

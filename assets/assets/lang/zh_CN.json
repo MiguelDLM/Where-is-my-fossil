@@ -412,7 +412,7 @@
   "geologyStep1": "使用图层菜单中的开关激活地质图层",
   "geologyStep2": "根据需要调整图层不透明度",
   "geologyStep3": "点击地图上的任何区域查看详细的地质信息",
-  "geologyStep4": "使用'查看地层'按钮探索该区域的地层柱状图",
+  "geologyStep4": "触摸地图上的任何点以查看该位置的详细地质信息。",
   "gneiss": "片麻岩",
   "granite": "花岗岩",
   "graywacke": "杂砂岩",

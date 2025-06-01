@@ -417,7 +417,7 @@
   "geologyStep1": "Toca la icona de capes a la part inferior esquerra del mapa per activar/desactivar la capa de geologia.",
   "geologyStep2": "Selecciona 'Mapa geològic' per veure tipus de roques, formacions i edats geològiques.",
   "geologyStep3": "Ajusta el control lliscant d'opacitat per combinar la capa geològica amb el mapa base.",
-  "geologyStep4": "Toca el botó 'Informació geològica' per obtenir detalls sobre la geologia al centre del mapa.",
+  "geologyStep4": "Toca qualsevol punt del mapa per veure informació geològica detallada d'aquesta ubicació.",
   "gneiss": "Gneis",
   "granite": "Granit",
   "graywacke": "Grauvaca",

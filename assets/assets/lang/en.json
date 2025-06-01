@@ -405,7 +405,7 @@
   "geologyStep1": "Tap the layers icon in the bottom left of the map to toggle the geology layer on/off.",
   "geologyStep2": "Select 'Geological Map' to view rock types, formations, and geological ages.",
   "geologyStep3": "Adjust the opacity slider to blend the geological layer with the base map.",
-  "geologyStep4": "Tap the 'Geological Info' button to get details about the geology at the center of the map.",
+  "geologyStep4": "Touch any point on the map to see detailed geological information for that location.",
   "aboutGeologyData": "About this data",
   "geologyDataDescription": "The geological data is provided by MacroStrat, a platform for geological data integration and visualization.",  
   "geologyDataSource": "Data includes rock types, geological ages, and stratigraphic information from global geological surveys.",

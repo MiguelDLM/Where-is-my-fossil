@@ -417,7 +417,7 @@
   "geologyStep1": "Ative a camada de geologia usando o interruptor no menu de camadas",
   "geologyStep2": "Ajuste a opacidade da camada conforme necessário",
   "geologyStep3": "Toque em qualquer área no mapa para ver informações geológicas detalhadas",
-  "geologyStep4": "Use o botão 'Ver Estratigrafia' para explorar a coluna estratigráfica da área",
+  "geologyStep4": "Toque em qualquer ponto do mapa para ver informações geológicas detalhadas para essa localização.",
   "gneiss": "Gnaisse",
   "granite": "Granito",
   "graywacke": "Grauvaque",

@@ -417,7 +417,7 @@
   "geologyStep1": "Tocca l'icona dei livelli in basso a sinistra della mappa per attivare/disattivare il livello geologico.",
   "geologyStep2": "Seleziona 'Mappa geologica' per visualizzare tipi di rocce, formazioni ed età geologiche.",
   "geologyStep3": "Regola il cursore dell'opacità per fondere il livello geologico con la mappa base.",
-  "geologyStep4": "Tocca il pulsante 'Informazioni geologiche' per ottenere dettagli sulla geologia al centro della mappa.",
+  "geologyStep4": "Tocca qualsiasi punto sulla mappa per vedere informazioni geologiche dettagliate per quella posizione.",
   "gneiss": "Gneiss",
   "granite": "Granito",
   "graywacke": "Grovacca",

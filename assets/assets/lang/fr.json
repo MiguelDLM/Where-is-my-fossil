@@ -396,7 +396,7 @@
   "geologyStep1": "Activez la couche géologique à l'aide du commutateur dans le menu des couches",
   "geologyStep2": "Ajustez l'opacité de la couche selon vos besoins",
   "geologyStep3": "Appuyez sur n'importe quelle zone de la carte pour voir des informations géologiques détaillées",
-  "geologyStep4": "Utilisez le bouton 'Voir la stratigraphie' pour explorer la colonne stratigraphique de la zone",
+  "geologyStep4": "Touchez n'importe quel point de la carte pour voir des informations géologiques détaillées pour cet emplacement.",
   "gneiss": "Gneiss",
   "granite": "Granit",
   "graywacke": "Grauwacke",
