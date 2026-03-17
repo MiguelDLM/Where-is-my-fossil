@@ -3,17 +3,18 @@
 [![GitHub release](https://img.shields.io/github/release/MiguelDLM/Where-is-my-fossil.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/MiguelDLM/Where-is-my-fossil.svg)]()
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/MiguelDLM/Where-is-my-fossil.svg)]()
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](https://github.com/MiguelDLM/Where-is-my-fossil/blob/main/LICENSE)
-[![Flutter](https://img.shields.io/badge/Flutter-3.29.1-blue.svg)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.7.0-blue.svg)](https://dart.dev)
-[![Firebase Core](https://img.shields.io/badge/Firebase%20Core-3.6.0-blue.svg)](https://pub.dev/packages/firebase_core)
-[![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-5.3.1-blue.svg)](https://pub.dev/packages/firebase_auth)
-[![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-5.4.4-blue.svg)](https://pub.dev/packages/cloud_firestore)
-[![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-11.3.3-blue.svg)](https://pub.dev/packages/firebase_analytics)
-[![Firebase Crashlytics](https://img.shields.io/badge/Firebase%20Crashlytics-4.1.3-blue.svg)](https://pub.dev/packages/firebase_crashlytics)
-[![Firebase Messaging](https://img.shields.io/badge/Firebase%20Messaging-15.2.4-blue.svg)](https://pub.dev/packages/firebase_messaging)
-[![Google Sign In](https://img.shields.io/badge/Google%20Sign%20In-6.2.2-blue.svg)](https://pub.dev/packages/google_sign_in)
+[![GitHub license](https://img.shields.io/github/license/MiguelDLM/Where-is-my-fossil.svg)]()
+[![Flutter](https://img.shields.io/badge/Flutter-3.38.3-blue.svg)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.10.1-blue.svg)](https://dart.dev)
+[![Firebase Core](https://img.shields.io/badge/Firebase%20Core-3.15.2-blue.svg)](https://pub.dev/packages/firebase_core)
+[![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-5.7.0-blue.svg)](https://pub.dev/packages/firebase_auth)
+[![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-5.6.12-blue.svg)](https://pub.dev/packages/cloud_firestore)
+[![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-11.6.0-blue.svg)](https://pub.dev/packages/firebase_analytics)
+[![Firebase Crashlytics](https://img.shields.io/badge/Firebase%20Crashlytics-4.3.10-blue.svg)](https://pub.dev/packages/firebase_crashlytics)
+[![Firebase Messaging](https://img.shields.io/badge/Firebase%20Messaging-15.2.10-blue.svg)](https://pub.dev/packages/firebase_messaging)
+[![Google Sign In](https://img.shields.io/badge/Google%20Sign%20In-6.3.0-blue.svg)](https://pub.dev/packages/google_sign_in)
 [![Google Mobile Ads](https://img.shields.io/badge/Google%20Mobile%20Ads-5.3.1-blue.svg)](https://pub.dev/packages/google_mobile_ads)
+
 
 
 This is a simple app that allows you to find the location of a fossil in the world. You can use the map to find the location of the fossil according to the records of different databases.
@@ -37,14 +38,15 @@ The app is connected to different databases, grouped by the type of information 
 |----------|---------------|--------|-----------|
 | ![iDigBio](https://img.shields.io/badge/iDigBio-Fossil%20Images-yellow) | Images of fossils | ✅ Active | [Visit](https://www.idigbio.org/) |
 | ![Phylopic](https://img.shields.io/badge/Phylopic-Silhouettes-yellow) | Silhouettes of species | ✅ Active | [Visit](http://phylopic.org/api/) |
-| ![NHM Data Portal](https://img.shields.io/badge/NHM-Species%20Images-yellow) | Images of species | ✅ Added in beta 0.3 | [Visit](https://data.nhm.ac.uk/) |
-| ![Phenome10k](https://img.shields.io/badge/Phenome10k-Species%20Images-yellow) | Images of species | ✅ Added in beta 0.3 | [Visit](https://phenome10k.org/) |
+| ![NHM Data Portal](https://img.shields.io/badge/NHM-Species%20Images-yellow) | Images of species | 🐛 Bug due changes in API | [Visit](https://data.nhm.ac.uk/) |
+
 
 ### 3D Models
 | Database | Data Provided | Status | More Info |
 |----------|---------------|--------|-----------|
 | ![Morphosource](https://img.shields.io/badge/Morphosource-3D%20Models-blue) | 3D models of fossils | ✅ Added in beta 0.3 | [Visit](https://www.morphosource.org/) |
 | ![Sketchfab](https://img.shields.io/badge/Sketchfab-3D%20Models-blue) | 3D models of species | ✅ Added in beta 0.3 | [Visit](https://sketchfab.com/) |
+| ![Phenome10k](https://img.shields.io/badge/Phenome10k-Species%20Images-yellow) | 3D models of species  | ✅ Added in beta 0.3 | [Visit](https://phenome10k.org/) |
 
 
 ## ✨ Features
@@ -55,7 +57,7 @@ The app is connected to different databases, grouped by the type of information 
 - **Species information** - Get detailed taxonomic and biological data
 - **Visual resources** - Access images and silhouettes of species
 - **3D models** - Explore three-dimensional fossil models
-- **Gemini AI Integration** - AI-powered fossil analysis and assistance *(New in v2.0.0)*
+- **Gemini AI Integration** - AI-powered fossil assistance for summarizing searchs *(New in v2.0.0)*
 - **Paleodex** - Comprehensive catalog for tracking and learning about species *(New in v2.0.0)*
 
 ### 📊 Data Visualization & Maps
@@ -63,14 +65,13 @@ The app is connected to different databases, grouped by the type of information 
 - **Paleomaps & Coordinates** - View species distribution on ancient maps with GPlates integration
 - **Occurrence distribution** - See where species were most common
 - **New Chronochart** - Precision charts based on GTS2020
-- **Phylogenetic trees** - Create and share taxonomic relationships
+- **Phylogenetic trees** - Create phylogenetic trees using Open Tree of Life API
 
 ### 👥 My Records & Data Management
 - **Redesigned My Records** - All-new gallery view with search, filtering, and sorting
 - **Multi-photo Support** - Add multiple photos to your records with a gallery carousel
 - **Full-screen Viewer** - Detailed view with pinch-to-zoom for fossil photos
 - **Specify Export** - Export your findings directly to Specify-compatible formats
-- **Local Storage** - Offline support for the free version of the app
 
 ### 🏛️ Local Resources
 - **Museum finder** - Discover natural history museums near you
@@ -113,7 +114,7 @@ The app is connected to different databases, grouped by the type of information 
 |-------|--------|---------|
 | Performance limitations | 🟠 Active | Searches for high taxonomic ranks (e.g., "Animalia") without filters may be slow |
 | Age range plot labels | 🟠 Active | Double taxon name labels appear on each bar |
-| Plot zoom functionality | 🟠 Active | Zoom options only work on the age range plot |
+| ~~Plot zoom functionality~~ | ✅ Fixed  | Fixed in v2.0.0 |
 | ~~Translation incomplete~~ | ✅ Fixed | ~~Some parts remain in English~~ *(Fixed in release 1.0)* |
 | ~~Back button navigation~~ | ✅ Fixed | ~~Sometimes returns to login page~~ *(Fixed in beta 0.3)* |
 | ~~Admin panel display~~ | ✅ Fixed | ~~Not all columns visible in portrait mode~~ *(Fixed in beta 0.2)* |
@@ -125,15 +126,14 @@ This repository serves as the official release channel for the app. The current 
 
 ### What's New since v1.4.0
 - **v2.0.0**: 
-    - **Web Version**: Full deployment and branding.
     - **Gemini AI**: Integrated AI for fossil analysis.
     - **Paleodex**: New species catalog.
-    - **Specify Export**: Professional museum data export.
+    - **Specify Export**: Export my records in CSV format. Perfect for Specify databases
     - **My Records Gallery**: Complete redesign of find management.
-    - **Chronochart GTS2020**: Most accurate geological time charting.
+    - **Chronochart GTS2020**: Most accurate and rich geological time charting.
     - **Multi-photo support**: Add and view multiple images per fossil.
 - **v1.6.x**: 
-    - **Paleomaps**: Dynamic ancient continent distribution visualization.
+    - **Paleomaps**: Dynamic ancient continent distribution visualization using Gplates API.
     - **FCM integration**: Robust notification support.
     - **UI/UX Polishing**: Various stability and localization fixes.
 
