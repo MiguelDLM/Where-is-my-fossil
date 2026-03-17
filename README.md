@@ -12,8 +12,8 @@
 [![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-11.3.3-blue.svg)](https://pub.dev/packages/firebase_analytics)
 [![Firebase Crashlytics](https://img.shields.io/badge/Firebase%20Crashlytics-4.1.3-blue.svg)](https://pub.dev/packages/firebase_crashlytics)
 [![Firebase Messaging](https://img.shields.io/badge/Firebase%20Messaging-15.2.4-blue.svg)](https://pub.dev/packages/firebase_messaging)
-[![Google Sign In](https://img.shields.io/badge/Google%20Sign%20In-6.2.1-blue.svg)](https://pub.dev/packages/google_sign_in)
-[![Google Mobile Ads](https://img.shields.io/badge/Google%20Mobile%20Ads-5.2.0-blue.svg)](https://pub.dev/packages/google_mobile_ads)
+[![Google Sign In](https://img.shields.io/badge/Google%20Sign%20In-6.2.2-blue.svg)](https://pub.dev/packages/google_sign_in)
+[![Google Mobile Ads](https://img.shields.io/badge/Google%20Mobile%20Ads-5.3.1-blue.svg)](https://pub.dev/packages/google_mobile_ads)
 
 
 This is a simple app that allows you to find the location of a fossil in the world. You can use the map to find the location of the fossil according to the records of different databases.
@@ -54,19 +54,23 @@ The app is connected to different databases, grouped by the type of information 
 - **Worldwide location** - See where fossils were discovered globally
 - **Species information** - Get detailed taxonomic and biological data
 - **Visual resources** - Access images and silhouettes of species
-- **3D models** - Explore three-dimensional fossil models *(added in beta 0.3)*
+- **3D models** - Explore three-dimensional fossil models
+- **Gemini AI Integration** - AI-powered fossil analysis and assistance *(New in v2.0.0)*
+- **Paleodex** - Comprehensive catalog for tracking and learning about species *(New in v2.0.0)*
 
-### 📊 Data Visualization
+### 📊 Data Visualization & Maps
 - **Interactive world map** - Plot fossil locations geographically
+- **Paleomaps & Coordinates** - View species distribution on ancient maps with GPlates integration
 - **Occurrence distribution** - See where species were most common
-- **Age distribution** - Understand when species lived through time
-- **Taxonomic diversity** - Explore related species and their relationships
-- **Phylogenetic trees** - Create and share taxonomic relationships *(added in beta 0.2)*
+- **New Chronochart** - Precision charts based on GTS2020
+- **Phylogenetic trees** - Create and share taxonomic relationships
 
-### 👥 Community Features
-- **Personal fossil log** - Keep records of fossils you've found
-- **Paleontology events** - Access conferences, courses, and workshops
-- **Event creation** - Suggest and organize paleontology events
+### 👥 My Records & Data Management
+- **Redesigned My Records** - All-new gallery view with search, filtering, and sorting
+- **Multi-photo Support** - Add multiple photos to your records with a gallery carousel
+- **Full-screen Viewer** - Detailed view with pinch-to-zoom for fossil photos
+- **Specify Export** - Export your findings directly to Specify-compatible formats
+- **Local Storage** - Offline support for the free version of the app
 
 ### 🏛️ Local Resources
 - **Museum finder** - Discover natural history museums near you
@@ -117,7 +121,21 @@ The app is connected to different databases, grouped by the type of information 
 
 ## 📱 Releases
 
-This repository serves as the official release channel for the app. While the app is available on the Google Play Store, this repository will always contain the most recent version, including beta releases. Please note that these versions may contain bugs that will be addressed in subsequent updates.
+This repository serves as the official release channel for the app. The current stable version is **v2.0.0**.
+
+### What's New since v1.4.0
+- **v2.0.0**: 
+    - **Web Version**: Full deployment and branding.
+    - **Gemini AI**: Integrated AI for fossil analysis.
+    - **Paleodex**: New species catalog.
+    - **Specify Export**: Professional museum data export.
+    - **My Records Gallery**: Complete redesign of find management.
+    - **Chronochart GTS2020**: Most accurate geological time charting.
+    - **Multi-photo support**: Add and view multiple images per fossil.
+- **v1.6.x**: 
+    - **Paleomaps**: Dynamic ancient continent distribution visualization.
+    - **FCM integration**: Robust notification support.
+    - **UI/UX Polishing**: Various stability and localization fixes.
 
 For the most stable experience, we recommend downloading the app from the Play Store.
 
