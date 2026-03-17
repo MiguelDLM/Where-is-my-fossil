@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Weichselian",
+    "start_ma": 0.08,
+    "end_ma": 0.0117,
+    "rank": "NW-EU",
+    "description": "Between Stages 2 and 5",
+    "is_dashed": false
+  },
+  {
+    "name": "Eemian",
+    "start_ma": 0.129,
+    "end_ma": 0.08,
+    "rank": "NW-EU",
+    "description": "Interglacial Stage 5e; set as base of Late Pleistocene",
+    "is_dashed": false
+  },
+  {
+    "name": "Saalian",
+    "start_ma": 0.39,
+    "end_ma": 0.129,
+    "rank": "NW-EU",
+    "description": "Onset of Glacial MIS 10",
+    "is_dashed": false
+  },
+  {
+    "name": "Holsteinian",
+    "start_ma": 0.42,
+    "end_ma": 0.39,
+    "rank": "NW-EU",
+    "description": "Interglacial Stage 11 (onset)",
+    "is_dashed": false
+  },
+  {
+    "name": "Elsterian",
+    "start_ma": 0.48,
+    "end_ma": 0.42,
+    "rank": "NW-EU",
+    "description": "Onset of glacial MIS 12",
+    "is_dashed": false
+  },
+  {
+    "name": "Cromerian Complex",
+    "start_ma": 0.81,
+    "end_ma": 0.48,
+    "rank": "NW-EU",
+    "description": "Onset of inter-glacial MIS 21, and includes MIS20 and 19.",
+    "is_dashed": false
+  },
+  {
+    "name": "Bayelian",
+    "start_ma": 1.12,
+    "end_ma": 0.81,
+    "rank": "NW-EU",
+    "description": "Onset of extended Interglacial MIS 33-31",
+    "is_dashed": false
+  },
+  {
+    "name": "Menapian",
+    "start_ma": 1.38,
+    "end_ma": 1.12,
+    "rank": "NW-EU",
+    "description": "DOTTED --Onset of glacial MIS 44 (tentatively)",
+    "is_dashed": true
+  },
+  {
+    "name": "Waalian",
+    "start_ma": 1.6,
+    "end_ma": 1.38,
+    "rank": "NW-EU",
+    "description": "DOTTED --Tentatively at onset of longer interglacial dominated MIS 57-45",
+    "is_dashed": true
+  },
+  {
+    "name": "Eburonian",
+    "start_ma": 1.76,
+    "end_ma": 1.6,
+    "rank": "NW-EU",
+    "description": "Tentatively at onset of glacial MIS 62-60.  Glacial-dominated.",
+    "is_dashed": false
+  },
+  {
+    "name": "Tiglian",
+    "start_ma": 2.44,
+    "end_ma": 1.76,
+    "rank": "NW-EU",
+    "description": "Interglacial Stage 93.  \"Tiglian is a total pain and bein revised.  It might be safer to leave the Tiglian as a single unit. � We know TC4c � best candidate is MIS68-72.  There is no stronger means of correlation. (Gibbard, email to J.Ogg, Jan'06)",
+    "is_dashed": false
+  },
+  {
+    "name": "Praetiglian",
+    "start_ma": 2.55,
+    "end_ma": 2.44,
+    "rank": "NW-EU",
+    "description": "Base arbitrarily assigned as Glacial Stage 102",
+    "is_dashed": false
+  },
+  {
+    "name": "Reuverian",
+    "start_ma": 2.7,
+    "end_ma": 2.55,
+    "rank": "NW-EU",
+    "description": "DOTTED -- A \"base\" arbitrarily dotted as Interglacial Stage 107; continues older.",
+    "is_dashed": true
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Rancholabrean",
+    "start_ma": 0.2,
+    "end_ma": 0.0,
+    "rank": "NALMA",
+    "description": "Base of zone and FAD are 75% up from the base of the C1n subchron. Bison first occur. = Alces, O.canadensis, F. concolor, etc. are found in this zone",
+    "is_dashed": false
+  },
+  {
+    "name": "Irvingtonian",
+    "start_ma": 1.79,
+    "end_ma": 0.2,
+    "rank": "NALMA",
+    "description": "Base of zone is 85% up from the base of the C2n subchron. Mammuthus is the age marker for the base of the Irvingtonian, which, oddly is higher than marker for base of IR1 subzone (page 336, fig 8.9 in Woodburne).",
+    "is_dashed": true
+  },
+  {
+    "name": "Blancan",
+    "start_ma": 4.91,
+    "end_ma": 1.79,
+    "rank": "NALMA",
+    "description": "Base of zone is 90% up from the base of the C3n.3r subchron. Bl 1 age markers are Mimomys panacaensis, Ogmodontomys, Ophiomys",
+    "is_dashed": true
+  },
+  {
+    "name": "Hemphilian",
+    "start_ma": 9.07,
+    "end_ma": 4.91,
+    "rank": "NALMA",
+    "description": "Base of zone is 10% up from the base of the C4An subchron. Crusafontina (soricid), Kansasimys (eomyid), Lemoynea (desmanine mole), Pliometanastes (definition of subdivison, a edentates), Paramicrotoscoptes (murid), Pliotomodon (murid) are in the Hh 1 subzone",
+    "is_dashed": true
+  },
+  {
+    "name": "Clarendonian",
+    "start_ma": 12.57,
+    "end_ma": 9.07,
+    "rank": "NALMA",
+    "description": "Base of zone is 65% up from the base C5Aar.1r. Pseudoceras;  plains taxa invade Great Basin.",
+    "is_dashed": true
+  },
+  {
+    "name": "Barstovian",
+    "start_ma": 15.99,
+    "end_ma": 12.57,
+    "rank": "NALMA",
+    "description": "Base of zone is base of the C5Br subchron. Plithocyon (hemicyonione bear), Zygolophodon (Proboscidean Datum)",
+    "is_dashed": true
+  },
+  {
+    "name": "Hemingfordian",
+    "start_ma": 18.47,
+    "end_ma": 15.99,
+    "rank": "NALMA",
+    "description": "Base of zone is 5% up from the base of the C5En subchron.  Ursavus (ursid); Aletomeryx (aletomerycine artiodactyl), Amphictis (procyonid), Amphicyon (amphicyonid), Antesorex (soricid), Brachypotherium (teleoceratine rhino), Floridaceras (aceratherine rhino); Caterogale, Desmatolagus and Oreolagus (rabbits); Edaphocyon (procyonid), Euroxenomys (casterine beaver),  Phoberocyon (hemicyonine), Plesiosorex (plesiosoricid), and mustelids (Leptarctus, Miomustela, Potamotherium) are in He 1 subzone.",
+    "is_dashed": true
+  },
+  {
+    "name": "Arikareean",
+    "start_ma": 29.75,
+    "end_ma": 18.47,
+    "rank": "NALMA",
+    "description": "FAD and base of zone in middle of Chron C11n.2n.  Plesiosminthus is in the Ar 1 subzone.  FAD of Palaeocastor nebraskensis was also at ths level in GTS2012 chart.",
+    "is_dashed": true
+  },
+  {
+    "name": "Whitneyan",
+    "start_ma": 32.1,
+    "end_ma": 29.75,
+    "rank": "NALMA",
+    "description": "FAD and base of zone at 50% up in Chron C12r..  (Diceratherium is a rhino, Protoceras is a protoceratine). \"Whitneyan now subdivided into Wh1 and Wh2\" (J.Hooker emailed comments, 2Oct'19)",
+    "is_dashed": true
+  },
+  {
+    "name": "Orellan",
+    "start_ma": 33.9,
+    "end_ma": 32.1,
+    "rank": "NALMA",
+    "description": "FADs and bases of zones are base of Oligocene.  (Hypertragulus is a hypertragulid). Suoidea was also listed in GTS2012. \"I have not followed the 4-fold subdivision because of space issues.\" (J.Hooker emailed comments, 2Oct'19) -- Need to find these to add to main TSC suite.",
+    "is_dashed": true
+  },
+  {
+    "name": "Chadronian",
+    "start_ma": 37.39,
+    "end_ma": 33.9,
+    "rank": "NALMA",
+    "description": "FADs and base of zone are assigned as base of C17n.1n subchron (base of Priabonian stage). (Poebrotherium is a camelid). GTS2012 also had FAD of Entelodontidae here.",
+    "is_dashed": true
+  },
+  {
+    "name": "Duchesnean",
+    "start_ma": 41.11,
+    "end_ma": 37.39,
+    "rank": "NALMA",
+    "description": "FAD and bases of Zones are mid-C19n (J.Hooker emailed comments, 3Oct'19). Were higher in GTS2012 at 60% up in Chron C18n.2n;  FAD of Mesohippus was at base of Du1, now at base Du2. FADs of Anthracotheriidae, Amphicyonidae, Rhinocerotidae were also at base of Du1 in GTS2012.",
+    "is_dashed": true
+  },
+  {
+    "name": "Uintan",
+    "start_ma": 47.53,
+    "end_ma": 41.11,
+    "rank": "NALMA",
+    "description": "Base of Uintan now \"low in C21n\" (J. Hooker, email 3Oct'19) -- 15% used here; GTS2012 had lower in middle of Chron C21r (Smith et al., GSA Bull., 2008).  In GTS04; these FADs and base of zone at ca. 55% up in Chron C21n.",
+    "is_dashed": true
+  },
+  {
+    "name": "Bridgerian",
+    "start_ma": 52.01,
+    "end_ma": 47.53,
+    "rank": "NALMA",
+    "description": "FADs and base of zone at about 65% of Chron C23r. (Smith et al., GSA Bull., 2008; GTS04 had at about 55%).  Br0 is the brief Eotitanops borealis Range Zone (and was asked to delete in GTS2012).",
+    "is_dashed": true
+  },
+  {
+    "name": "Wasatchian",
+    "start_ma": 56.0,
+    "end_ma": 52.01,
+    "rank": "NALMA",
+    "description": "The WaM is very brief (less than 50kyr?) at the PETM anomaly.",
+    "is_dashed": true
+  },
+  {
+    "name": "Clarkforkian",
+    "start_ma": 57.24,
+    "end_ma": 56.0,
+    "rank": "NALMA",
+    "description": "DASHED -- FADs and base of zone at 75% up in Chron C25n.",
+    "is_dashed": true
+  },
+  {
+    "name": "Tiffanian",
+    "start_ma": 62.28,
+    "end_ma": 57.24,
+    "rank": "NALMA",
+    "description": "LADs for base of zone.  GTS04 =  80% up in the C27n Chron (former base of Selandian stage)",
+    "is_dashed": true
+  },
+  {
+    "name": "Torrejonian",
+    "start_ma": 64.75,
+    "end_ma": 62.28,
+    "rank": "NALMA",
+    "description": "LADs are middle of Chron C28r.",
+    "is_dashed": true
+  },
+  {
+    "name": "Puercan",
+    "start_ma": 66.04,
+    "end_ma": 64.75,
+    "rank": "NALMA",
+    "description": "FADs and base of zone are base of Cenozoic.  FAD of Protungulatum was here in GTS2012.",
+    "is_dashed": true
+  },
+  {
+    "name": "Lancian",
+    "start_ma": 71.23,
+    "end_ma": 66.04,
+    "rank": "NALMA",
+    "description": "Base of zone is 10% from the base of the C31r subchron.  Notable first occurrences are: Cimexomys minor, Parectypodus, Glasbius, Alphadon jasoni, Gypsonictops illuminatus. No ages are given.",
+    "is_dashed": false
+  },
+  {
+    "name": "\"\"\"Edmontonian\"\"\"",
+    "start_ma": 80.94,
+    "end_ma": 71.23,
+    "rank": "NALMA",
+    "description": "Base of zone is 65% up from the base of the C33r subchron.  Notable first occurrences are: Meniscoessus collomensis, Didelphondon. No ages are given",
+    "is_dashed": false
+  },
+  {
+    "name": "Judithian",
+    "start_ma": 81.98,
+    "end_ma": 80.94,
+    "rank": "NALMA",
+    "description": "Base of zone is 30% up from the base of the C33r subchron.  Notable first occurrences: Meniscoessus major, M. intermedius, Mesodma primaeva, Cimolomys clarki, Turgidodon, Gypsonictops. No ages were given.",
+    "is_dashed": false
+  },
+  {
+    "name": "Aquilan",
+    "start_ma": 84.88,
+    "end_ma": 81.98,
+    "rank": "NALMA",
+    "description": "Base of zone is 90% up from the base of the C34n subchron.  Notable first occurrences are: Mesodma, Eodelphis, Paranyctoides. No ages were given.",
+    "is_dashed": false
+  }
+]

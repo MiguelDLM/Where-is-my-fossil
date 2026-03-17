@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Aurelian",
+    "start_ma": 0.6,
+    "end_ma": 0.0,
+    "rank": "ELMA",
+    "description": "Base of Aurelian = I think it is the former MN19 (MQ4?; also known as Toringian) is above base of Middle Pleistocene (ca. 0.6 Ma) (GTS2012 chart). Large mammals =  Canis lupus (wolf), Ursus spelaeus (cave bear), Megaloceros giganteus (Irish elk); https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": false
+  },
+  {
+    "name": "Galerian",
+    "start_ma": 1.07,
+    "end_ma": 0.6,
+    "rank": "ELMA",
+    "description": "Base of MQ3 (also called Epivillafranchian) is ca. base of Jamamillo subchron - Fig. 29.12 in GTS2020. \"European mammal faunas primarily included survivors from the latest Villafranchian\" (GTS2020).  https://en.wikipedia.org/wiki/European_land_mammal_age lists a succession of Equus (horse) species culiminating in modern horse in mid-Galerian, Megaceroides verticornis, followed by Mammuthus trogontherii, etc.",
+    "is_dashed": false
+  },
+  {
+    "name": "Biharian",
+    "start_ma": 2.0,
+    "end_ma": 1.07,
+    "rank": "ELMA",
+    "description": "Base of MN18 (MQ1) (late Villafranchian) is slightly below base of Calabrian (ca. 2 Ma) (GTS2012 chart); with zone MQ1 being very brief (GTS2020). Large mammals = Homo (in Caucasus, Georgia), Canis etruscus (\"Wolf event\"), Pachycrocuta, Panthera, Procamptoceras, Eucladoceros, Eucladoceros, Pseudodama; see https://en.wikipedia.org/wiki/European_land_mammal_age . \"Faunal turnover intensely influenced mammal assemblages and involved carnivores and herbivores, resulting in the disappearance of most of the early Villafranchian species, largely among herbivores, while new carnivores and herbivores progressively appeared\" (GTS2020)",
+    "is_dashed": false
+  },
+  {
+    "name": "Villafranchian",
+    "start_ma": 3.6,
+    "end_ma": 2.0,
+    "rank": "ELMA",
+    "description": "Base of MN16 (early Villafranchian) is essentially base of Piacenzian (GTS2012 chart). Sub-tropical into humid forest trend. Large mammals = Equus (horse), Canis (primative wolf), Mammuthus (primative African elephant), Homotherium, Megantereon, Ursus etruscus,  Pliohyaena perrieri, Gazellospira torticornis, Arvernoceros ardei, Hesperidoceras merlai, Cervus perrieri; Small = Kislangia ischus, Kisl. cappettai, Mimomys polonicus, Mim. hajnackensis; https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": false
+  },
+  {
+    "name": "Ruscinian (Alfambrian)",
+    "start_ma": 5.34,
+    "end_ma": 3.6,
+    "rank": "ELMA",
+    "description": "Base of MN14 is essentially base of Zanclean (GTS2012 chart). Large mammals = Sus arvernensis, Croizetoceros (deer), Acinonyx (cheetah cat genus), Felis issiodorensis; Small = Promimomys, Trilophomys, Celadensia, Castor (beaver); https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": false
+  },
+  {
+    "name": "Turolian",
+    "start_ma": 8.9,
+    "end_ma": 5.34,
+    "rank": "ELMA",
+    "description": "Base of MN11 is at about 8.9 Ma (GTS2012 chart) - fixed at that date. Large mammals = Birgerbohlinia (extinct giraffe genus), Lucentia; Small = Parapodemus lugdunensis, Huerzelerimys vireti, Occitanomys sondaari; https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": false
+  },
+  {
+    "name": "Vallesian",
+    "start_ma": 11.2,
+    "end_ma": 8.9,
+    "rank": "ELMA",
+    "description": "Base of MN9 at 11.2 Ma (GTS2012 chart) - fixed at that date. Large mammals = Hippotherium (early horse genus), Decennatherium (giraffe genus), Machairodus (saber-tooth cat genus); Small = Cricetulodon; https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": false
+  },
+  {
+    "name": "Astaracian (u. Aragonian)",
+    "start_ma": 14.2,
+    "end_ma": 11.2,
+    "rank": "ELMA",
+    "description": "Base of MN6 at 14.2 Ma (GTS2012 chart) - fixed at that date. Large mammals = Tethytragus, Hispanomeryx (deer-related genus), Euprox, Listriodon (pig-like genus); Small = Megacricetodon crusafonti, Megacricetodon gersi; https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": false
+  },
+  {
+    "name": "Orleanian (l. & m. Aragonian)",
+    "start_ma": 17.2,
+    "end_ma": 14.2,
+    "rank": "ELMA",
+    "description": "Base of MN4 at 17.2 Ma (GTS2012 chart) - fixed at that date. Large mammals = Bunolistriodon (pig-like genus), Dorcatherium, Chalicotherium (odd-toed ungulate0, Eotragus (bovid-related), Prodeinotherium (elephant-sized with tusks); Small = Megacricetodon primitivus (rodent); https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": false
+  },
+  {
+    "name": "Ramblian",
+    "start_ma": 19.5,
+    "end_ma": 17.2,
+    "rank": "ELMA",
+    "description": "DASHED Base of MN3 at 19.5 Ma (GTS2012 chart) - fixed at that date. Large mammals = Gomphotherium (elephant-related), Procervulus (deer-like), Lagomeryx (ungulate), Actoocemas, Palaeomeryx (Artiodactyla genus), Brachyodus (anthracothere genus), Anchitherium (three-toed horse), Aureliachoerus (suid-group), Hemicyon (\"dog bear\");  https://en.wikipedia.org/wiki/European_land_mammal_age",
+    "is_dashed": true
+  },
+  {
+    "name": "Agenian",
+    "start_ma": 23.04,
+    "end_ma": 19.5,
+    "rank": "ELMA",
+    "description": "Base of MN1 is base of Miocene; with appearance of Hyotherium  extinct genus of even-toed ungulates; and small mammals of Rhodanomys schlosseri, Vasseuromys.  Top of Oligocene is LAD of Theridomyidae.",
+    "is_dashed": false
+  },
+  {
+    "name": "Arvernian",
+    "start_ma": 28.82,
+    "end_ma": 23.04,
+    "rank": "ELMA",
+    "description": "FAD is 40% up in Chron C10r.",
+    "is_dashed": true
+  },
+  {
+    "name": "Suevian",
+    "start_ma": 33.79,
+    "end_ma": 28.82,
+    "rank": "ELMA",
+    "description": "\"Grande Coupure\" migration of mammals from Asia. FAD and base of zones are 95% up in the C13r subchron (just above the Oi-1 cooling event at Eoc-Olig boundary)",
+    "is_dashed": true
+  },
+  {
+    "name": "Headonian",
+    "start_ma": 37.39,
+    "end_ma": 33.79,
+    "rank": "ELMA",
+    "description": "FADs and base of zones are assigned as base of C17n.1n subchron (base of Priabonian stage).",
+    "is_dashed": true
+  },
+  {
+    "name": "Robiacian",
+    "start_ma": 43.45,
+    "end_ma": 37.39,
+    "rank": "ELMA",
+    "description": "DASH \" �base� of MP14 should be at the base of C20n\"  but debated: \"Comte et al. 2012 in their figure 26 seem to suggest that MP14 correlates with lower C18r \" (Speijer, 3Sept'19 to J.Ogg); and \"it is not clear (to me) why and how Comte et al. 2012 shifted the positions of MP14 and MP16.  So I prefer to be conservative and keep the situation as it was in GTS2012: Center of MP14 at base C19r and center of MP16 at middle C18n1n.\" (Speijer, 13Sept'19).  LAD is assumed to set base of Robiacian.  LAD is base of Chron C20n.",
+    "is_dashed": true
+  },
+  {
+    "name": "Geiseltalian",
+    "start_ma": 48.0,
+    "end_ma": 43.45,
+    "rank": "ELMA",
+    "description": "\"Extend base of Geiseltalian down to 48Ma in line with new dating of Messel (Lenz, O.K., Wilde, V, Mertz, D.F. & Riegel, W. 2015. New palynology-based astronomical and revised 40Ar/39Ar ages for the Eocene maar lake of Messel (Germany). Int. J. Earth Sci. (Geol Rundsch), 104: 873-889).\" (R. Speijer, 30Sept'19) => set as \"hard date\".  Previously J.Hooker -- radiometric dating at Messel => 47.4 Ma (as implied by his shifted boundary of Dec'10 diagram).  GTS04 = FAD and bases of zones were 10% up in the C21r Chron, and FAD of Anoplotheriidae was also at base",
+    "is_dashed": true
+  },
+  {
+    "name": "Grauvian",
+    "start_ma": 50.52,
+    "end_ma": 48.0,
+    "rank": "ELMA",
+    "description": "FAD and base of zone is dashed at 22% up in Chron 22r. \"The deposition of the MP10 Pr_montr_ mammal fauna (Paris Basin) is estimated to postdate the onset of both NP13 and Chron C22r, which nearly coincide, by about 200 to 300 kyr, and thus took place around 50.4 to 50.3 million years ago.\" (Speijer, 3Sept'19 to J.Ogg)",
+    "is_dashed": true
+  },
+  {
+    "name": "Neustrian",
+    "start_ma": 56.1,
+    "end_ma": 50.52,
+    "rank": "ELMA",
+    "description": "\"PE1 records the Mammalian Dispersal Even, which brings the first primates, artiodactyls and perissodactyls into the N.Hemis. continents, and brings carnivorans and rodents into Europe. ... Low sea-levels at the Th-5 sequence boundary in the latest Paleocene allowed phase 1 dispersal into Europe.\" (Hooker, 2015; Newsl.Strat.) => tied to that Th5 sequence (= Th6 in Hardenbol-Exxon scale, used here).  \"MP7 and PE I are aligned with base Neustrian; and Neustrian should just below the base Ypresian; MP7 and PE I are aligned with base Neustrian, which means that some of the classic PETM faunas (Dormaal, Quesnay) are actually latest Paleocene (Hooker 2015).\" (Speijer to J.Ogg, 3Sept'19) => put 100kyr below base of PETM here.  Just FYI: \"MP7-8 type assemblages seem to be quite diachronous between northern and southern Europe .. (Yans et al. 2014). \"  BUT, Speijer (Sept'15 email), advised \":  I think I upset more or less the entire vertebrate community in Brussels with including the proposal of Jerry, that the MP7 reference level (specifically Dormaal) would include the latest Thanetian.  Clearly before this can be changed in the chart as I previously suggested, there should be more agreement that Jerry�s proposition is correct.  So please position the boundaries in the European columns back at 56 Ma.\"  BUT, I did this only for the GTS2020 graphic; not this TSCreator database.",
+    "is_dashed": true
+  },
+  {
+    "name": "Cernaysian",
+    "start_ma": 57.72,
+    "end_ma": 56.1,
+    "rank": "ELMA",
+    "description": "FAD and base of zones at 95% up in Chron C25r.",
+    "is_dashed": true
+  }
+]

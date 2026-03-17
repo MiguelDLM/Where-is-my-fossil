@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Neolithic",
+    "start_ma": 0.01,
+    "end_ma": 0.0055,
+    "rank": "Tools",
+    "description": "Neolithic (8,000 - 3,000 BC): The New Stone Age is when people began to use ground stone tools, cultivate plants, and domesticate livestock; but before the use of metal for tools.",
+    "is_dashed": false
+  },
+  {
+    "name": "Blade flake tools",
+    "start_ma": 0.04,
+    "end_ma": 0.01,
+    "rank": "Tools",
+    "description": "Blade flake tools (defines Upper Paleozoic) is from about 40,000 years to 10,000 years ago.  \"It was not until the late ice age cultures of the Cro-Magnon people and some of their contemporaries outside of Europe that long, thin, delicate blade flakes were commonly produced and used.\"  (http://anthro.palomar.edu)",
+    "is_dashed": false
+  },
+  {
+    "name": "Mousterian",
+    "start_ma": 0.08,
+    "end_ma": 0.04,
+    "rank": "Tools",
+    "description": "Mousterian (defines Middle Paleozoic) is from about 80,000 years ago to about 40,000 years ago.  Named from Neandertal sites.  Called Aterian in Africa.  \"Marked by the progressive reduction in the use of large core tools, such as hand axes, as specialized flake tools became more common.\"  Named after the site of le Moustier in France; this enhancement of the Levallois-style prepared core technique was especially developed by Neandertals (and ended with their extinction).",
+    "is_dashed": false
+  },
+  {
+    "name": "Levallois",
+    "start_ma": 0.3,
+    "end_ma": 0.08,
+    "rank": "Tools",
+    "description": "The Levallois technique for making stone tools was carefully preparing a core, and then flaking off uniform tools of a desired shape and size by pressure-flaking producing a tool convex on one side and relatively flat on the other--i.e., a Levallois flake.  This technique was first used by archaic humans around 300,000 years ago, and perfected in the Mousterian Tradition by the Neandertals.  Image of method at:  http://anthro.palomar.edu/homo2/images/Levallois_technique.gif.",
+    "is_dashed": false
+  },
+  {
+    "name": "Acheulean",
+    "start_ma": 1.5,
+    "end_ma": 0.3,
+    "rank": "Tools",
+    "description": "Archeulean (or Mode 2): producing the first handaxes (stone tools shaped on both sides to a standard teardrop form). (Tattershall and Schwartz, 2009).    Image at:  http://anthro.palomar.edu/homo2/images/Acheulean_hand_axes.gif.  The earlier Oldowan method was a single-sided shaping; which lasted a milion years.  Purpose of the handaxes is uncertain, but probably butchery (implying hunting of small to mid-sized mammals), digging and chopping.  Characteristic stone artifacts include large bifacially flaked handaxes, cleavers, and picks.",
+    "is_dashed": false
+  },
+  {
+    "name": "Oldovian",
+    "start_ma": 2.588,
+    "end_ma": 1.5,
+    "rank": "Tools",
+    "description": "Oldowan (also called \"Mode 1\", and begins \"Paleolithic\") is the earliest stone-tool making culture, originally identified at Tanzania's Olduvai Gorge.\"  Produced by Homo habilis.  At about 2.5 Ma, \"the first Oldowan stone tool makers had learned to fracture one rock with another to produce flakes with sharp cutting edges\" and they were apparently content with this simple single-bang method for a million years. (Tattersall and Schwartz, 2009).  Image of method at: http://anthro.palomar.edu/homo2/images/Oldowan_chopper.gif.    Precedes the Acheulean tradition (breaking the rock on two sides).  Location: Eastern half of the Africa continent. Important sites: Koobi Fora, Olduvai Gorge, Sterkfontein.",
+    "is_dashed": false
+  }
+]

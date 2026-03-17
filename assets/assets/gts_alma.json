@@ -1,0 +1,138 @@
+[
+  {
+    "name": "[ undefined ]",
+    "start_ma": 2.0,
+    "end_ma": 0.0,
+    "rank": "ALMA",
+    "description": "DASHED as coeval with base of MN18 of Europe in Van Dam diagram for GTS2012",
+    "is_dashed": true
+  },
+  {
+    "name": "Yushean",
+    "start_ma": 5.0,
+    "end_ma": 2.0,
+    "rank": "ALMA",
+    "description": "DASHED as coeval with base of MN14 of Europe in Van Dam diagram for GTS2012",
+    "is_dashed": true
+  },
+  {
+    "name": "Baodean",
+    "start_ma": 11.2,
+    "end_ma": 5.0,
+    "rank": "ALMA",
+    "description": "DASHED as coeval with base of MN9 of Europe in Van Dam diagram for GTS2012 => base of Serravallian (used here)",
+    "is_dashed": true
+  },
+  {
+    "name": "Tunggurian",
+    "start_ma": 13.82,
+    "end_ma": 11.2,
+    "rank": "ALMA",
+    "description": "DASHED as coeval with middle of MN6 of Europe in Van Dam diagram for GTS2012 => base of Serravallian (used here)",
+    "is_dashed": true
+  },
+  {
+    "name": "Shanwangian",
+    "start_ma": 19.5,
+    "end_ma": 13.82,
+    "rank": "ALMA",
+    "description": "DASHED as coeval base with MN3 of Europe in Van Dam diagram for GTS2012",
+    "is_dashed": true
+  },
+  {
+    "name": "Xiejian",
+    "start_ma": 23.04,
+    "end_ma": 19.5,
+    "rank": "ALMA",
+    "description": "DASHED as base of Miocene (GTS2012 chart by",
+    "is_dashed": true
+  },
+  {
+    "name": "Tabenbulukian",
+    "start_ma": 25.71,
+    "end_ma": 23.04,
+    "rank": "ALMA",
+    "description": "Tabenbulukian land mammal age was proposed on the basis of the Yandantu fauna (also called Tabenbuluk fauna) of the Taben-buluk area (also called Danghe area).  Base estimated as ca. 40% up Chron C8n.2n on revised diagram of Speijer (15Sept'19).  Had been MUCH older in GTS2012 at 1/3rd up in MP23 on schematic of Hooker (Dec'10 letter). But, this GTS2020 is closer to GTS04 = Base of zone is 35% up in the C7r subchron. \"Fossil mammal taxa common in many contemporaneous localities can define the base of the Tabenbulukian Stage. They include Sinolagomys major, S. kansuensis, Yindirtemys grangeri, Y. ambiguus, Y. suni, Plesiosminthus asiaecentralis, P. tangingoli, P. parvulus, Tataromys parvus, T. plicidens, Distylomys qianlishanensis, Tachyoryctoides kokonorensis, and T. obrutschewi.\" (Wang et al., 2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Hsandagolian",
+    "start_ma": 33.21,
+    "end_ma": 25.71,
+    "rank": "ALMA",
+    "description": "Ulantatalian (apparently = Hsandagolian)  ALMA Named after Hsanda Gol Formation; and China LMA after Ulantatal in Alax Zuoqi.  Base of C12r. (J.Hooker 30Sept'19: \"I think we should follow Kraatz & Geisler (2010) and place its base at top C13n. \" with R.Speijer comment that \"Okay. Wang et al indeed provide no data for correlating the base Ulantalaian (+Hsandagol in their concept) precisely with the base Oligocene. I may mention this deviation form Wang et al. in the caption.\"). Previously (Speijer, 23Sept'19) was at base of Chron 13n = coincides with base of Europe MP21 (just above base of Oligocene); => Europe-Asia faunal exchange episode. For the China Ulantatalian: \"The composition of rodent fauna has changed obviously across the boundary. ... Some of the taxa occurred at the lower horizon of the section could be used to define the base of the Ulantatalian Stage. They include: Eumeryx culminus, Praetragulus gobiae, Desmatolagus pusillus, D. youngi, Didymoconus colgatei, Hyaenodon neimongoliensis, Palaeoscaptor acridens, Selenomys mimicus, Eucricetodon asiaticus, E. meridionalis, Bagacricetodon tongi, Anomoemys lohiculus, Coelodontomys asiaticus, Cyclomylus lohensis, Tsaganomys altaicus, Ageitonomys neimongolensis, Karakoromys decessus, Paracricetops virgatoincisus, Cricetops dormitor, Bohlinosminthus parvulus.\" (Wang et al., 2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Ergilian",
+    "start_ma": 36.57,
+    "end_ma": 33.21,
+    "rank": "ALMA",
+    "description": "ALMA Named after the Erlian Basin (China); and China LMA after the Baiyanghe Fm in that Erlian Basin.  Base estimated as base of Chron C16r on revised diagram of Speijer (15Sept'19).  Had been Younger in GTS2012 at 85% up from the base of the C15r subchron.  \"Fossil mammals from the basal part of the  Xianaogangdai Formation can be used in defining the base of the Baiyininan Stage. They include Entelodon gobiensis, Schizotherium avitum, Embolotherium andrewsi, Zaisanamynodon borisovi, Gigantamynodon giganteus, Urtinotherium intermedium, Parabrontops gobiensis, Ardynia praecox and Proeggysodon qiui.\" (Wang et al., 2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Ulangochuan",
+    "start_ma": 39.67,
+    "end_ma": 36.57,
+    "rank": "ALMA",
+    "description": "Named after Ulan Gochu Fm (Erlian Basin, China). Base estimated as base of subchron C18n.1r on revised diagram of Speijer (15Sept'19).  Had been Much Younger in GTS2012 at 5% up in the C17n.1n subchron. \"taxa restricted to the Ulangochuian land mammal age mainly include Anagale, Mongolestes, Guangxilemur, Heothema chengbiensis, Huananodon hypsodonta, Brachyhyops neimongolensis, Odoichoerus uniconus, Ardynomys olsoni, Gobiomys neimongolensis, Gobiolagus andrewsi, Desmatolagus vetustus, Teleolophus magnus, Juxia shoui, Titanodectes ingens, Embolotherium grangeri, and Hulgana ertinia.\" (Wang et al., 2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Sharamurunian",
+    "start_ma": 41.69,
+    "end_ma": 39.67,
+    "rank": "ALMA",
+    "description": "Base estimated as middle of Chron C19r on revised diagram of Speijer (15Sept'19).  Uncertain, because previously \"base Sharamurunian to upper part C20n\" (Speijer email 7Sept'19 to J.Ogg). \"The Anthracotheriidae of the Artiodactyla greatly diversed, while the Ruminantia appeared and began to differentiate. The oldest representative of the Suidae appeared on the earth (Liu, 2001). The Perissodactyla is still a dominant group in land mammals. The Amynodontidae became the most diversed group, whereas the Deperetellidae and Lophialetidae declined. Rodents of the Eomyidae first appeared, while the Tamquammyidae reduced.\" (Wang et al., 2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Irdinmanhan",
+    "start_ma": 45.4,
+    "end_ma": 41.69,
+    "rank": "ALMA",
+    "description": "Base estimated as ca. 30% up in Chron C20r on revised diagram of Speijer (15Sept'19).  Previously Much Older -- \"Wang et al. (2010) placed this Top Arshantan [=base Irdinmanhan] level in C21r.\" Named after the Irdin Manha Fm (Erlian Basin, China). \"disappearance of condylarthrans in the mammalian faunas of China. In the Perissodactyla, the Deperetellidae and Lophialetidae still flourished, while the  rontotheriidae, Amynodontidae and Hyracodontidae initiated a rapid radiation. The Rodentia has greater diversity with the first appearance of the Cricetidae and the Zapodidae. The Helohyidae of the Artiodactyla first appeared. Among them, taxa restricted to and common in the Irdinmanhan with relatively significant biostratigraphic value include Miacis lushiensis, Harpagolestes, Andrewsarchus mongoliensis, Chungchienia, Propterodon, Gobiohyus, Forstercooperia, Lophialetes, Deperetella, Protitan, Desmatotherium mongoliense, Paracolodon fissus, Asiomys, Yuomys huheboerhensis, Pappocricetodon neimongolensis, Tamquammys fractus, Mimolagus aurorae, Strenulagus, Lushilagus, Erenlagus, Eosimias sinensis and Tarkops mckennai, etc.\" (Wang et al., 2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Arshantan",
+    "start_ma": 52.05,
+    "end_ma": 45.4,
+    "rank": "ALMA",
+    "description": "Base put in C23r.6 at ca. 52 Ma following Wang et al. (2019) -- as recommended by J.Hooker, 30Sept'19.  Previously, was 75% up in the C24r subchron following R. Speijer's 23Sept'19 advice that \"Wang et al. (2010) placed this Top Bumbanian level in the upper part of C24r.\".  Named after the Arshanto Fm (Erlian Basin, China).  BUT, base is debated - 30Sept'19 emails: J.Hooker:  Wang et al (2019) estimate base Arshantan to be in C23r at c.52Ma. followed by R. Speijer: \"I used the only properly published paleomag data (top C24r) in Wang et al. 2010. Apparently, this turned out not compatible with the observation of a presumably older fauna in C24n, so C24r was changed to C23r.  I don�t quite agree with this procedure, but for me a higher placement is fine.  It�s time that this group publishes a full synthesis of all paleomag data relative to the ALMAs. \"  J. Hooker adds: \" I don�t mind which level is used\"   \"Both the Mixodontia and Arctostylopida disappeared, whereas the large archaic ungulates, such as Coryphodontidae and Dinocerata, still persisted. Among the extant mammalian groups, the Perissodactyla significantly diversed and are dominant in the fauna. Most newly appeared families are of Perissodactyla. The perissodactyl families, Lophialetidae and Deperetellidae greatly flourished. Mammalian taxa, common and limited in the Arshantan, include Mesonyx, Mongolonyx, Gobiatherium, Schlosseria, Pappaceras, Litolophus, Erlianomys, Advenimus ulungurensis, Dawsonolagus.\" (Wang et al., 2019).",
+    "is_dashed": true
+  },
+  {
+    "name": "Bumbanian",
+    "start_ma": 56.0,
+    "end_ma": 52.05,
+    "rank": "ALMA",
+    "description": "Base of zone is 30% up in the C24r Chron (= base of Eocene). \"Some modern mammalian groups, such Perissodactyla, Artiodactyla and Primates, first appear. Most fossil mammals found at the Lingchan localities are new forms. Relatively common and representative forms include Hsiangolestes, Hapalodectes hetangensis, Matutinia, Rhombomylus,  Gomphos elkema, Anatolostylops, Heterocoryphodon,  siocoryphodon, Changlelestes, Cocomys, Advenimus hupeiensis, Teilhardina asiatica, Archicebus achilles, Orientolophus, Minchenoletes, Homogalax wutuensis and Pataecops parvus.\" (Wang et al., 2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Gashatan",
+    "start_ma": 59.1,
+    "end_ma": 56.0,
+    "rank": "ALMA",
+    "description": "Base of zone is middle of Chron C26n.",
+    "is_dashed": true
+  },
+  {
+    "name": "Nongshanian",
+    "start_ma": 62.28,
+    "end_ma": 59.1,
+    "rank": "ALMA",
+    "description": "Base estimated as base of Chron C26r on revised diagram of Speijer (15Sept'19) using Wang et al., 2019. Named after the Nongshan Fm (Nanxiong Basin, Guangdong), China.  \"Mixodontia, Arctostylopida and Pastoralodontidae first appear. Mammalian genera known only from the Nongshanian include Asiostylops, Sinostylops, Allostylops, Eosigale,Qipania, Haltictops, Allictops, Mina, Heomys, Interogale, Simplodon, Altilambda, Wanolestes, Ernanodon, Petrolemur, Minchenella, Yuelophus, Radinskya, Pseudanisonchus, Jiangxia, Ganolophus, Ganungulatum, and Yuesthonyx.",
+    "is_dashed": true
+  },
+  {
+    "name": "Shanghuan",
+    "start_ma": 66.04,
+    "end_ma": 62.28,
+    "rank": "ALMA",
+    "description": "Named after the Shanghu Fm (Nanxiong Basin of Guangdong) of China. Base of zone and subzone are base of Cenozoic. \"All the groups of the Shanghuan mammals are new at the ordinal level. The fossils of Anagalida and Mimotonida have a distribution strictly limited in Asia, whereas the oldest and most primitive forms of the Pantodonta, Tillodontia and Mesonychia appeared in the Shanghuan land mammal age. Except for a few species, almost all the mammalian species reported from the Shanghuan deposits have not been recorded in other land mammal ages.\" (Wang et al., 2019)",
+    "is_dashed": true
+  }
+]

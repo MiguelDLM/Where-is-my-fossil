@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Torrejonian",
+    "start_ma": 64.81,
+    "end_ma": 62.22,
+    "rank": "LVF",
+    "description": "FROM CENOZOIC SHEET",
+    "is_dashed": false
+  },
+  {
+    "name": "Puercan",
+    "start_ma": 66.04,
+    "end_ma": 64.81,
+    "rank": "LVF",
+    "description": "Base of Paleocene.  \"Beginning of the Puercan is the FAD of the arctocyonid condylarth Protungulatum (Lofgren et al., 2004).\" (Lucas et al., 2012).  Protungulatum (\"before ungulate\") was a rat-sized mammal considered to be within the arctocyonid (\"bear dog\") family of condylarths (early placenta mammals) -- details on Protungulatum and the Paleocene condylartha at: http://www.paleocene-mammals.de/condylarths.htm.",
+    "is_dashed": false
+  },
+  {
+    "name": "Lancian",
+    "start_ma": 68.49,
+    "end_ma": 66.04,
+    "rank": "LVF",
+    "description": "DASHED -- Diagrammed as about 60% up in Maastrichian by Lucas et al. (2012).  \"Tyrannosaurus rex, Triceratops horridus and Torosaurus latus are index fossils of the Lancian LVA. Centrosaurine ceratopsians are absent in Lancian time, so their last appearance datum is during the Edmontonian. ... Other taxa restricted to the Lancian include numerous mammals, and dinosaurs Ornithomimus velox; Troodon formosus;  Dromaeosaurus albertensis and Saurornitholestes langstoni;  Ankylosaurus magniventris; the hadrosaurid Edmontosaurus annectens; the pachycephalosaurid Pachycephalosaurus wyomingensis (= Stygimoloch spinifer)\" (Lucas, 2012).   Triceratops was the famous three-horned elephant-sized grazing dinosaur -- Triceratops details and image at: http://www.livescience.com/24011-triceratops-facts.html .  Tyrannosaurus rex (\"king\" of \"tyrant lizard\") was the largest known carnivorous dinosaur of \"Jurassic Park\" (but actually end-Cretaceous) renown -- http://www.livescience.com/23868-tyrannosaurus-rex-facts.html .   These dominated North America until the asteroid impact in Yucatan terminated the Mesozoic.",
+    "is_dashed": true
+  },
+  {
+    "name": "Kirtlandian",
+    "start_ma": 75.61,
+    "end_ma": 68.49,
+    "rank": "LVF",
+    "description": "DASHED -- Places at 70% up in Campanian because \" \"Radioisotopic ages and magnetochronology indicate that the Kirtlandian represents approximately 2.2 myr, from about 75 Ma to 72.8 Ma, and coincides with the upper part of magnetochron C33n\" Lucas et al. (2012).  Named after the fossil assemblages from Kirtland Formation in the San Juan Basin, New Mexico. (Lucas et al., 2012).  Pentaceratops (\"five-horned face\") genus of the horned herbivorous ceratopsids was about 6 meters long and probably weighed about 5 tons -- details and image at https://en.wikipedia.org/wiki/Pentaceratops",
+    "is_dashed": true
+  },
+  {
+    "name": "Judithian",
+    "start_ma": 80.09,
+    "end_ma": 75.61,
+    "rank": "LVF",
+    "description": "DASHED -- Placed at 31% up in Campanian because \"Radioisotopic ages indicate it spans about 5 million years, from about 75 to 80 Ma\" (Lucas et al., 2012).  \"Within the Dinosaur Park Formation two principle faunal zones have been recognized: a lower Centrosaurus-Corythosaurus faunal zone (Chasomosaurus russelli, Corythosaurus and Gryposaurus) and an upper Styracosaurus-Lambeosaurus faunal zone (Styracosaurus-Lambeosaurus lambei). A possible third zone, the \"pachyrhinosaurid\"-Lambeosaurus magnicristatus-Chamosaurus irvinensis faunal zone, a subdivision at the top of the upper Styracosaurus-Lambeosaurus fauna zone, may also be formally recognized. These \"zones\" may provide a basis for subdivision of the Judithian LVA.\"  Colepiocephale (\"knuckle head\") is a genus of pachycephalosaur (bipedal, domed-head grazer) -- details and image at https://en.wikipedia.org/wiki/Colepiocephale and for all pachycephlosaurs at http://pachycephalosaurus.org",
+    "is_dashed": true
+  },
+  {
+    "name": "Aquilan",
+    "start_ma": 84.33,
+    "end_ma": 80.09,
+    "rank": "LVF",
+    "description": "DOTTED -- \"biostratigraphic and magnetostratigraphic data have been reinterpreted to indicate that the Aquilian begins in the late Santonian Lillegraven, 1991; Leahy and Lerbekmo, 1995)\".  [put as 2/3rds up in Santonian here]. \"Because of a lack of data, we are unable at this time to use the FAD of a dinosaur species to define the beginning of the Aquilan LVA. Therefore, we use the FAD of a mammal taxon to do this, following the suggestion of Cifelli et al. (2004) to use the FAD of the eutherian insectivore Paranyctoides.\"  (Lucas et al., 2012).  Paranyctoides is the oldest eutherian mamma in North Americal, but is classed as the only eutheria branch without a placenta (but still separate from marsupials) -- technical details at https://www.researchgate.net/publication/262947416_Variation_and_taxonomy_of_Asiamerican_eutherian_mammal_Paranyctoides , and mammal-taxonomy digram at http://tolweb.org/Mammalia/15040 .",
+    "is_dashed": true
+  },
+  {
+    "name": "Fencelakean",
+    "start_ma": 93.9,
+    "end_ma": 84.33,
+    "rank": "LVF",
+    "description": "DOTTED -- diagrammed as base of Turonian in Lucas et al. (2012), although.  \"Fence Lake is a small community in west-central New Mexico near the outcrops of the Moreno Hill Formation that yield the characteristic vertebrate fossil assemblage of the LVA.\" and \"Bracketing marine strata indicate that this assemblage is of middle Turonian. .. As defined here, Fencelakean time extends from the Turonian through the late Santonian. The Fencelakean characteristic assemblage and its Utah correlative, however, only encompass part of this time interval (~ middle Turonian). ... Vertebrates restricted to Fencelakean time include the therizinosaurid Nothronychus mckinleyi; the hadrosauroid Jeyawati rugoculus; and the ceratopsian Zuniceratops christopheri .... However, limited knowledge of principal correlatives makes it impossible to identify index taxa.\"  ).  Zuniceratops was a horned dinosaur, a smaller ancestor to the more famous Triceratops -- details and image at https://en.wikipedia.org/wiki/Zuniceratops",
+    "is_dashed": true
+  },
+  {
+    "name": "Mussentuchian",
+    "start_ma": 101.54,
+    "end_ma": 93.9,
+    "rank": "LVF",
+    "description": "DOTTED -- \"Mussentuchian time encompasses part of the late Albian [90% up used here] and all of the Cenomanian. Although the time interval and the characteristic vertebrate fossil assemblage are distinctive, well known correlative assemblages are difficult to identify at present.\" (Lucas et al., 2012).  Eolambia genus of ornithopod (grazing three-toed) dinosaur are considered a type of iguanodont -- details and image at https://en.wikipedia.org/wiki/Eolambia",
+    "is_dashed": true
+  },
+  {
+    "name": "Cashenranchian",
+    "start_ma": 118.76,
+    "end_ma": 101.54,
+    "rank": "LVF",
+    "description": "DOTTED -- \"Cashenranchian time, based on various data, is equivalent to the late Aptian and Albian\" (Lucas et al., 2012) although they dash the base as about 30% up in Aptian (used here).  Tenontosaurus genus of ornithopod (grazing three-toed) dinosaur are considered a type of iguanodont -- details and image at https://en.wikipedia.org/wiki/Tenontosaurus",
+    "is_dashed": true
+  },
+  {
+    "name": "Buffalogapian",
+    "start_ma": 126.5,
+    "end_ma": 118.76,
+    "rank": "LVF",
+    "description": "DOTTED -- base of Barremian: \"Besides a few dinosaur footprints, Buffalogapian vertebrate assemblages are the oldest nonmarine Cretaceous vertebrate assemblages in the Western Interior. Diverse data ... indicate that Buffalogapian time is equivalent to the Barremian and part of the early Aptian.  Other than the genus Iguanodon, these [other dinosaur] taxa are neither widespread nor abundant enough to be considered index fossils.\" (Lucas et al., 2012).  Iguanodon genus of ornithopod (grazing three-toed) dinosaur were bulky with a distinctive large thumb spikes -- details and image at https://en.wikipedia.org/wiki/Iguanodon",
+    "is_dashed": true
+  },
+  {
+    "name": "Comobluffian / Ningjiagouan",
+    "start_ma": 154.78,
+    "end_ma": 143.1,
+    "rank": "LVF",
+    "description": "DOTTED at base of Kimmeridgian  \"The classic Late Jurassic assemblage in western North America, from the Morrison Formation, is the characteristic assemblage of the Comobluffian LVF of Lucas (1993). It has long been correlated to the Tendaguru Beds of Tanzania and to Upper Jurassic strata in the United Kingdom, Spain and Portugal based largely on shared dinosaur genera, such as Allosaurus, Ceratosaurus and/or Brachiosaurus (Lucas 1993; Mateus 2006). The broad geographic distribution of these genera suggests a single paleobiogeographic province that extended from western North America through western Europe into eastern Africa during the Late Jurassic (e.g., Upchurch et al. 2002). In contrast, the well known Chinese Upper Jurassic tetrapod assemblages are essentially endemic at the generic level, most notably the sauropod dinosaurs. These are tetrapods of the Ningjiagouan LVF of Lucas (1996a) and include uniquely Chinese taxa, such as the turtle Sinemys and the sauropod dinosaur Euhelopus..\" (from Lucas, 2009).  Camarasaurus grandis was the most common of the giant herbivorous sauropods roaming North America in herds, although more \"mid-sized\" than the famous (and rarer) relatives -- details and image at https://en.wikipedia.org/wiki/Camarasaurus.  Allosaurus \"the most dangerous dinosaur of the Jurassic - pound for pound,... the most fearsome meat-eating dinosaur of the Mesozoic.  --  details and image:  http://dinosaurs.about.com/od/typesofdinosaurs/ss/10-Facts-About-Allosaurus.htm  and  https://en.wikipedia.org/wiki/Allosaurus . Brachiosaurus -- about 25 m long and 35-40 tons -- details and image:  http://dinosaurs.about.com/od/typesofdinosaurs/ss/10-Facts-About-Brachiosaurus.htm  and  https://en.wikipedia.org/wiki/Brachiosaurus",
+    "is_dashed": true
+  },
+  {
+    "name": "Tuojianguian",
+    "start_ma": 168.17,
+    "end_ma": 161.53,
+    "rank": "LVF",
+    "description": "DOTTED at base of Bathonian  \"Most of the Middle Jurassic tetrapod record comprises low diversity assemblages dominated by fragmentary remains of large dinosaurs.... These are isolated records whose correlation to each other and to the marine timescale is problematic.  However, even if two LVFs can be recognized in the European Middle Jurassic record, they will only be of provincial use within Europe. Lucas (1996a = Mus. N. Ariz. Bull.) proposed two LVFs for the Middle Jurassic of China, and these are of value to correlation in eastern Asia only (used here).  The younger Tuojianguian LVF has been assigned a Bathonian-Callovian age based on conchostracans (Chen et al. 1982) and is characterized by ... dinosaurs, most notably the stegosaur Tuojiangosaurus, the theropods Szechuanosaurus and Yangchuanosaurus and the sauropods Omeisaurus and Mamenchisaurus.\" (from Lucas, 2009).  Tuojiangosaurus((Greek for \"Tuo river lizard\") was about 6m long and is \"one of the most primitive stegosaurs.  Paleontologists believe stegosaurs--the spiked, plated, elephant-sized herbivorous dinosaurs--originated in Asia, then crossed over to North America during the late Jurassic period\" -- Tuojiangosaurus details and image:  http://dinosaurs.about.com/od/herbivorousdinosaurs/p/tuojiangosaurus.htm  and  https://en.wikipedia.org/wiki/Tuojiangosaurus .",
+    "is_dashed": true
+  },
+  {
+    "name": "Dashanpuan",
+    "start_ma": 170.9,
+    "end_ma": 168.17,
+    "rank": "LVF",
+    "description": "DOTTED at base of Bajocian.  \"Most of the Middle Jurassic tetrapod record comprises low diversity assemblages dominated by fragmentary remains of large dinosaurs.... These are isolated records whose correlation to each other and to the marine timescale is problematic.  However, even if two LVFs can be recognized in the European Middle Jurassic record, they will only be of provincial use within Europe. Lucas (1996a = Mus. N. Ariz. Bull.) proposed two LVFs for the Middle Jurassic of China, and these are of value to correlation in eastern Asia only (used here).  The Dashanpuan LVF may encompass part of Bajocian time based on correlations of charophytes, ostracods, conchostracans and nonmarine bivalves (Chen et al. 1982). It is characterized by a diverse assemblage that includes ... dinosaurs, notably the very primitive stegosaur Huayangosaurus and the sauropods Datousaurus and Shunosaurus\" (from Lucas, 2009).  Huayangosaurus. about 4m long, is the \"most basal stegosaur yet known ... and lived about 20 myr before the best-known stegosaur of them all, the North American Stegosaurus\" -- Huayangosaurus details and image: http://dinosaurs.about.com/od/herbivorousdinosaurs/p/huayangosaurus.htm  and  https://en.wikipedia.org/wiki/Huayangosaurus .",
+    "is_dashed": true
+  },
+  {
+    "name": "Dawan",
+    "start_ma": 196.84,
+    "end_ma": 170.9,
+    "rank": "LVF",
+    "description": "DOTTED at 40% up in Sinemurian \"because the Dawan dinosaur Scelidosaurus is known from Sinemurian marine strata in the United Kingdom.\" \"The Dawan begins with the FAD of the theropod dinosaur Megapnosaurus (�Syntarsus�) (known from Arizona and southern Africa with certainty, and less certainly from China and Europe)\"; although it was introduced (Lucas, 1996) \"as the time equivalent to the vertebrate fossil assemblage of the Lufeng Formation in southern China.\" (Lucas, 2009).  Megapnosaurus (Greek for \"big dead lizard\"), formerly called Syntarsus and related to Coelophysis of late Triassic, ws about 2m long \"By the standards of the early Jurassic period, Megapnosaurus was huge\" -- Megapnosaurus details and image:  http://dinosaurs.about.com/od/carnivorousdinosaurs/p/megapnosaurus.htm .",
+    "is_dashed": true
+  },
+  {
+    "name": "Wassonian",
+    "start_ma": 201.36,
+    "end_ma": 196.84,
+    "rank": "LVF",
+    "description": "The Jurassic begins with the FAD of the carniverous crocodylomorph Protosuchus (meaning \"first crocodile\"), defining the base of the Wassonian LVF.  Protosuchus details and image:  https://en.wikipedia.org/wiki/Protosuchuss .",
+    "is_dashed": false
+  },
+  {
+    "name": "Apachean",
+    "start_ma": 215.29,
+    "end_ma": 201.36,
+    "rank": "LVF",
+    "description": "DASHED -- The Apachean LVF of approximately latest Norian and Rhaetian age is defined by the FAD of the crocodile-like phytosaur Redondasaurus (e.g., Lucas, 2010), the youngest and most evolutionarily-advanced of the phytosaurs.  Redondasaurus details and image:  http://fossil.wikia.com/wiki/Redondasaurus .  Co-occurs with Sevatian-age conchostracans (Kozur and Weems, 2010, p.356 and 360; \"more advanced than those of the uppermost Alaunian, which therefore means that they are Sevatian\"); therefore put at base of Sevatian (Kozur's extended one).",
+    "is_dashed": true
+  },
+  {
+    "name": "Revueltian",
+    "start_ma": 220.0,
+    "end_ma": 215.29,
+    "rank": "LVF",
+    "description": "DOTTED -- The late Carnian and early Norian-age Revultian LVF is characterized by the large (ca. 2m) armored herbivore (even if it looked like crocodile with a tiny head) aetosaur. Typothorax details and image:  https://en.wikipedia.org/wiki/Typothorax .  Considered as Carnian-Norian boundary by Lucas (2010, 2018.); but his \"Norian\" begins at 220 (used here).  \"The array of dated horizons suggests that the \"Adamanian-Revueltian faunal turn-over occurred between 219.37 and 213.15 Ma.� (Ramezani et al., 2009).  Numerical age of 220 Ma used here (also at this date in Lucas, 2010, Fig.1); but maybe 217 (Ramezani) would be better?",
+    "is_dashed": true
+  },
+  {
+    "name": "Adamanian",
+    "start_ma": 232.14,
+    "end_ma": 220.0,
+    "rank": "LVF",
+    "description": "DASHED -- The first occurrences of crocodile-like phytosaur Rutiodon defines the base of the Adamanian LVF.  Rutiodon details and image:  https://en.wikipedia.org/wiki/Rutiodon . The fossil-rich deposits of the Chinle basin of southwest USA are the main reference sections.  Shown in Lucas (2010) as about 40% up in Carnian; and considered by Kozur (2010) as close to base of Laxitextella seegisi conchostracan Zone (used here)",
+    "is_dashed": true
+  },
+  {
+    "name": "Otischalkian",
+    "start_ma": 235.06,
+    "end_ma": 232.14,
+    "rank": "LVF",
+    "description": "DASHED -- The first occurrences of crocodile-like phytosaur Parasuchus (= Paleorhinus) defines the base of the Otischalkian LVF.  Parasuchus details:  https://en.wikipedia.org/wiki/Parasuchus and artists reconstruction at http://eriks.site90.net/diergerelateerd/gondwanabewerkt/parasuchustn.jpg . The fossil-rich deposits of the Chinle basin of southwest USA are the main reference sections.  Shown in Lucas (2010) as about 20% up in Carnian.",
+    "is_dashed": true
+  },
+  {
+    "name": "Berdyankian",
+    "start_ma": 240.12,
+    "end_ma": 235.06,
+    "rank": "LVF",
+    "description": "DASHED -- The Middle Triassic Berdyankian LVF is derived from the lowest occurrence of the huge (ca. 5m) temnospondyl amphibian Mastodonsaurus giganteus in the Ural foreland basin in Russia.  Mastodonsaurus details:  http://www.prehistoric-wildlife.com/species/m/mastodonsaurus.html . Schematically shown as 1/3rd up in Ladinian in Fig.1 of Lucas (2010).",
+    "is_dashed": true
+  },
+  {
+    "name": "Perokvan",
+    "start_ma": 246.7,
+    "end_ma": 241.46,
+    "rank": "LVF",
+    "description": "DASHED -- The Middle Triassic LVFs (Perokvan and Berdyankian) are derived from the lowest occurrences of massive temnospondyl amphibians (tiny Eocyclotosaurus and huge Mastodonsaurus giganteus, respectively) in the Ural foreland basin in Russia.  The Eocyclotosaurus was only about 1m long -- for details and artists reconstruction:  http://www.prehistoric-wildlife.com/species/e/eocyclotosaurus.html . Base of Perovkan put at base of Anisian.",
+    "is_dashed": true
+  },
+  {
+    "name": "Nonesian",
+    "start_ma": 249.88,
+    "end_ma": 246.7,
+    "rank": "LVF",
+    "description": "DASHED -- The base of the Nonesian LVF is placed at the lowest occurrence of the robustly-built land-predator Cynognathus cynodont therapsid, that was closely related to mammals.  Cynognathus details and artists reconstruction:  https://en.wikipedia.org/wiki/Cynognathus .  Base of Nonesian LVF is approximately equivalent to the marine Olenekian Stage.",
+    "is_dashed": true
+  },
+  {
+    "name": "Lootsbergian",
+    "start_ma": 252.4,
+    "end_ma": 249.88,
+    "rank": "LVF",
+    "description": "DASHED -- The Lootsbergian LVF begins in latest Permian (placed here as 0.5 myr below) with the first appearance of Lystrosaurus, a squat, dog-sized, semi-aquatic, dicynodont herbivore that may have been semi-aquatic.  Lystrosaurus details and artists reconstruction: https://en.wikipedia.org/wiki/Lystrosaurus .   The predominant terrestrial or semi-aquatic forms in the Early Triassic were therapsids, a major lineage of synapsids (�fused arch) that are considered to be �mammal-like reptiles�.  Three groups of therapsids survived the end-Permian mass extinction _ cynodonts (�dog-toothed�), dicynodonts (�two dog-toothed�, with two tusks in its upper jaw) and large-skulled therocephalian (�beast head�) carnivores.  The therapsids diminished in importance through the Triassic,",
+    "is_dashed": true
+  },
+  {
+    "name": "Platbergian",
+    "start_ma": 260.03,
+    "end_ma": 252.27,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as about 90% up in Capitanian; but \"In the Russian Tatarian, the Illawarra event is just below the LO of Dicynodon .. If the LO of Dicynodon elsewhere is approximately synchronous ... then the Platgbergian .. is very long, spanning about 14 myr.* (Lucas, 2006)  Dicynodon details: http://fossil.wikia.com/wiki/Dicynodon . \"Dicynodon is the key  ndex taxon of Platbergian time. Pelanomodon and Theriognathus are also restricted to Platbergian time. The LADs of Oudenodon, Aulacephalodon and a variety of tetrapod taxa that become extinct at or just before the Permo-Triassic boundary also help to identify the Platbergian\" (Lucas, 2006)",
+    "is_dashed": true
+  },
+  {
+    "name": "Steilkransian",
+    "start_ma": 261.94,
+    "end_ma": 260.03,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as about 50% up in Capitanian.  Cistecephalus details: http://fossil.wikia.com/wiki/Cistecephalus . \"The Steilkransian LVF begins with the FAD of the dicynodont Cistecephalus. Aulacephalodon is an index taxon of the Steilkransian. The FAD of Oudenodon and the LADs of Cistecephalus, Endothiodon, Gorgonops and Rhachiocephalus also help to identify the Steilkransian\"",
+    "is_dashed": true
+  },
+  {
+    "name": "Hoedemakeran",
+    "start_ma": 263.14,
+    "end_ma": 261.94,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as about 25% up in Capitanian.  Tropidostoma details: http://fossil.wikia.com/wiki/Tropidostoma_Assemblage_Zone .  \"Tropidostoma is an index taxon of Hoedemakeran time. The FADs of Cistecephalus, Kingoria, Lycaenops, Rhachiocephalus and Youngina help to identify the Hoedemakeran\" (Lucas, 2006)",
+    "is_dashed": true
+  },
+  {
+    "name": "Gamkan",
+    "start_ma": 264.34,
+    "end_ma": 263.14,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as base of Capitanian.  Tapinocephalus detais:  http://fossil.wikia.com/wiki/Tapinocephalus . \"Tapinocephalus, various other dinocephalians, Eunotosaurus, Bradysaurus, Elliotsmithia, Pristerognathus and Robertia are some of the betterknown taxa restricted to the Gamkan but they are not robust index fossils. The FADs of Diictodon, Endothiodon, Gorgonops, Ictidosuchoides, Pristerodon, Rhinesuchus and Emydops and the LAD of Alopecodon help to define the Gamkan. The Gamkan is the time of highest dinocephalian diversity.\" (Lucas, 2006)",
+    "is_dashed": true
+  },
+  {
+    "name": "Kapteinskraalian",
+    "start_ma": 269.21,
+    "end_ma": 264.34,
+    "rank": "LVF",
+    "description": "DOTTED -- essentially at base of Wordian in Lucas 2006 (and on Permophiles 2013 chart). Eodicynodon details: http://fossil.wikia.com/wiki/Eodicynodon_Assemblage_Zone .  \"Taxa from the Eodicynodon Assemblage Zone in South Africa are among the most primitive members of their groups, especially the dicynodonts and tapinocephaline dinocephalians. ... . ... The first therapsid-dominated faunas appear suddenly during the early Kazanian, marking what Bakker (1980) aptly termed the �Kazanian revolution� in tetrapod evolution. The Kazanian amphibian fauna consists of some Early Permian holdovers with only a few new appearances (Milner 1990). By the Kazanian, the diapsid reptiles had diversified into their two great clades, the lepidosauromorphs (younginids and tangasaurids) and the archosauromorphs (protorosaurids and proterosuchids). Synapsid reptiles numerically dominated Kazanian tetrapod faunas. Especially abundant were the herbivorous dinocephalians and early anomodonts. Anderson and Cruickshank (1978) identified the Kazanian fauna as the first fully terrestrial tetrapod fauna and termed it the tapinocephalid empire. ... Modesto et al. (1999) and Modesto and Rubidge (2000) have recently argued that anomodont therapsids may have originated in Gondwana because of the diversity of their most primitive representatives in South Africa.\" (Lucas, 2004)",
+    "is_dashed": true
+  },
+  {
+    "name": "Littlecrotonian",
+    "start_ma": 275.71,
+    "end_ma": 275.26,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as about 85% into Kungurian.  Angelosaurus details and image: http://fossil.wikia.com/wiki/Angelosaurus . \"Most of the tetrapod genera of Littlecrotonian age are restricted to the time interval, but only the 'microsaur' Cymatorhiza, the eureptile Rothianiscus...) and the pelycosaur Angelosaurus are widely distributed in Texas-Oklahoma and thus may be relatively robust index taxa.\" (Lucas, 2006)",
+    "is_dashed": true
+  },
+  {
+    "name": "Redtankian",
+    "start_ma": 278.84,
+    "end_ma": 275.71,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as about 50% into Kungurian.  Labidosaurus details and image: http://www.palaeos.org/Labidosaurus_hamatus . Labidosaurus is rare, but \"The FADs of Labidosaurikos and Cotylorhynchus help to define the Redtankian, as do the LADs of Araeoscelis, Broiliellus, Cacops, Captorhinus, Diadectes, Edaphosaurus, Eryops, Seymouria and Varanosaurus.\" (Lucas, 2006)",
+    "is_dashed": true
+  },
+  {
+    "name": "Mitchellcreekian",
+    "start_ma": 281.51,
+    "end_ma": 278.84,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as about 20% into Kungurian.  Mycterosaurus is the most primitive member of family Varanopidae -- details and image: http://fossil.wikia.com/wiki/Mycterosaurus . \"The FAD of Cacops and the LADs of Archeria, Bolosaurus, Brachydectes, Ophiacodon Protocaptorhinus, Pantylus and Varanosaurus also distinguish the Mitchellcreekian (Lucas, 2006)",
+    "is_dashed": true
+  },
+  {
+    "name": "Seymourian",
+    "start_ma": 283.3,
+    "end_ma": 281.51,
+    "rank": "LVF",
+    "description": "DOTTED -- Permophiles 2013 show as base of Kungurian.  Seymouria details and images: http://fossil.wikia.com/wiki/Seymouria . \"Most Early Permian tetrapods are holdovers from the Late Carboniferous. They identify a single paleobiogeographic province (the edaphosaurid empire of Anderson and Cruickshank [1978]or the edaphosaur-nectridean province of Milner [1993]) from the southern region of Euramerica close to the paleoequator.  Lepospondyls, anthracosaurs, seymouriamorphs, cotylosaurs and a variety of pelycosaurs are characteristic Early Permian tetrapods..\" (Lucas, 2004).  \"The microsaurs Carrolla and Pariotichus, and the pelycosaurs Ctenospondylus and Eothyris, are restricted to the Seymouran. However, none of these taxa are abundant or widespread enough to be robust index taxa. The FADs of Protocaptorhinus, Seymouria, Varanosaurus, Secodontosaurus and Araeoscelis, and the LADs of Parioxys, Platyhystrix and Sphenacodon, also distinguish the Seymouran LVF\" (Lucas, 2006)",
+    "is_dashed": true
+  },
+  {
+    "name": "Coyotean",
+    "start_ma": 301.28,
+    "end_ma": 283.3,
+    "rank": "LVF",
+    "description": "DOTTED -- FAD of Sphenacodon 50% above base in Gzhelian Stage. Sphenacodon details and image: http://fossil.wikia.com/wiki/Sphenacodon.  \"Pelycosaurs (meaning \"basin lizards\") were the earliest, and most primitive synapsids ... that appeared in the latest Carboniferous.\" (http://www.enchantedlearning.com/subjects/dinosaurs/glossary/Pelycosaur.shtml). \"The eureptiles Romeria and Protorothyris are restricted to Coyotean time, as are the temnospondyls Chenoprosopus, Edops, Neopteroplax, Neldasaurus and Brevidorsum and the pelycosaur Stereophallodon (Fig. 9). However, none of these taxa are abundant or widespread enough to be robust index taxa.\" (Lucas, 2006).  Dimetrodon spanned entire Early Permian -- \"Dimetrodon was one of the earliest relatives of mammals. The large \"sail\" on its back may have been used for temperature regulation, to attract mates, or to frighten off other animals. Dimetrodon is a member of a group called synapsids. Behind the eye socket in its skull is the synapsid opening. Its function is uncertain, but it may have been a passage for jaw muscles that helped Dimetrodon and other synapsids chew.\" [http://www.amnh.org]",
+    "is_dashed": true
+  },
+  {
+    "name": "Pt 2",
+    "start_ma": 308.24,
+    "end_ma": 301.28,
+    "rank": "LVF",
+    "description": "85% above base in Moscovian Stage; dashed line.  Edaphosauridaa are a family of large (up to 3m) pelycosaurs, and are the earliest known herbivorous tetrapods.  Edaphosauridaa details and image: http://fossil.wikia.com/wiki/Edaphosauridae  \"Pelycosaurs (meaning \"basin lizards\") were the earliest, and most primitive synapsids ... that appeared in the latest Carboniferous.\" (http://www.enchantedlearning.com/subjects/dinosaurs/glossary/Pelycosaur.shtml).",
+    "is_dashed": true
+  },
+  {
+    "name": "Pt 1",
+    "start_ma": 318.04,
+    "end_ma": 308.24,
+    "rank": "LVF",
+    "description": "65% above base in Bashkirian Stage; dashed line.  Nectridea is an order of lepospondyl amphibians from Carboniferous and Permian that resembled modern newts -- Nectridae details and image: http://fossil.wikia.com/wiki/Nectridea",
+    "is_dashed": true
+  },
+  {
+    "name": "Mt 2",
+    "start_ma": 337.85,
+    "end_ma": 318.04,
+    "rank": "LVF",
+    "description": "50% above base in Visean Stage; dashed line.  Anthracosauria were reptile-like amphibians that flourished during the Carboniferous and early Permian.  Anthracosauria details: http://fossil.wikia.com/wiki/Anthracosauria",
+    "is_dashed": true
+  },
+  {
+    "name": "Romer's Gap",
+    "start_ma": 355.53,
+    "end_ma": 337.85,
+    "rank": "LVF",
+    "description": "30% above base in Tournaisian Stage; dashed line.  \"Romer�s Gap refers to a missing bit of the fossil record between the very archaic Devonian tetrapods (basically fish with fingers) and the more classic Carboniferous tetrapods known from places like Greer in West Virginia. The latter tetrapods all have 5 fingers and toes (whereas the Devonian ones can have up to 6 and 8) and are more adapted to live out of the water.\" [http://www.palaeocast.com/romers-gap-fossils/].  But this important step in tetrapod evolution may be just a difficulty finding fossil-bearing strata.",
+    "is_dashed": true
+  },
+  {
+    "name": "D - Mt1",
+    "start_ma": 361.3,
+    "end_ma": 355.53,
+    "rank": "LVF",
+    "description": "Continues into Devonian (base placed arbitrarily at 2myr below Carboniferous)",
+    "is_dashed": true
+  },
+  {
+    "name": "Bothriolepis ciecere (Devon. fish)",
+    "start_ma": 364.61,
+    "end_ma": 361.3,
+    "rank": "LVF",
+    "description": "Base of zone is 55% up in tne Framennian",
+    "is_dashed": false
+  }
+]

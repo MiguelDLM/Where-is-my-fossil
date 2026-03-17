@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Lujanian",
+    "start_ma": 0.79,
+    "end_ma": 0.0,
+    "rank": "SALMA",
+    "description": "Base of zone is 90% up from the base of the C1n subchron",
+    "is_dashed": false
+  },
+  {
+    "name": "Ensenadan",
+    "start_ma": 1.8,
+    "end_ma": 0.79,
+    "rank": "SALMA",
+    "description": "Base of zone at base of Calabrian on GTS2012 chart of Van Dam",
+    "is_dashed": false
+  },
+  {
+    "name": "Uquian (Marplatan)",
+    "start_ma": 3.2,
+    "end_ma": 1.8,
+    "rank": "SALMA",
+    "description": "Base of zone at 3.2 Ma (GTS2012 chart) - fixed at that date",
+    "is_dashed": false
+  },
+  {
+    "name": "Chapadmalalan",
+    "start_ma": 4.01,
+    "end_ma": 3.2,
+    "rank": "SALMA",
+    "description": "Base of zone is 30% up from the base of the C2Ar subchron",
+    "is_dashed": false
+  },
+  {
+    "name": "Montehermosan",
+    "start_ma": 6.8,
+    "end_ma": 4.01,
+    "rank": "SALMA",
+    "description": "Base of zone is ca. 80% up from the base of the C3Ar subchron (6.8 Ma)",
+    "is_dashed": false
+  },
+  {
+    "name": "Huayquerian",
+    "start_ma": 8.7,
+    "end_ma": 6.8,
+    "rank": "SALMA",
+    "description": "Base of zone at 8.7 Ma (GTS2012 chart) - fixed at that date",
+    "is_dashed": false
+  },
+  {
+    "name": "Chasicoan",
+    "start_ma": 9.98,
+    "end_ma": 8.7,
+    "rank": "SALMA",
+    "description": "Base of zone is ca. base of the C5n.1r subchron",
+    "is_dashed": false
+  },
+  {
+    "name": "Mayoan",
+    "start_ma": 11.85,
+    "end_ma": 9.98,
+    "rank": "SALMA",
+    "description": "Base of zone is 50% up from the base of the C5r.3r subchron",
+    "is_dashed": false
+  },
+  {
+    "name": "Laventan",
+    "start_ma": 14.02,
+    "end_ma": 11.85,
+    "rank": "SALMA",
+    "description": "DASHED base at ca. 14.0 Ma is about 0.2 myr below base of Serravallian (used here)",
+    "is_dashed": true
+  },
+  {
+    "name": "Colloncuran",
+    "start_ma": 15.51,
+    "end_ma": 14.02,
+    "rank": "SALMA",
+    "description": "DASHED Base of zone is 60% up from the base of the C5Br subchron",
+    "is_dashed": true
+  },
+  {
+    "name": "\"\"\"Friasian\"\"\"",
+    "start_ma": 16.26,
+    "end_ma": 15.51,
+    "rank": "SALMA",
+    "description": "DASHED Base of zone ca. base of the C5Cn.1n subchron",
+    "is_dashed": true
+  },
+  {
+    "name": "Santacrucian",
+    "start_ma": 16.5,
+    "end_ma": 16.26,
+    "rank": "SALMA",
+    "description": "Base of zone at 16.5 on GTS2012 chart => fixed age used here",
+    "is_dashed": true
+  },
+  {
+    "name": "\"\"\"Pinturan\"\"\"",
+    "start_ma": 18.8,
+    "end_ma": 16.5,
+    "rank": "SALMA",
+    "description": "Base of zone at 18.8 on GTS2012 chart => fixed age used here",
+    "is_dashed": true
+  },
+  {
+    "name": "Colhuehuapian",
+    "start_ma": 20.98,
+    "end_ma": 18.8,
+    "rank": "SALMA",
+    "description": "Base of zone at ca. 40% up in C6Ar on GTS2012 chart",
+    "is_dashed": true
+  },
+  {
+    "name": "Deseadan",
+    "start_ma": 29.97,
+    "end_ma": 24.0,
+    "rank": "SALMA",
+    "description": "Extended downward to base of Chron C11n (Speijer diagram to J.Ogg 3Sept2019); although Base of zone was 80% up in the C9r subchron in GTS2012.",
+    "is_dashed": true
+  },
+  {
+    "name": "Pre-Deseadan",
+    "start_ma": 30.98,
+    "end_ma": 29.97,
+    "rank": "SALMA",
+    "description": "Top of zone dashed at base of C12n subchron (Speijer diagram to J.Ogg 3Sept2019)",
+    "is_dashed": true
+  },
+  {
+    "name": "Tinguirirican",
+    "start_ma": 33.73,
+    "end_ma": 30.98,
+    "rank": "SALMA",
+    "description": "Base of zone dashed at base of C13n subchron (Speijer diagram to J.Ogg 3Sept2019); but Base of zone was 55% up in the C12r subchron in GTS2012.",
+    "is_dashed": true
+  },
+  {
+    "name": "Mustersan",
+    "start_ma": 38.4,
+    "end_ma": 37.53,
+    "rank": "SALMA",
+    "description": "DASH - Base of Mustersan put at base of C17r based on Dunn et al., 2013 dating. \"Mustersan is borderline basal Priabonian at 38Ma, although it�s difficult to see which normal polarity interval is involved.\" (Speijer's chart sent 3Sept'19).  Was higher at base of Chron C17n.1n = base of Priabonian in GTS2012.",
+    "is_dashed": true
+  },
+  {
+    "name": "Barrancan",
+    "start_ma": 41.69,
+    "end_ma": 38.4,
+    "rank": "SALMA",
+    "description": "DASH - Base should be lowered to mid Chron C19r (Speijer 6Sept'19 email to J.Ogg) \"According to the radiometric dates (39-c.41), Barrancan is all within the Bartonian according to the candidate base (Ogg et al. 2016) and +/- fitting the palaeomag at the top.\" (Speijer, 3Sept'19 email to J.Ogg)",
+    "is_dashed": true
+  },
+  {
+    "name": "Vacan",
+    "start_ma": 45.4,
+    "end_ma": 41.69,
+    "rank": "SALMA",
+    "description": "Base of zone is ca.30% up in C20r.  \"Krause et al. (2017) dealt with the magnetostrat and geochronology of Patagonian faunas and suggest much younger ages for Riochican and Vacan and considered Sapoan not suitable as time interval.\" (Speijer, 3Sept'19 to J.Ogg)",
+    "is_dashed": true
+  },
+  {
+    "name": "Riochican",
+    "start_ma": 47.15,
+    "end_ma": 45.4,
+    "rank": "SALMA",
+    "description": "Base of zone is ca.40% up in Chron C21n.  \"Krause et al. (2017) dealt with the magnetostrat and geochronology of Patagonian faunas and suggest much younger ages for Riochican and Vacan and considered Sapoan not suitable as time interval.\" (Speijer, 3Sept'19 to J.Ogg).  Diagram in Krause et al'17 indicates overlap of upper Riiochican and much of the Vacan fauna.",
+    "is_dashed": true
+  },
+  {
+    "name": "Itaboraian",
+    "start_ma": 56.0,
+    "end_ma": 51.4,
+    "rank": "SALMA",
+    "description": "DASH at 56 Ma (hard age) - J.Hooker (30Sept'19): \"According to Krause et al. 2017, the Itaboraian (based on correlation with the Las Flores fauna) is approx. from 51.4-56Ma.  \"R. Speijer reply: \"Fine with me. (I had retained the younger range in Woodburne et al. 2014b)\" which had been base at middle of Chron C24n.2r",
+    "is_dashed": true
+  },
+  {
+    "name": "Carodnia Zone",
+    "start_ma": 62.63,
+    "end_ma": 61.67,
+    "rank": "SALMA",
+    "description": "DASH - Base is ca. 90% up in Chron C27r using Woodburne et al'14 sketch. \"Even though there is doubt over which Chron(s) are involved over the Tiupampan, Peligran and Carodnia Zone, all three appear to succeed one another within the Danian,\"",
+    "is_dashed": true
+  },
+  {
+    "name": "Peligran",
+    "start_ma": 63.92,
+    "end_ma": 63.23,
+    "rank": "SALMA",
+    "description": "DASH - Base of Pelegran is ca. 65% up in Chron C27n using Woodburne et al'14 sketch. \"Even though there is doubt over which Chron(s) are involved over the Tiupampan, Peligran and Carodnia Zone, all three appear to succeed one another within the Danian,\"",
+    "is_dashed": true
+  },
+  {
+    "name": "Tiupampan",
+    "start_ma": 64.84,
+    "end_ma": 64.15,
+    "rank": "SALMA",
+    "description": "DASH - Base of Tiupampan is ca. 10% up in Chron C28r using Woodburne et al'14 sketch. \"Even though there is doubt over which Chron(s) are involved over the Tiupampan, Peligran and Carodnia Zone, all three appear to succeed one another within the Danian,\"",
+    "is_dashed": true
+  },
+  {
+    "name": "Grenier Farm",
+    "start_ma": 65.94,
+    "end_ma": 65.7,
+    "rank": "SALMA",
+    "description": "DASH - Base of Granier Farm is ca. 65% up in Chron C29r = base of Cenozoic",
+    "is_dashed": true
+  },
+  {
+    "name": "Alamitan",
+    "start_ma": 72.3,
+    "end_ma": 68.54,
+    "rank": "SALMA",
+    "description": "DOTTED - Base of Alamitan is ca. 75% up in Chron C32n.2n.",
+    "is_dashed": true
+  }
+]
