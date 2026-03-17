@@ -1,11 +1,11 @@
 {
-    "name": "where_is_my_fossil",
-    "short_name": "where_is_my_fossil",
+    "name": "Where is my fossil?",
+    "short_name": "WIMF",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Explore the world of fossils, find museums, and track your geological finds.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
