@@ -309,6 +309,11 @@
   "pbdbOccurrenceId": "PBDB Occurrence ID",
   "viewFullDetails": "View Full Details",
   "reference": "Reference",
+  "references": "References",
+  "additionalResources": "Additional resources for this taxon",
+  "authorship": "Authorship",
+  "paleobiologyDatabase": "Paleobiology Database",
+  "checklistBank": "ChecklistBank",
   "viewMediaAndReferences": "View Media and References",
   "location": "Location",
   "viewOnApp": "View on Where is my fossil",
@@ -608,5 +613,11 @@
   "loginAlreadyRegisteredBody": "If you have already registered as a professional, you do not need to do so again.\n\nUse the normal Sign In instead.",
   "loginNormalSignIn": "Normal Sign In",
   "loginContinueRegistration": "Continue Registration",
-  "featureStep6": "GPlates paleomaps — reconstruct fossil locations on ancient continental configurations."
+  "featureStep6": "GPlates paleomaps — reconstruct fossil locations on ancient continental configurations.",
+  "plazi": "Plazi",
+  "gbif": "GBIF",
+  "specimens": "Specimens",
+  "specimenLocations": "Specimen Locations",
+  "noReferenceSpecimens": "No reference specimens found.",
+  "loadMore": "Load more"
 }

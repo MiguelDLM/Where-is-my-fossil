@@ -300,6 +300,11 @@
   "pbdbOccurrenceId": "ID Occorrenza PBDB",
   "viewFullDetails": "Visualizza Dettagli Completi",
   "reference": "Riferimento",
+  "references": "Riferimenti",
+  "additionalResources": "Risorse aggiuntive per questo taxon",
+  "authorship": "Autore",
+  "paleobiologyDatabase": "Paleobiology Database",
+  "checklistBank": "ChecklistBank",
   "viewMediaAndReferences": "Visualizza Media e Riferimenti",
   "viewOnApp": "Visualizza in Where is my fossil",
   "opportunities": "Opportunità Paleontologiche",
@@ -600,5 +605,11 @@
   "loginAlreadyRegisteredBody": "Se ti sei già registrato come professionista, non è necessario farlo di nuovo.\n\nUsa il normale accesso.",
   "loginNormalSignIn": "Accesso normale",
   "loginContinueRegistration": "Continua la registrazione",
-  "featureStep6": "Paleocarte GPlates — ricostruisci le posizioni dei fossili sulle antiche configurazioni continentali."
+  "featureStep6": "Paleocarte GPlates — ricostruisci le posizioni dei fossili sulle antiche configurazioni continentali.",
+  "plazi": "Plazi",
+  "gbif": "GBIF",
+  "specimens": "Esemplari",
+  "specimenLocations": "Posizioni degli Esemplari",
+  "noReferenceSpecimens": "Nessun esemplare di riferimento trovato.",
+  "loadMore": "Carica altro"
 }

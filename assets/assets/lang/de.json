@@ -448,6 +448,11 @@
   "quartzite": "Quarzit",
   "quaternary": "Quartär",
   "reference": "Referenz",
+  "references": "Referenzen",
+  "additionalResources": "Zusätzliche Ressourcen für dieses Taxon",
+  "authorship": "Urheberschaft",
+  "paleobiologyDatabase": "Paleobiology Database",
+  "checklistBank": "ChecklistBank",
   "resetAllFilters": "Alle Filter zurücksetzen",
   "resetTree": "Baum zurücksetzen",
   "retry": "Wiederholen",
@@ -600,5 +605,11 @@
   "loginAlreadyRegisteredBody": "Wenn du dich bereits als Fachkraft registriert hast, musst du das nicht erneut tun.\n\nVerwende stattdessen die normale Anmeldung.",
   "loginNormalSignIn": "Normale Anmeldung",
   "loginContinueRegistration": "Registrierung fortsetzen",
-  "featureStep6": "GPlates-Paläokarten — Fossilfundorte auf antiken Kontinentalrekonstruktionen visualisieren."
+  "featureStep6": "GPlates-Paläokarten — Fossilfundorte auf antiken Kontinentalrekonstruktionen visualisieren.",
+  "plazi": "Plazi",
+  "gbif": "GBIF",
+  "specimens": "Exemplare",
+  "specimenLocations": "Exemplarstandorte",
+  "noReferenceSpecimens": "Keine Referenzexemplare gefunden.",
+  "loadMore": "Mehr laden"
 }

@@ -446,6 +446,11 @@
   "quartzite": "Κουαρτσίτης",
   "quaternary": "Τεταρτογενής",
   "reference": "Αναφορά",
+  "references": "Παραπομπές",
+  "additionalResources": "Πρόσθετες πηγές για αυτό το ταξινομικό γκρουπ",
+  "authorship": "Πατρότητα",
+  "paleobiologyDatabase": "Paleobiology Database",
+  "checklistBank": "ChecklistBank",
   "resetAllFilters": "Επαναφορά όλων των φίλτρων",
   "resetTree": "Επαναφορά δέντρου",
   "retry": "Επανάληψη",
@@ -600,5 +605,11 @@
   "loginAlreadyRegisteredBody": "Αν έχετε ήδη εγγραφεί ως επαγγελματίας, δεν χρειάζεται να το κάνετε ξανά.\n\nΧρησιμοποιήστε την κανονική σύνδεση.",
   "loginNormalSignIn": "Κανονική σύνδεση",
   "loginContinueRegistration": "Συνέχεια εγγραφής",
-  "featureStep6": "Παλαιογεωγραφικοί χάρτες GPlates — αναπαράσταση θέσεων απολιθωμάτων σε αρχαίες ηπειρωτικές διατάξεις."
+  "featureStep6": "Παλαιογεωγραφικοί χάρτες GPlates — αναπαράσταση θέσεων απολιθωμάτων σε αρχαίες ηπειρωτικές διατάξεις.",
+  "plazi": "Plazi",
+  "gbif": "GBIF",
+  "specimens": "Δείγματα",
+  "specimenLocations": "Τοποθεσίες Δειγμάτων",
+  "noReferenceSpecimens": "Δεν βρέθηκαν δείγματα αναφοράς.",
+  "loadMore": "Φόρτωση περισσότερων"
 }

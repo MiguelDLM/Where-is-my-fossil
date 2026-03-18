@@ -291,6 +291,11 @@
   "pbdbOccurrenceId": "PBDB出现ID",
   "viewFullDetails": "查看完整详情",
   "reference": "参考",
+  "references": "参考文献",
+  "additionalResources": "该分类群的补充资源",
+  "authorship": "著作权",
+  "paleobiologyDatabase": "Paleobiology Database",
+  "checklistBank": "ChecklistBank",
   "viewMediaAndReferences": "查看媒体和参考",
   "location": "位置",
   "viewOnApp": "在我的化石在哪里查看",
@@ -600,5 +605,11 @@
   "loginAlreadyRegisteredBody": "如果您已经注册为专业人士，则无需再次注册。\n\n请使用普通登录。",
   "loginNormalSignIn": "普通登录",
   "loginContinueRegistration": "继续注册",
-  "featureStep6": "GPlates 古地图 — 在古大陆重建图上可视化化石产地位置。"
+  "featureStep6": "GPlates 古地图 — 在古大陆重建图上可视化化石产地位置。",
+  "plazi": "Plazi",
+  "gbif": "GBIF",
+  "specimens": "标本",
+  "specimenLocations": "标本位置",
+  "noReferenceSpecimens": "未找到参考标本。",
+  "loadMore": "加载更多"
 }

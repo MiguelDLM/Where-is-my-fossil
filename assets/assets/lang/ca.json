@@ -300,6 +300,11 @@
   "pbdbOccurrenceId": "ID d'Ocurrència PBDB",
   "viewFullDetails": "Veure Detalls Complets",
   "reference": "Referència",
+  "references": "Referències",
+  "additionalResources": "Recursos addicionals per a aquest tàxon",
+  "authorship": "Autoria",
+  "paleobiologyDatabase": "Paleobiology Database",
+  "checklistBank": "ChecklistBank",
   "viewMediaAndReferences": "Veure mitjans i referències",
   "viewOnApp": "Veure a Where is my fossil",
   "opportunities": "Oportunitats Paleontològiques",
@@ -600,5 +605,11 @@
   "loginAlreadyRegisteredBody": "Si ja t'has registrat com a professional, no cal fer-ho de nou.\n\nUtilitza l'inici de sessió normal.",
   "loginNormalSignIn": "Inici de sessió normal",
   "loginContinueRegistration": "Continua el registre",
-  "featureStep6": "Paleomapes GPlates — reconstrueix ubicacions de fòssils sobre configuracions continentals antigues."
+  "featureStep6": "Paleomapes GPlates — reconstrueix ubicacions de fòssils sobre configuracions continentals antigues.",
+  "plazi": "Plazi",
+  "gbif": "GBIF",
+  "specimens": "Especímens",
+  "specimenLocations": "Ubicacions d'Especímens",
+  "noReferenceSpecimens": "No s'han trobat especímens de referència.",
+  "loadMore": "Carrega més"
 }

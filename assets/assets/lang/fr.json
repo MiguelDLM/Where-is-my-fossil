@@ -447,6 +447,11 @@
   "ratifiedGSSACategories": "Âge stratigraphique standard global",
   "ratifiedGSSPCategories": "Section et point stratotype de limite globale",
   "reference": "Référence",
+  "references": "Références",
+  "additionalResources": "Ressources supplémentaires pour ce taxon",
+  "authorship": "Auteur",
+  "paleobiologyDatabase": "Paleobiology Database",
+  "checklistBank": "ChecklistBank",
   "resetAllFilters": "Réinitialiser tous les filtres",
   "resetTree": "Réinitialiser l'arbre",
   "retry": "Réessayer",
@@ -600,5 +605,11 @@
   "loginAlreadyRegisteredBody": "Si vous êtes déjà inscrit en tant que professionnel, vous n'avez pas besoin de le faire à nouveau.\n\nUtilisez la connexion normale.",
   "loginNormalSignIn": "Connexion normale",
   "loginContinueRegistration": "Continuer l'inscription",
-  "featureStep6": "Paléocartes GPlates — reconstituez les positions des fossiles sur les configurations continentales anciennes."
+  "featureStep6": "Paléocartes GPlates — reconstituez les positions des fossiles sur les configurations continentales anciennes.",
+  "plazi": "Plazi",
+  "gbif": "GBIF",
+  "specimens": "Spécimens",
+  "specimenLocations": "Emplacements des Spécimens",
+  "noReferenceSpecimens": "Aucun spécimen de référence trouvé.",
+  "loadMore": "Charger plus"
 }
